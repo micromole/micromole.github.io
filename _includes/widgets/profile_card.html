@@ -87,6 +87,12 @@
                             <i class="fab fa-bluesky"></i> Bluesky
                         </a>
                         {% endif %}
+                         
+                           {% if site.data.profile.researchgate %}
+                        <a class="pr-3 no-break" target="_blank" href="https://www.researchgate.net/profile/{{ site.data.profile.researchgate }}">
+                            <i class="fab fa-researchgate"></i> ResearchGate
+                        </a>
+                        {% endif %}
                         
                         {% if site.data.profile.linkedin %}
                         <a class="pr-3 no-break" target="_blank" href="https://www.linkedin.com/in/{{ site.data.profile.linkedin }}">
