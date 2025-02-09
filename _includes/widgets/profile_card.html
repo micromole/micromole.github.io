@@ -82,6 +82,12 @@
                         </a>
                         {% endif %}
 
+                        {% if site.data.profile.bluesky %}
+                        <a class="pr-3 no-break" target="_blank" href="https://bsky.app/profile/{{ site.data.profile.bluesky }}">
+                            <i class="fa-brands fa-bluesky"></i> Bluesky
+                        </a>
+                        {% endif %}
+                        
                         {% if site.data.profile.linkedin %}
                         <a class="pr-3 no-break" target="_blank" href="https://www.linkedin.com/in/{{ site.data.profile.linkedin }}">
                             <i class="fab fa-linkedin"></i> LinkedIn
