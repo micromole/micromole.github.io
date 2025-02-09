@@ -13,6 +13,7 @@ cv_link: assets/Han Yang CV.pdf
 gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: your_github_id
 twitter: your_twitter_id  # Do not include the '@' symbol
+bluesky: your_bluesky_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
