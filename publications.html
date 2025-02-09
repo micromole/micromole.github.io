@@ -8,6 +8,10 @@ body_attr: >-
 
 {% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
 
+</nav>
+    <div class="container">
+        
+
 <div class="row">
     <div class="col-12 col-lg-10">
         <div class="bd-callout bd-callout-info bg-white shadow-sm">
