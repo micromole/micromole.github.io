@@ -42,12 +42,17 @@ education:
   logo: /assets/images/badges/MIT_Social_circle.png
   position: >- 
     Department of Electrical Engineering and Computer Science <br/>
+  date: 2014 - 2016
+- name: Massachusetts Institute of Technology
+  logo: /assets/images/badges/MIT_Social_circle.png
+  position: >- 
+    Department of Electrical Engineering and Computer Science <br/>
     Ph.D. Student
-  date: Sep. 2024 - present
+  date: 2009 - 2014
 - name: Peking University
   logo: /assets/images/badges/PKU_red.png
   position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  date: 2001 - 2007
 
  #experience:
 # - name: Peking University
