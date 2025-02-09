@@ -1,17 +1,17 @@
 ---
-title:          "There be dragons"
-date:           2024-06-01 00:01:00 +0800
+title:          "XXXXX There be dragons YLorem ipsum: Dolor sit amet, consectetur adipiscing elit"
+date:           2024-09-05 00:01:00 +0800
 selected:       true
-pub:            "International Journal"
+pub:            "Nature Communications"
 pub_date:       "2024"
 abstract: >-
-  First try to ad new stuff.
-cover:          /assets/images/covers/cover3.jpg
+  Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
+cover:          /assets/images/covers/cover1.jpg
 authors:
-  - Your Name
-  - James Wang
-  - Some Other Name
-  - John Doe
+- Your Name*
+- Robert White*
+- John Doe
+- Charles Green (Stanford)
 links:
-  Code: https://github.com/luost26/academic-homepage
- ---
+  Paper: https://www.cell.com
+---
