@@ -7,7 +7,7 @@ images:
 - src: https://picsum.photos/seed/first1111/800/800
   title: Photo 1
   desc: Description 1.
-  link: https://picsum.photos/
+  link: assets/images/etc/
 - src: https://picsum.photos/seed/second22/800/800
   title: Photo 2
   desc: Description 2
