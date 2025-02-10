@@ -23,8 +23,7 @@
                 {% endif %}
                 {% endfor %}
             
-            {% for dim in item.dimensions %}
-        {% if dim[1] %}
+            {% if item.dimensions %}
             <span class="__dimensions_badge_embed__" data-doi="{{ dim[1] | replace:'https://doi.org/', '' }}" data-style="small_rectangle"></span>
         {% endif %}
     {% endfor %}
@@ -54,7 +53,7 @@
                     {% endif %}
                     {% endfor %}
 
-                     {% for dim in item.dimensions %}
+                     {% if item.dimensions %}
         {% if dim[1] %}
             <span class="__dimensions_badge_embed__" data-doi="{{ dim[1] | replace:'https://doi.org/', '' }}" data-style="small_rectangle"></span>
         {% endif %}
