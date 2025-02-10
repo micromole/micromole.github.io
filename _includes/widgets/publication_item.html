@@ -24,7 +24,7 @@
                 {% endfor %}
             
             {% if item.dimensions %}
-            <span class="__dimensions_badge_embed__" data-doi="{{ dim[1] | replace:'https://doi.org/', '' }}" data-style="small_rectangle"></span>
+            <span class="__dimensions_badge_embed__" data-doi="{{ item.dimensions | replace:'https://doi.org/', '' }}" data-style="small_rectangle"></span>
         {% endif %}
    
            </p>
@@ -53,7 +53,7 @@
                     {% endfor %}
 
                      {% if item.dimensions %}
-            <span class="__dimensions_badge_embed__" data-doi="{{ dim[1] | replace:'https://doi.org/', '' }}" data-style="small_rectangle"></span>
+            <span class="__dimensions_badge_embed__" data-doi="{{ item.dimensions | replace:'https://doi.org/', '' }}" data-style="small_rectangle"></span>
         {% endif %}
    
                 </p>
