@@ -1,22 +1,19 @@
 ---
-title:          "Publication without <em>cat's meow</em> cover image $\LaTeX$"
-date:           2024-01-1 00:01:00 +0800
+title:          "Schildkäfer mit flauschigem Schutzmantel"
+date:           2023-01-1 00:01:00 +0800
 selected:       false
-pub:            "International Conference on Learning Representations (ICLR)"
+pub:            "BIOspektrum"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
-pub_date:       "2024"
+pub_date:       "2023"
 
 abstract: >-
-  When the cover image is not provided, it will generate a random colorful bubble images as the cover image using the <code>bubble_visual_hash.js</code> script.
-# cover:          /assets/images/covers/cover3.jpg
+  Literature review of Berasategui A et al., Curr Biol (2022).
+  cover:          /assets/images/covers/cover_schild2.jpg
 authors:
-  - Your Name
-  - James Wang
-  - Some Other Name
-  - John Doe
+  - Weinhold A
 links:
-  Code: https://github.com/luost26/bubble-visual-hash
-  Demo: https://luost26.github.io/bubble-visual-hash
+  Springer: https://link.springer.com/article/10.1007/s12268-023-1890-2
+  pdf: https://www.biospektrum.de/system/files/magazine_article/2023/02/files/89180/89180.pdf
 ---
