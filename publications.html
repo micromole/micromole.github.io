@@ -15,10 +15,16 @@ body_attr: >-
 </blockquote>
 
 <!-- Cover Image container -->
-<div class="d-flex justify-content-start gap-2 mt-3">
-    <img src="/assets/images/covers/cover_PCE.jpg" alt="Image 1" class="img-fluid" style="width: 50px; height: 50px;">
-    <img src="/assets/images/covers/cover_PCE.jpg" alt="Image 2" class="img-fluid" style="width: 50px; height: 50px;">
-    <img src="/assets/images/covers/cover_PCE.jpg" alt="Image 3" class="img-fluid" style="width: 50px; height: 50px;">
+<div class="row no-gutters mt-3">
+    <div class="col-md-3 col-xl-2">
+        <img src="/assets/images/covers/cover_PCE.jpg" alt="Image 1" class="w-100 rounded-sm">
+    </div>
+    <div class="col-md-3 col-xl-2">
+        <img src="/assets/images/covers/cover_PCE.jpg" alt="Image 2" class="w-100 rounded-sm">
+    </div>
+    <div class="col-md-3 col-xl-2">
+        <img src="/assets/images/covers/cover_PCE.jpg" alt="Image 3" class="w-100 rounded-sm">
+    </div>
 </div>
 
 {% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
