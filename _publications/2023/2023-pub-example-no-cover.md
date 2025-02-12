@@ -10,7 +10,7 @@ pub_date:       "2023"
 
 abstract: >-
   Literature review of Berasategui A et al., Curr Biol (2022).
-  cover:          /assets/images/covers/cover_schild2.jpg
+cover:          /assets/images/covers/cover_schild2.jpg
 authors:
   - Weinhold A
 links:
