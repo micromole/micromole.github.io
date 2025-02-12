@@ -1,5 +1,5 @@
 ---
-title:          "Publication without *cover* image"
+title:          "Publication without <em>cat's meow</em> cover image $\LaTeX$"
 date:           2024-01-1 00:01:00 +0800
 selected:       false
 pub:            "International Conference on Learning Representations (ICLR)"
