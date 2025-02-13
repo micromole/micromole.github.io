@@ -3,9 +3,9 @@ secondary_name: ""
 navbar_name: "Microbial Molecular Ecologist"
 
 positions:
-- logo: /assets/images/logo/icon_LMU.png   # Logo is optional
+- logo: /assets/logo/icon_LMU.png   # Logo is optional
   name: Position 1 with logo
-- logo: /assets/images/logo/icon_DFG.png  # Logo is optional
+- logo: /assets/logo/icon_DFG.png  # Logo is optional
   name: Position 2 without logo
 
 
@@ -50,7 +50,7 @@ education:
     Ph.D. Student
   date: 2009 - 2014
 - name: Peking University
-  logo: /assets/images/logo/icon_MR.png
+  logo: /assets/logo/icon_MR.png
   position: B.S. in Computer Science
   date: 2001 - 2007
 
