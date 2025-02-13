@@ -6,7 +6,7 @@ positions:
 - logo: /assets/logo/icon_LMU.png   # Logo is optional
   name: LMU Munich
 - logo: /assets/logo/icon_DFG.png  # Logo is optional
-  name: since 2025 Principal investigator (PI) DFG project
+  name: Project Principal investigator (since 2025)
 
 
 email: "arne.weinhold@bio.lmu.de"
@@ -49,23 +49,23 @@ education:
     Department of Electrical Engineering and Computer Science <br/>
     Ph.D. Student
   date: 2009 - 2014
-- name: Peking University
+- name: Philipps-University Marburg
   logo: /assets/logo/icon_MR.png
-  position: B.S. in Computer Science
+  position: Dipl. Biol.
   date: 2001 - 2007
-- name: Peking University
+- name: MPI for Terrestrial Microbiology
   logo: /assets/logo/icon_MPIMR.png
   position: B.S. in Computer Science
-  date: 2001 - 2007
+  date: 2006 - 2007
 
 experience:
  - name: Collaborative Research Centre 973
    logo: /assets/logo/icon_SFB2.png
-   position: Postdoc
+   position: Postdoctoral Researcher
    date: 2017 - 2020
  - name: MPI for Chemical Ecology
    logo: /assets/logo/icon_ICE.png
-   position: Postdoc
+   position: Postdoctoral Researcher
    date: 2014 - 2016
 
 awards:
