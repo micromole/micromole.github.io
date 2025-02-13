@@ -24,7 +24,20 @@ body_attr: >-
         </div>
     </div>
 </div>
+<style>
+/* Default sizes for larger screens */
+.small-img {
+    height: 120px;
+    width: auto;
+}
 
+/* Smaller sizes for screens below 576px (Bootstrap's xs breakpoint) */
+@media (max-width: 576px) {
+    .small-img {
+        height: 80px; /* Adjust as needed */
+    }
+}
+</style>
 
 {% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
 
