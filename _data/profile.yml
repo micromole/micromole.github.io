@@ -3,24 +3,24 @@ secondary_name: ""
 navbar_name: "Microbial Molecular Ecologist"
 
 positions:
-- logo: /assets/images/logo/icon_LMU.jpg   # Logo is optional
+- logo: /assets/images/logo/icon_LMU.png   # Logo is optional
   name: Position 1 with logo
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- logo: /assets/images/logo/icon_DFG.png  # Logo is optional
   name: Position 2 without logo
 
 
-email: "your@email.com"
-cv_link: assets/Han Yang CV.pdf
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
-bluesky: your_bluesky_id  # Do not include the '@' symbol
+email: "arne.weinhold@bio.lmu.de"
+#cv_link: assets/Han Yang CV.pdf
+gscholar: JzVuBk4AAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: micromole
+twitter: pundemics  # Do not include the '@' symbol
+bluesky: micromole.bsky.social  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-researchgate: your-researchgate-id
+researchgate: Arne-Weinhold
 # linkedin: your-linked-in-id
-orcid: 0000-0000-0000-0000
+orcid: 0000-0001-9999-7450
 
 short_bio_text_justify: false
 short_bio: >-
@@ -39,18 +39,18 @@ portrait_caption: >-
 
 education:
 - name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/logo/icon_LMU.png
   position: >- 
     Department of Electrical Engineering and Computer Science <br/>
   date: 2014 - 2016
 - name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/logo/icon_ICE.png
   position: >- 
     Department of Electrical Engineering and Computer Science <br/>
     Ph.D. Student
   date: 2009 - 2014
 - name: Peking University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/logo/icon_MR.png
   position: B.S. in Computer Science
   date: 2001 - 2007
 
