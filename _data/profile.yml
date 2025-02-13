@@ -56,8 +56,16 @@ education:
 
 experience:
  - name: Peking University
-   logo: /assets/images/badges/PKU_red.png
+   logo: /assets/logo/icon_LMU.png
    position: Research Intern
+   date: Sep. 2019 - Jul. 2021
+ - name: Peking University2
+   logo: /assets/logo/icon_FU.png
+   position: Research Intern
+   date: Sep. 2019 - Jul. 2021
+ - name: Peking University3
+   logo: /assets/logo/icon_ICE.png
+   position: Research Intern3
    date: Sep. 2019 - Jul. 2021
 
 awards:
