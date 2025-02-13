@@ -4,9 +4,9 @@ navbar_name: "Microbial Molecular Ecologist"
 
 positions:
 - logo: /assets/logo/icon_LMU.png   # Logo is optional
-  name: Position 1 with logo
+  name: LMU Munich
 - logo: /assets/logo/icon_DFG.png  # Logo is optional
-  name: Position 2 without logo
+  name: since 2025 Principal investigator (PI) DFG project
 
 
 email: "arne.weinhold@bio.lmu.de"
@@ -59,18 +59,14 @@ education:
   date: 2001 - 2007
 
 experience:
- - name: Peking University
-   logo: /assets/logo/icon_LMU.png
-   position: Research Intern
-   date: Sep. 2019 - Jul. 2021
- - name: Peking University2
-   logo: /assets/logo/icon_SFB.png
-   position: Research Intern
-   date: Sep. 2019 - Jul. 2021
- - name: Peking University3
+ - name: Collaborative Research Centre 973
+   logo: /assets/logo/icon_SFB2.png
+   position: Postdoc
+   date: 2017 - 2020
+ - name: MPI for Chemical Ecology
    logo: /assets/logo/icon_ICE.png
-   position: Research Intern3
-   date: Sep. 2019 - Jul. 2021
+   position: Postdoc
+   date: 2014 - 2016
 
 awards:
 - name: <strong>The National Encouragement Scholarship</strong>(Top 4% Nationwide)🚩
