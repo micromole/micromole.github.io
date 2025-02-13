@@ -39,7 +39,7 @@ portrait_caption: >-
 
 education:
 - name: Massachusetts Institute of Technology
-  logo: /assets/logo/icon_LMU.png
+  logo: /assets/logo/icon_FSU.png
   position: >- 
     Department of Electrical Engineering and Computer Science <br/>
   date: 2014 - 2016
@@ -53,6 +53,10 @@ education:
   logo: /assets/logo/icon_MR.png
   position: B.S. in Computer Science
   date: 2001 - 2007
+- name: Peking University
+  logo: /assets/logo/icon_MPIMR.png
+  position: B.S. in Computer Science
+  date: 2001 - 2007
 
 experience:
  - name: Peking University
@@ -60,7 +64,7 @@ experience:
    position: Research Intern
    date: Sep. 2019 - Jul. 2021
  - name: Peking University2
-   logo: /assets/logo/icon_FU.png
+   logo: /assets/logo/icon_SFB.png
    position: Research Intern
    date: Sep. 2019 - Jul. 2021
  - name: Peking University3
