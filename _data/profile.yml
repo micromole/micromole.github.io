@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Microbial Molecular Ecologist"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- logo: /assets/images/logo/icon_LMU.jpg   # Logo is optional
   name: Position 1 with logo
 - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
   name: Position 2 without logo
