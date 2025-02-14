@@ -6,7 +6,7 @@ positions:
 - logo: /assets/logo/icon_LMU.png   # Logo is optional
   name: LMU Munich
 - logo: /assets/logo/icon_DFG.png  # Logo is optional
-  name: Project Principal investigator (since 2025)
+  name: Principal investigator
 
 
 email: "arne.weinhold@bio.lmu.de"
@@ -69,11 +69,11 @@ experience:
    date: 2014 - 2016
 
 awards:
-- name: DFG Research Grant WE 5403/3-1 (3 years)
+- name: <strong>DFG Research Grant</strong> WE 5403/3-1 (3 years)
   date: 2024
 - name: Selected for <strong>LMU Biomentoring</strong> (2 years)
   date: 2023
 - name: <strong>LMUexcellent Postdoc Support Funds</strong> 🪙 (1 year) 
   date: 2023
-- name: Top ten 🏅 photo contest pflanzenforschung.de
+- name: Top ten 🏅 photo contest <strong>pflanzenforschung.de</strong>
   date: 2022
