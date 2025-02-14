@@ -7,7 +7,7 @@ homepage:
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
 # if you keep the link to the template so that more people can benefit from it. Thanks!
 footer_text: >-
- Home <a href="/"><i class="fas fa-home"></i></a>  | 
+ Home <a href="/"><i class="fa-solid fa-house"></i></a>  | 
  Contact <a href="mailto:your.email@example.com">
  <i class="fas fa-envelope"></i></a> | 
  build on <a href="https://github.com/luost26/academic-homepage" target="_blank"><i class="fas fa-pencil-ruler"></i></a>
