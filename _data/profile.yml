@@ -43,13 +43,13 @@ education:
   position: >- 
     Dr. rer. nat.
   date: 2014
-- name: Max Planck Institute for Chemical Ecology
+- name: Max Planck Institute for Chemical Ecology, Jena
   logo: /assets/logo/icon_ICE.png
   position: >- 
     Department of Molecular Ecology <br/>
     Ph.D. Student
   date: 2009 - 2014
-- name: MPI for Terrestrial Microbiology
+- name: MPI for Terrestrial Microbiology, Marburg
   logo: /assets/logo/icon_MPIMR.png
   position: Dipl.-Biol. Microbiology
   date: 2005 - 2006
@@ -64,26 +64,30 @@ experience:
    logo: /assets/logo/icon_LMU.png
    position: Research Assistant
    date: 2021 - 2024
- - name: Collaborative Research Centre 973
+ - name: Collaborative Research Centre 973, FU Berlin
    logo: /assets/logo/icon_SFB2.png
    position: Postdoctoral Researcher
    date: 2017 - 2020
- - name: MPI for Chemical Ecology
+ - name: MPI for Chemical Ecology, Jena
    logo: /assets/logo/icon_ICE.png
    position: Postdoctoral Researcher
    date: 2014 - 2016
 
 awards:
 - name: <strong>DFG Research Grant</strong> WE 5403/3-1
-  date: 2024
+  date: 2025
 - name: Selected as <strong>LMU Biomentoring</strong> candidate
-  date: 2023
+  date: 2024
 - name: <strong>LMUexcellent Postdoc Support Funds</strong> 🪙
   date: 2023
 - name: Top ten 🏅 photo contest <strong>pflanzenforschung.de</strong>
   date: 2022
+- name: <strong>Best Poster Award</strong> ILRS Symposium
+  date: 2014
+- name: <strong>Best Poster Award</strong> MiCom 2011 student conference [JSMC]
+  date: 2011
 - name: >-
         <strong>Graduate research fellowship</strong> 
-        <a href="https://www.ilrs.de/alumni-details.html?project=80" target="_blank">ILRS Jena</a>
+        <a href="https://www.ilrs.de/alumni-details.html?project=80" target="_blank"><strong>ILRS Jena</strong></a>
         <img src="/assets/logo/logo_ILRS.png" alt="Icon" style="height: 16px; margin-right: 5px;">
   date: 2009
