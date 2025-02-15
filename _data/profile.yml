@@ -43,20 +43,16 @@ education:
   position: >- 
     Dr. rer. nat.
   date: 2014
-- name: Max Planck Institute for Chemical Ecology, Jena
-  logo: /assets/logo/icon_ICE.png
-  position: >- 
-    Department of Molecular Ecology <br/>
-    Ph.D. Student
-  date: 2009 - 2014
-- name: MPI for Terrestrial Microbiology, Marburg
-  logo: /assets/logo/icon_MPIMR.png
-  position: Dipl.-Biol. Microbiology
-  date: 2005 - 2006
+#- name: Max Planck Institute for Chemical Ecology, Jena
+#  logo: /assets/logo/icon_ICE.png
+#  position: >- 
+#    Department of Molecular Ecology <br/>
+#    Ph.D. Student
+#  date: 2009 - 2014
 - name: Philipps-University Marburg
   logo: /assets/logo/icon_MR.png
-  position: Studies in Biology
-  date: 2001 - 2007
+  position: Dipl.-Biol. Microbiology
+  date: 2006
 
 
 experience:
@@ -74,8 +70,12 @@ experience:
    date: 2017
  - name: MPI for Chemical Ecology, Jena
    logo: /assets/logo/icon_ICE.png
-   position: Postdoctoral Researcher
-   date: 2014 - 2016
+   position: Ph.D. Student and Postdoctoral Researcher
+   date: 2009 - 2016
+ - name: MPI for Terrestrial Microbiology, Marburg
+   logo: /assets/logo/icon_MPIMR.png
+   position: Undergraduate studies
+   date: 2005 - 2006
 
 awards:
 - name: <strong>DFG Research Grant</strong> WE 5403/3-1
