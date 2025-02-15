@@ -84,5 +84,7 @@ awards:
   date: 2022
 - name: >-
         other text <strong>Graduate research fellowship</strong> ILRS Jena
+        <a href="https://www.biospektrum.de/system/files/magazine_article/2023/02/files/89180/89180.pdf" target="_blank">biospektrum.de</a>
+        <img src="/assets/logo/logo_micromole.png" alt="Icon" style="height: 32px; margin-right: 5px;">
   logo: /assets/logo/icon_ICE.png
   date: 2009
