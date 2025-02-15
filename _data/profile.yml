@@ -41,7 +41,7 @@ education:
 - name: Friedrich-Schiller-University Jena
   logo: /assets/logo/icon_FSU.png
   position: >- 
-    Dr. rer. nat.
+    Dr. rer. nat. Molecular Ecology
   date: 2014
 #- name: Max Planck Institute for Chemical Ecology, Jena
 #  logo: /assets/logo/icon_ICE.png
@@ -65,17 +65,22 @@ experience:
    position: Postdoctoral Researcher
    date: 2017 - 2020
  - name: FU Berlin
-   logo: /assets/logo/icon_FU.png
+   logo: /assets/logo/icon_FU2.png
    position: Guest Scientist
    date: 2017
  - name: MPI for Chemical Ecology, Jena
    logo: /assets/logo/icon_ICE.png
-   position: Ph.D. Student and Postdoctoral Researcher
+   position: >- 
+        Department of Molecular Ecology <br/>
+        Ph.D. Student & Postdoctoral Researcher
    date: 2009 - 2016
  - name: MPI for Terrestrial Microbiology, Marburg
    logo: /assets/logo/icon_MPIMR.png
-   position: Undergraduate studies
-   date: 2005 - 2006
+   position: >- 
+        Department of Ecophysiology <br/>
+        Undergraduate studies
+   position: Diploma student & Research assistant
+   date: 2005 - 2007
 
 awards:
 - name: <strong>DFG Research Grant</strong> WE 5403/3-1
