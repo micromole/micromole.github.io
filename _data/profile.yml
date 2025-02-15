@@ -82,6 +82,7 @@ awards:
   date: 2023
 - name: Top ten 🏅 photo contest <strong>pflanzenforschung.de</strong>
   date: 2022
-- name: <strong>Graduate research fellowship</strong> ILRS Jena
+- name: >-
+        other text <strong>Graduate research fellowship</strong> ILRS Jena
   logo: /assets/logo/icon_ICE.png
   date: 2009
