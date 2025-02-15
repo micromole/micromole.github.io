@@ -58,7 +58,7 @@ education:
 experience:
  - name: LMU Munich
    logo: /assets/logo/icon_LMU.png
-   position: Research Assistant
+   position: Postdoctoral Researcher
    date: 2021 - 2024
  - name: Collaborative Research Centre 973
    logo: /assets/logo/icon_SFB2.png
@@ -78,8 +78,7 @@ experience:
    logo: /assets/logo/icon_MPIMR.png
    position: >- 
         Department of Ecophysiology <br/>
-        Undergraduate studies
-   position: Diploma student & Research assistant
+        Diploma Student & Research Assistant
    date: 2005 - 2007
 
 awards:
