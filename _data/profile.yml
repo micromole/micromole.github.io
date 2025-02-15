@@ -52,7 +52,7 @@ education:
 - name: MPI for Terrestrial Microbiology
   logo: /assets/logo/icon_MPIMR.png
   position: Dipl.-Biol. Microbiology
-  date: 2006
+  date: 2005 - 2006
 - name: Philipps-University Marburg
   logo: /assets/logo/icon_MR.png
   position: Studies in Biology
@@ -60,6 +60,10 @@ education:
 
 
 experience:
+ - name: LMU Munich
+   logo: /assets/logo/icon_LMU.png
+   position: Research Assistant
+   date: 2021 - 2024
  - name: Collaborative Research Centre 973
    logo: /assets/logo/icon_SFB2.png
    position: Postdoctoral Researcher
@@ -78,3 +82,6 @@ awards:
   date: 2023
 - name: Top ten 🏅 photo contest <strong>pflanzenforschung.de</strong>
   date: 2022
+- name: <strong>Graduate research fellowship</strong> ILRS Jena
+  logo: /assets/logo/icon_ICE.png
+  date: 2009
