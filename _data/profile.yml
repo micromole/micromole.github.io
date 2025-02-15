@@ -42,20 +42,20 @@ education:
   logo: /assets/logo/icon_FSU.png
   position: >- 
     Dr. rer. nat.
-  date: 2014 - 2016
+  date: 2014
 - name: Max Planck Institute for Chemical Ecology
   logo: /assets/logo/icon_ICE.png
   position: >- 
     Department of Molecular Ecology <br/>
-    Ph.D. Student Dr. rer. nat. 
+    Ph.D. Student
   date: 2009 - 2014
 - name: MPI for Terrestrial Microbiology
   logo: /assets/logo/icon_MPIMR.png
   position: Dipl.-Biol. Microbiology
-  date: 2006 - 2007
+  date: 2006
 - name: Philipps-University Marburg
   logo: /assets/logo/icon_MR.png
-  position: Biology
+  position: Studies in Biology
   date: 2001 - 2007
 
 
