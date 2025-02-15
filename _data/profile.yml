@@ -4,7 +4,7 @@ navbar_name: "Microbial Molecular Ecology"
 
 positions:
 - logo: /assets/logo/icon_LMU.png   # Logo is optional
-  name: LMU Munich
+  name: Cellular and Organismic Networks, LMU Munich
 - logo: /assets/logo/icon_DFG.png  # Logo is optional
   name: Principal investigator
 
@@ -64,10 +64,14 @@ experience:
    logo: /assets/logo/icon_LMU.png
    position: Research Assistant
    date: 2021 - 2024
- - name: Collaborative Research Centre 973, FU Berlin
+ - name: Collaborative Research Centre 973
    logo: /assets/logo/icon_SFB2.png
    position: Postdoctoral Researcher
    date: 2017 - 2020
+ - name: FU Berlin
+   logo: /assets/logo/icon_FU.png
+   position: Guest Scientist
+   date: 2017
  - name: MPI for Chemical Ecology, Jena
    logo: /assets/logo/icon_ICE.png
    position: Postdoctoral Researcher
@@ -80,11 +84,13 @@ awards:
   date: 2024
 - name: <strong>LMUexcellent Postdoc Support Funds</strong> 🪙
   date: 2023
-- name: Top ten 🏅 photo contest <strong>pflanzenforschung.de</strong>
+- name: >-
+        Top ten 🏅 photo contest 
+        <a href="https://www.pflanzenforschung.de/de/pflanzenwissen/bildstrecken/die-top-ten-2022" target="_blank"><strong>pflanzenforschung.de</strong></a>
   date: 2022
 - name: <strong>Best Poster Award</strong> ILRS Symposium
   date: 2014
-- name: <strong>Best Poster Award</strong> MiCom 2011 student conference [JSMC]
+- name: <strong>Best Poster Award</strong> MiCom 2011 
   date: 2011
 - name: >-
         <strong>Graduate research fellowship</strong> 
