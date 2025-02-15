@@ -85,15 +85,17 @@ awards:
 - name: <strong>LMUexcellent Postdoc Support Funds</strong> 🪙
   date: 2023
 - name: >-
-        Top ten 🏅 photo contest 
+        <strong>Top ten</strong> 🏅 photo contest 
         <a href="https://www.pflanzenforschung.de/de/pflanzenwissen/bildstrecken/die-top-ten-2022" target="_blank"><strong>pflanzenforschung.de</strong></a>
   date: 2022
 - name: <strong>Best Poster Award</strong> ILRS Symposium
   date: 2014
-- name: <strong>Best Poster Award</strong> MiCom 2011 JSMC
+- name: >-
+        <strong>Best Poster Award</strong> MiCom 2011 
+        <img src="/assets/logo/icon_JSMC.png" alt="Icon" style="height: 16px; margin-right: 5px;">
   date: 2011
 - name: >-
         <strong>Graduate research fellowship</strong> 
         <a href="https://www.ilrs.de/alumni-details.html?project=80" target="_blank"><strong>ILRS Jena</strong></a>
-        <img src="/assets/logo/logo_ILRS.png" alt="Icon" style="height: 16px; margin-right: 5px;">
+        <img src="/assets/logo/icon_ILRS.png" alt="Icon" style="height: 16px; margin-right: 5px;">
   date: 2009
