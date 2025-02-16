@@ -94,10 +94,10 @@ awards:
 #  date: 2022
 #- name: <strong>Best Poster Award</strong> ILRS Symposium
 #  date: 2014
-- name: >-
-        <img src="/assets/logo/icon_JSMC.png" alt="Icon" style="width: 24px; margin-right: 5px;">
-        <strong>Best Poster Award</strong> MiCom 
-  date: 2011
+#- name: >-
+#        <img src="/assets/logo/icon_JSMC.png" alt="Icon" style="width: 24px; margin-right: 5px;">
+#        <strong>Best Poster Award</strong> MiCom 
+#  date: 2011
 - name: >-
         <img src="/assets/logo/icon_ILRS.png" alt="Icon" style="width: 24px; margin-right: 5px;">
         <strong>Graduate research fellowship</strong> 
