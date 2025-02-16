@@ -23,7 +23,12 @@ date: 2024-01-12 00:01:00 +0800
     <p>
         You can create a new showcase item by creating a new file in the <code>_projects</code> folder. It gives you the highest flexibility to customize the item using any HTML code.
     </p>
-    <p>
+          <div class="d-flex flex-wrap justify-content-between gap-2">
+            <img src="/assets/logo/logo_Leip" alt="Image 1" class="rounded-sm img-fluid logo-img">
+            <img src="/assets/logo/logo_ICE.png" alt="Image 3" class="rounded-sm img-fluid logo-img">
+            <img src="/assets/logo/logo_JSMC.png" alt="Image 3" class="rounded-sm img-fluid logo-img">
+            </div>
+<p>
         Cards are ordered by the <code>date</code> field in the front matter in descending order. The <code>width</code> field is used to determine the width of the card, ranging from 1 to 12.
         Layout is done by the <a href="https://masonry.desandro.com/" target="_blank">Masonry</a> library.
     </p>
