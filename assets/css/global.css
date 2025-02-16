@@ -70,6 +70,12 @@ div.lazy {
     min-height: 80px;
 }
 
+.custom-logo {
+  height: 100px; /* Set custom height */
+  width: auto;   /* Keep width automatic */
+  object-fit: contain; /* Prevents cropping, ensures full logo visibility */
+}
+
 .badge-publication {
     font-size: 100%;
 }
