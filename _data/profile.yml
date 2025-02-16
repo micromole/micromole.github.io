@@ -4,7 +4,7 @@ navbar_name: "Microbial Molecular Ecology"
 
 positions:
 - logo: /assets/logo/icon_LMU.png   # Logo is optional
-  name: Cellular and Organismic Networks, LMU Munich
+  name: LMU Munich, Cellular and Organismic Networks 
 - logo: /assets/logo/icon_DFG.png  # Logo is optional
   name: Principal investigator
 
@@ -64,14 +64,14 @@ experience:
    logo: /assets/logo/icon_SFB2.png
    position: Postdoctoral Researcher
    date: 2017 - 2020
- - name: FU Berlin
-   logo: /assets/logo/icon_FU2.png
-   position: Guest Scientist
-   date: 2017
+# - name: FU Berlin
+#   logo: /assets/logo/icon_FU2.png
+#   position: Guest Scientist
+#   date: 2017
  - name: MPI for Chemical Ecology, Jena
    logo: /assets/logo/icon_ICE.png
    position: >- 
-          Ph.D. Student & Postdoctoral Researcher
+          Ph.D. & Postdoctoral Researcher
    date: 2009 - 2016
  - name: MPI for Terrestrial Microbiology, Marburg
    logo: /assets/logo/icon_MPIMR.png
@@ -84,9 +84,9 @@ awards:
         <img src="/assets/logo/icon_DFG.png" alt="Icon" style="width: 24px; margin-right: 5px;">
         <strong>Research Grant</strong> WE 5403/3-1
   date: 2025
-- name: Selected as <strong>LMU Biomentoring</strong> candidate
+- name: <strong>LMU Biomentoring</strong> member
   date: 2024
-- name: <strong>LMUexcellent Postdoc Support Funds</strong> 💰
+- name: <strong>LMUexcellent</strong> Postdoc Support Fund 💰
   date: 2023
 #- name: >-
 #        <strong>Top ten</strong> 🏅 photo contest 
@@ -96,11 +96,9 @@ awards:
 #  date: 2014
 - name: >-
         <img src="/assets/logo/icon_JSMC.png" alt="Icon" style="width: 24px; margin-right: 5px;">
-        <strong>Best Poster Award</strong> MiCom 2011 
+        <strong>Best Poster Award</strong> MiCom 
   date: 2011
 - name: >-
         <img src="/assets/logo/icon_ILRS.png" alt="Icon" style="width: 24px; margin-right: 5px;">
         <strong>Graduate research fellowship</strong> 
-        <a href="https://www.ilrs.de/alumni-details.html?project=80" target="_blank"><strong>ILRS Jena</strong></a>
-       
   date: 2009
