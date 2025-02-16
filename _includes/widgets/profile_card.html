@@ -64,12 +64,12 @@
                         </a>
                         {% endif %}
                         
-                        {% if site.data.profile.github %}
-                        <a class="pr-3 no-break" target="_blank" href="https://github.com/{{ site.data.profile.github }}">
-                            <i class="fab fa-github"></i> GitHub
+                        {% if site.data.profile.researchgate %}
+                        <a class="pr-3 no-break" target="_blank" href="https://www.researchgate.net/profile/{{ site.data.profile.researchgate }}">
+                            <i class="fa-brands fa-researchgate"></i> ResearchGate
                         </a>
                         {% endif %}
-
+                        
                         {% if site.data.profile.wechat_qrcode %}
                         <a class="pr-3 no-break" data-toggle="modal" data-target="#modal-wechat">
                             <i class="fab fa-weixin"></i> WeChat
@@ -87,12 +87,6 @@
                             <i class="fab fa-bluesky"></i> Bluesky
                         </a>
                         {% endif %}
-                         
-                           {% if site.data.profile.researchgate %}
-                        <a class="pr-3 no-break" target="_blank" href="https://www.researchgate.net/profile/{{ site.data.profile.researchgate }}">
-                            <i class="fa-brands fa-researchgate"></i> ResearchGate
-                        </a>
-                        {% endif %}
                         
                         {% if site.data.profile.linkedin %}
                         <a class="pr-3 no-break" target="_blank" href="https://www.linkedin.com/in/{{ site.data.profile.linkedin }}">
@@ -103,6 +97,12 @@
                         {% if site.data.profile.orcid %}
                         <a class="pr-3 no-break" target="_blank" href="https://orcid.org/{{ site.data.profile.orcid }}">
                             <i class="fab fa-orcid"></i> ORCID
+                        </a>
+                        {% endif %}
+
+                        {% if site.data.profile.github %}
+                        <a class="pr-3 no-break" target="_blank" href="https://github.com/{{ site.data.profile.github }}">
+                            <i class="fab fa-github"></i> GitHub
                         </a>
                         {% endif %}
                     </div>
