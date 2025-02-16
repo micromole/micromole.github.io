@@ -70,10 +70,17 @@ div.lazy {
     min-height: 80px;
 }
 
-.custom-logo {
-  height: 100px; /* Set custom height */
-  width: auto;   /* Keep width automatic */
-  object-fit: contain; /* Prevents cropping, ensures full logo visibility */
+/* Default sizes for larger screens */
+.logo-img {
+    height: 80px;
+    width: auto;
+}
+
+/* Smaller sizes for screens below 576px (Bootstrap's xs breakpoint) */
+@media (max-width: 576px) {
+    .logo-img {
+        height: 50px; /* Adjust as needed */
+    }
 }
 
 .badge-publication {
