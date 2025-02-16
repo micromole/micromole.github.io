@@ -72,14 +72,14 @@ div.lazy {
 
 /* Default sizes for larger screens */
 .logo-img {
-    height: 80px;
+    height: 70px;
     width: auto;
 }
 
 /* Smaller sizes for screens below 576px (Bootstrap's xs breakpoint) */
 @media (max-width: 576px) {
     .logo-img {
-        height: 50px; /* Adjust as needed */
+        height: 40px; /* Adjust as needed */
     }
 }
 
