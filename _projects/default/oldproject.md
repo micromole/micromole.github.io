@@ -6,9 +6,9 @@ date: 2023-01-12 00:01:00 +0800
 <div class="p-4">
     <h2>Old project</h2>
     <hr />
-  <img data-src="{{ 'assets/images/photos/cover1.jpg' | relative_url }}" class="lazy rounded-top" style="width: 32%; height: auto;margin: 5px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
-  <img data-src="{{ 'assets/images/photos/cover1.jpg' | relative_url }}" class="lazy rounded-top" style="width: 32%; height: auto;margin: 5px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
- <img data-src="{{ 'assets/images/photos/cover1.jpg' | relative_url }}" class="lazy rounded-top" style="width: 32%; height: auto;margin: 5px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+  <img data-src="{{ 'assets/images/photos/cover1.jpg' | relative_url }}" class="lazy rounded-top" style="width: 31%; height: auto;margin: 5px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+  <img data-src="{{ 'assets/images/photos/cover1.jpg' | relative_url }}" class="lazy rounded-top" style="width: 31%; height: auto;margin: 5px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+ <img data-src="{{ 'assets/images/photos/cover1.jpg' | relative_url }}" class="lazy rounded-top" style="width: 31%; height: auto;margin: 5px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
     
  <img data-src="{{ 'assets/logo/logo_DFG.png' | relative_url }}" class="lazy rounded-top" style="width: 90%; height: auto;margin: 5px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Caption of this image">
    
