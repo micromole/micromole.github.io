@@ -43,7 +43,7 @@ body_attr: >-
     }
 }
 </style>
-
+  <hr />
 
 
 {% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
