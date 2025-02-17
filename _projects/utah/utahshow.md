@@ -1,7 +1,7 @@
 ---
 show: true
 width: 4
-date: 2014-06-12 00:01:00 +0800
+date: 2016-06-12 00:01:00 +0800
 height: 295px
 images:
 - src: assets/images/photos/cover1.jpg
