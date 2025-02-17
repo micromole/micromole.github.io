@@ -11,6 +11,7 @@ date: 2024-01-12 00:01:00 +0800
      <img src="/assets/logo/logo_JSMC.png" alt="Image 3" class="rounded-sm img-fluid logo-img"> 
      <img src="/assets/logo/logo_ILRS.png" alt="Image 1" class="rounded-sm img-fluid logo-img">
     <img src="/assets/logo/logo_Leip.png" alt="Image 1" class="rounded-sm img-fluid logo-img">
+    <hr />
     <p>
         <code>Projects</code> is a page where you can show off almost anything you want. It can be the photo of your pets, your favorite books, your favorite projects, or anything else you want to show to the world.
     </p>
