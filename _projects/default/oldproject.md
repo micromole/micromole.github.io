@@ -9,7 +9,7 @@ date: 2023-01-12 00:01:00 +0800
     
   <img data-src="{{ 'assets/images/badges/PKU_red.png' | relative_url }}" class="lazy w-25 rounded-top" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
   <img data-src="{{ 'assets/images/badges/PKU_red.png' | relative_url }}" class="lazy w-25 rounded-top" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
- <img data-src="{{ 'assets/logo/logo_DFG.png' | relative_url }}" class="lazy w-100 rounded-top" src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Caption of this image">
+ <img data-src="{{ 'assets/logo/logo_DFG.png' | relative_url }}" class="lazy w-100 img-fluid rounded-top" src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Caption of this image">
    
 <p>
         <code>Showcase</code> is a page where you can show off almost anything you want. It can be the photo of your pets, your favorite books, your favorite projects, or anything else you want to show to the world.
