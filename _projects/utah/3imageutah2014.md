@@ -6,11 +6,11 @@ group: Utah
 ---
 <div>
  <img data-src="{{ 'assets/images/etc/cat2.jpg' | relative_url }}" class="lazy w-25 rounded" src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Caption of this image1 2014"
-        style="margin-bottom: 8px; display: block;">
+        style="display: inline-block; width: 48%; margin-right: 2%;">
  <img data-src="{{ 'assets/images/etc/cat2.jpg' | relative_url }}" class="lazy w-25 rounded" src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Caption of this image2 2014"
-       style="margin-bottom: 8px; display: block;">
+       style="display: inline-block; width: 48%; margin-right: 2%;">
  <img data-src="{{ 'assets/images/etc/cat2.jpg' | relative_url }}" class="lazy w-25 rounded" src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Caption of this image2 2014"
-       style="margin-bottom: 8px; display: block;">
+       style="display: inline-block; width: 48%;">
       <div class="card-body">
     <p class="card-text">
       This is the text to 2024 season. Meow! I am a cat.
