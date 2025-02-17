@@ -1,6 +1,6 @@
 ---
 show: true
-width: 2
+width: 1
 date: 2022-01-13 00:01:00 +0800
 class: ""  # Override the default card style
 ---
