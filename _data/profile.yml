@@ -76,7 +76,7 @@ experience:
  - name: ILRS Jena
    logo: /assets/logo/icon_ILRSMIB.png
    position: >- 
-          Graduate training within International Leibniz Research School for Microbial and Biomolecular Interactions
+          Graduate Research training within International Leibniz Research School for Microbial and Biomolecular Interactions
    date: 2009 - 2014
  - name: MPI for Terrestrial Microbiology, Marburg
    logo: /assets/logo/icon_MPIMR.png
@@ -94,10 +94,10 @@ awards:
 - name: <strong>LMUexcellent Postdoc Support Funds</strong>
   date: 2023
 - name: >-
-        <strong>Guest Scientist</strong> at FU Berlin
+        <strong>Guest Scientist</strong> FU Berlin
   date: 2017
 - name: >-
-        <strong>MPG Research Fellowship</strong>
+        <strong>Research Fellowship</strong> MPG 
   date: 2012
 #- name: >-
 #        <strong>Top ten</strong> 🏅 photo contest 
@@ -110,6 +110,6 @@ awards:
 #        <strong>Best Poster Award</strong> MiCom 
 #  date: 2011
 - name: >-
-        <img src="/assets/logo/icon_ILRS.png" alt="Icon" style="width: 24px; margin-right: 5px;">
-        <strong>ILRS Graduate Research Fellowship</strong> 
+#        <img src="/assets/logo/icon_ILRS.png" alt="Icon" style="width: 24px; margin-right: 5px;">
+        <strong>Graduate Research Fellowship</strong> ILRS Jena
   date: 2009
