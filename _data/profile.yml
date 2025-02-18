@@ -89,10 +89,10 @@ awards:
 - name: <strong>LMUexcellent Postdoc Support Funds</strong>
   date: 2023
 - name: >-
-        <strong>Research Fellowship</strong> at FU Berlin
+        <strong>Guest Scientist</strong> at FU Berlin
   date: 2017
 - name: >-
-        <strong>MPG</strong> Research Fellowship
+        <strong>MPG Research Fellowship</strong>
   date: 2012
 #- name: >-
 #        <strong>Top ten</strong> 🏅 photo contest 
@@ -106,5 +106,5 @@ awards:
 #  date: 2011
 - name: >-
         <img src="/assets/logo/icon_ILRS.png" alt="Icon" style="width: 24px; margin-right: 5px;">
-        <strong>ILRS Graduate research fellowship</strong> 
+        <strong>ILRS Graduate Research Fellowship</strong> 
   date: 2009
