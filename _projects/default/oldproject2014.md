@@ -6,7 +6,7 @@ date: 2014-01-12 00:01:00 +0800
 <div class="p-4">
     <h2>Old project 2014</h2>
     <hr />
-  <img data-src="{{ 'assets/images/photos/IMG_2262m.jpg' | relative_url }}" class="lazy rounded-top" style="width: 31%; height: auto;margin: 5px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+  <img data-src="{{ 'assets/images/photos/IMG_2262m.JPG' | relative_url }}" class="lazy rounded-top" style="width: 31%; height: auto;margin: 5px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
   <img data-src="{{ 'assets/images/photos/Utah_fieldm.jpg' | relative_url }}" class="lazy rounded-top" style="width: 31%; height: auto;margin: 5px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
  <img data-src="{{ 'assets/images/photos/root_harvest_AWm.jpg' | relative_url }}" class="lazy rounded-top" style="width: 31%; height: auto;margin: 5px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
     
