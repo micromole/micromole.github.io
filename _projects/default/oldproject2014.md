@@ -10,7 +10,7 @@ date: 2014-01-12 00:01:00 +0800
   <img data-src="{{ 'assets/images/photos/Utah_fieldm.jpg' | relative_url }}" class="lazy rounded" style="width: 31%; height: auto;margin: 5px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
  <img data-src="{{ 'assets/images/photos/root_harvest_AWm.jpg' | relative_url }}" class="lazy rounded" style="width: 31%; height: auto;margin: 5px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
     
- <img data-src="{{ 'assets/images/photos/IMG_7435_stitchm.jpg' | relative_url }}" class="lazy rounded-top" style="width: 98%; height: auto;margin: 5px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Caption of this image">
+<img data-src="{{ 'assets/images/photos/IMG_7600_stitch.jpg' | relative_url }}" class="lazy rounded" style="width: 98%; height: auto;margin: 5px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Utah filed plot">
    
 <p>
      AMP   <code>Showcase</code> is a page where you can show off almost anything you want. It can be the photo of your pets, your favorite books, your favorite projects, or anything else you want to show to the world.
