@@ -1,13 +1,13 @@
 ---
 show: true
-width: 4
-date: 2013-06-10 00:01:00 +0800
+width: 12
+date: 2014-06-10 00:01:00 +0800
 ---
 <div>
-  <img data-src="{{ 'assets/images/photos/cover1.jpg' | relative_url }}" class="lazy w-100 rounded" src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Caption of this image">
+<img data-src="{{ 'assets/images/photos/IMG_7600_stitch.jpg' | relative_url }}" class="lazy w-100 rounded"  src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Utah fieled plot">
   <div class="card-body">
     <p class="card-text">
-      Meow! I am a cat. 2013 season
+      Banner text
     </p>
   </div>
 </div>
