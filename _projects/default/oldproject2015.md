@@ -16,6 +16,7 @@ date: 2015-01-12 00:01:00 +0800
 </p>
 <blockquote cite="https://www.mpg.de/9373626/bacteria-tabacco-root-disease">
 <q><i>So far, only individual bacterial strains had been applied in agriculture. However, bacteria do not live alone, they form communities which complement each other. Only when they interact with each other they can exert their positive effects on plant health.</i></q> (source <a href="https://www.mpg.de/9373626/bacteria-tabacco-root-disease">MPG Research News</a>)</blockquote>
+    <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1073/pnas.1505765112"></div>
 <p><a href="https://www.pnas.org/doi/full/10.1073/pnas.1505765112">Original publication in PNAS</a></p>
 </div>
 
