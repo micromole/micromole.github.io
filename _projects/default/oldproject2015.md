@@ -34,7 +34,7 @@ date: 2015-01-12 00:01:00 +0800
            data-popup="right" 
            data-theme="liberty" 
            data-badge="false" 
-           data-size="medium">
+           data-size="small">
         </a>
     </div>
 </div>
