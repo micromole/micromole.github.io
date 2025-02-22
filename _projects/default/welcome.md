@@ -12,7 +12,9 @@ date: 2017-05-12 00:01:00 +0800
      <img src="/assets/logo/logo64_ILRS.png" alt="Image 1" class="rounded-sm img-fluid logo-img">
     <img src="/assets/logo/logo64_Leip.png" alt="Image 1" class="rounded-sm img-fluid logo-img">
     <hr />
-    <p>
+<img data-src="{{ 'assets/images/photos/IMG_2714m.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+ <img data-src="{{ 'assets/images/photos/IMG_4270m.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+   <p>
         2016 <code>Projects</code> is a page where you can show off almost anything you want. It can be the photo of your pets, your favorite books, your favorite projects, or anything else you want to show to the world.
     </p>
     <p>
