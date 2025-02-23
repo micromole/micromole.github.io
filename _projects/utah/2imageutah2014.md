@@ -9,7 +9,7 @@ group: Plant Pathogen
  <img data-src="{{ 'assets/images/photos/IMG_5120m.jpg' | relative_url }}" class="lazy rounded" style="width: 45%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Caption of this image2 2014">
       <div class="card-body">
     <p class="card-text">
-      Sometimes serendipity leads to scientific discoveries. During one field season we observed a dynamic disease outbreak within a native population of Nicotiana attenuata plants. This was not only a great opportunity to study pathogen dynamics in the field, but also to isolate fungi to establish a native pathovar system.
+      Sometimes serendipity can accelerate scientific progress. We observed a dynamic disease outbreak within a native population of <i>Nicotiana attenuata</i> plants. This was not only a great opportunity to study pathogen dynamics directly in the field, but also to isolate fungi to establish a native pathovar system for laboratory screening.
     </p>
            <span>
         Original research: 
