@@ -1,14 +1,14 @@
 ---
 show: true
 width: 8
-date: 2014-01-12 00:01:00 +0800
+date: 2016-01-12 00:01:00 +0800
 ---
 <div class="p-4">
     <h2>Resilient microbiome</h2>
     <hr />
   <img data-src="{{ 'assets/images/photos/IMG_2262m.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
   <img data-src="{{ 'assets/images/photos/Utah_fieldm.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
-   
+ <hr />  
 <p>
 Can the plant microbiome be manipulated in nature? In a time when microbiome analysis where still in their infancies, my PhD project aimed at an <i>in-planta</i> <b>microbiome manipulation</b> under field conditions. This would allow to test hypothesis on <b>microbiome function</b> within a plants’ natural habitat. It is widely assumed that microbes are important or a plants’ health, but does a transgenic plant producing antimicrobial peptides (AMPs) suffer from negative consequences? Far from it, transgenic plants appeared rather unimpressed by the presence of AMPs when compared to controls in the field. Endophytic bacteria showed a high heterogeneity in their susceptibility leading to a resilient microbiome. This underlines the importance of field research, as lab-based results cannot always be transferred to natural conditions.
 </p>
