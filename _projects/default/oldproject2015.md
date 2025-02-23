@@ -29,12 +29,12 @@ date: 2015-01-12 00:01:00 +0800
               data-style="small_rectangle">
         </span>
         <div class='altmetric-embed' 
-             data-badge-popover='right' 
+             data-badge-popover='bottom' 
              data-doi='10.1073/pnas.1505765112'>
         </div>
         <a href="https://plu.mx/plum/a/?doi=10.1073/pnas.1505765112" 
            class="plumx-plum-print-popup" 
-           data-popup="right" 
+           data-popup="bottom" 
            data-theme="liberty" 
            data-badge="false" 
            data-size="small">
