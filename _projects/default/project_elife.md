@@ -12,7 +12,7 @@ date: 2016-01-12 00:01:00 +0800
  <img src="assets/images/photos/Nicotiana_AMP.jpg" 
          alt="In planta microbiome manipulation" 
          class="lazy rounded" 
-         style="float: right; width: 30%; height: auto; margin: 10px;">   
+         style="float: right; width: 48%; height: auto; margin: 5px;">   
 <p>
 Can the plant microbiome be manipulated in nature? In a time when microbiome analysis where still in their infancies, my PhD project aimed at an <i>in-planta</i> <b>microbiome manipulation</b> under field conditions. This would allow to test hypothesis on <b>microbiome function</b> within a plants’ natural habitat. It is widely assumed that microbes are important or a plants’ health, but does a transgenic plant producing antimicrobial peptides (AMPs) suffer from negative consequences? Far from it, transgenic plants appeared rather unimpressed by the presence of AMPs when compared to controls in the field. Endophytic bacteria showed a high heterogeneity in their susceptibility leading to a resilient microbiome. This underlines the importance of field research, as lab-based results cannot always be transferred to natural conditions.
 </p>
