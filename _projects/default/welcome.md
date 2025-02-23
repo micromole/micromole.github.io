@@ -11,17 +11,10 @@ date: 2017-05-12 00:01:00 +0800
  <img data-src="{{ 'assets/images/photos/IMG_4270m.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
     <hr />
     <p>
-        2016 <code>Projects</code> is a page where you can show off almost anything you want. It can be the photo of your pets, your favorite books, your favorite projects, or anything else you want to show to the world.
+        My work at the Max Planck Institute for Chemical Ecology had the focus on the function of plant-microbe-interactions. I tested heterologous expression of antimicrobial peptides to manipulate a plants’ microbiome in the field. Here I gained a lot of experience in field work during several field trips into the Great Basin Desert of Utah (USA). I applied molecular methods to answer ecological questions in plant-microbe and plant-herbivore interactions.
     </p>
     <p>
-        You can create a new showcase item by creating a new file in the <code>_projects</code> folder. It gives you the highest flexibility to customize the item using any HTML code.
-    </p> 
-<p>
-        Cards are ordered by the <code>date</code> field in the front matter in descending order. The <code>width</code> field is used to determine the width of the card, ranging from 1 to 12.
-        Layout is done by the <a href="https://masonry.desandro.com/" target="_blank">Masonry</a> library.
-    </p>
-    <p>
-        For a tidy layout, it is recommended to set the width of the cards to be either multiple of 3 or multiple of 4 for all cards, except for small badges that do not take up much space (width=1).
+       This work was generously supported by:
     </p>
       <img src="/assets/logo/logo64_ICE.png" alt="Image 3" class="rounded-sm img-fluid logo-img">
      <img src="/assets/logo/logo64_JSMC.png" alt="Image 3" class="rounded-sm img-fluid logo-img"> 
