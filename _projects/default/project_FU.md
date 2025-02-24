@@ -8,7 +8,14 @@ date: 2013-01-12 00:01:00 +0800
     <hr />
   <img data-src="{{ 'assets/images/logo/cover_host.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
   <img data-src="{{ 'assets/images/logo/cover_PCE.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
- <hr />
+     <p>
+       This work was generously supported by:
+    </p>
+      <img src="/assets/logo/logo64_FU.png" alt="Image 3" class="rounded-sm img-fluid logo-img">
+     <img src="/assets/logo/logo64_CRC973.png" alt="Image 3" class="rounded-sm img-fluid logo-img"> 
+     <img src="/assets/logo/logo64_DCPS.png" alt="Image 1" class="rounded-sm img-fluid logo-img">
+    <img src="/assets/logo/logo64_DFGalt.png" alt="Image 1" class="rounded-sm img-fluid logo-img">
+    <hr />
  <img src="assets/images/logo/cover_PCE.jpg" 
          alt="In planta microbiome manipulation" 
          class="lazy rounded" 
