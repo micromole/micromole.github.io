@@ -8,15 +8,14 @@ date: 2017-05-15 00:01:00 +0800
      <img data-src="{{ 'assets/images/photos/IMG_2685m.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
   <img data-src="{{ 'assets/images/photos/IMG_5899m.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
         <hr />
- <img src="assets/images/photos/diet shift 2.png" 
+ <img src="assets/images/photos/diet_shift.png" 
          alt="Diet shift" 
          class="lazy rounded" 
-         style="float: right; width: 48%; height: auto; margin: 5px;">   
+         style="float: right; width: 48%; height: auto; margin: 5px; src="{{ '/assets/images/empty_300x200.png' | relative_url }}">   
 <p>
 During my time as a postdoctoral researcher within the CRC 973 at Freie Universität Berlin, we investigate how a disturbance of the <b>parental microbiota</b> of the large cabbage butterfly <i>Pieris brassicae</i> influences offspring performance. Parental treatment showed an effect on the larvae when they experienced a host plant shift. This suggests a transgenerational influence of the parental microbiota on offspring performance combining transgenerational immune priming and dietary immunity..
 </p>
   <p>
-       This work was generously supported by:
     </p>
       <img src="/assets/logo/logo64_FU.png" alt="Image 3" class="rounded-sm img-fluid logo-img">
      <img src="/assets/logo/logo64_CRC973.png" alt="Image 3" class="rounded-sm img-fluid logo-img"> 
