@@ -5,8 +5,7 @@ date: 2015-01-12 00:01:00 +0800
 ---
 <div class="p-4">
     <h2>A synthetic bacterial community saves plants from root disease</h2>
-    <hr />
-<img data-src="{{ 'assets/images/photos/IMG_6676m.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+    <img data-src="{{ 'assets/images/photos/IMG_6676m.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
  <img data-src="{{ 'assets/images/photos/IMG_6443m.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
   <hr />   
 <p>
@@ -16,6 +15,13 @@ date: 2015-01-12 00:01:00 +0800
 </p>
 <blockquote cite="https://www.mpg.de/9373626/bacteria-tabacco-root-disease">
 <q><i>So far, only individual bacterial strains had been applied in agriculture. However, bacteria do not live alone, they form communities which complement each other. Only when they interact with each other they can exert their positive effects on plant health.</i></q> (source <a href="https://www.mpg.de/9373626/bacteria-tabacco-root-disease">MPG Research News</a>)</blockquote>
+     <p>
+       This work was generously supported by:
+    </p>
+      <img src="/assets/logo/logo64_FU.png" alt="Image 3" class="rounded-sm img-fluid logo-img">
+     <img src="/assets/logo/logo64_CRC973.png" alt="Image 3" class="rounded-sm img-fluid logo-img"> 
+     <img src="/assets/logo/logo64_DCPS.png" alt="Image 1" class="rounded-sm img-fluid logo-img">
+    <img src="/assets/logo/logo64_DFGalt.png" alt="Image 1" class="rounded-sm img-fluid logo-img">
  <div style="display: flex; flex-direction: column; align-items: start; gap: 5px;">
     <span>
         Original research: 
