@@ -17,6 +17,13 @@ date: 2016-01-12 00:01:00 +0800
 Can the plant microbiome be manipulated in nature? In a time when microbiome analysis where still in their infancies, my PhD project aimed at an <i>in-planta</i> <b>microbiome manipulation</b> under field conditions. This would allow to test hypothesis on <b>microbiome function</b> within a plants’ natural habitat. It is widely assumed that microbes are important or a plants’ health, but does a transgenic plant producing antimicrobial peptides (AMPs) suffer from negative consequences? Far from it, transgenic plants appeared rather unimpressed by the presence of AMPs when compared to controls in the field. Endophytic bacteria showed a high heterogeneity in their susceptibility leading to a resilient microbiome. This underlines the importance of field research, as lab-based results cannot always be transferred to natural conditions.
 </p>
 <blockquote><q><i>In order to manipulate the microbiome, we used the expression of antimicrobial peptides. Our plants showed activity against different Bacillus species, which are mainly known as plant beneficial microbes. We assumed that that these transgenic plants might show deficits in growth or reproduction in field experiments. In other words: we wanted to make an unhappy plant to see how important microbes are for them. To our surprise, the plants appeared rather unimpressed when we compared them with controls in the field,</i></q> first author Arne Weinhold summarizes. (source <a href=" https://phys.org/news/2018-04-microbiome-native-resilient.html">MPG press release</a>)</blockquote>
+    <p>
+       This work was generously supported by:
+    </p>
+      <img src="/assets/logo/logo64_ICE.png" alt="Image 3" class="rounded-sm img-fluid logo-img">
+     <img src="/assets/logo/logo64_JSMC.png" alt="Image 3" class="rounded-sm img-fluid logo-img"> 
+     <img src="/assets/logo/logo64_ILRS.png" alt="Image 1" class="rounded-sm img-fluid logo-img">
+    <img src="/assets/logo/logo64_Leip.png" alt="Image 1" class="rounded-sm img-fluid logo-img">
     <div style="display: flex; flex-direction: column; align-items: start; gap: 5px;">
     <span>
         Original research: 
