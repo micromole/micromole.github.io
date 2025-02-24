@@ -18,10 +18,10 @@ date: 2015-01-12 00:01:00 +0800
      <p>
        This work was generously supported by:
     </p>
-      <img src="/assets/logo/logo64_ICE.png" alt="Image 3" class="rounded-sm img-fluid logo-img">
-     <img src="/assets/logo/logo64_JSMC.png" alt="Image 3" class="rounded-sm img-fluid logo-img"> 
-     <img src="/assets/logo/logo64_ILRS.png" alt="Image 1" class="rounded-sm img-fluid logo-img">
-    <img src="/assets/logo/logo64_Leip.png" alt="Image 1" class="rounded-sm img-fluid logo-img">
+     <img src="/assets/logo/logo64_ICE.png" alt="ICE Logo" class="rounded-sm img-fluid logo-img">
+     <img src="/assets/logo/logo64_JSMC.png" alt="JSMC Logo" class="rounded-sm img-fluid logo-img"> 
+     <img src="/assets/logo/logo64_ILRS.png" alt="ILRS Logo" class="rounded-sm img-fluid logo-img">
+    <img src="/assets/logo/logo64_Leip.png" alt="Leibniz Logo" class="rounded-sm img-fluid logo-img">
  <div style="display: flex; flex-direction: column; align-items: start; gap: 5px;">
     <span>
         Original research: 
