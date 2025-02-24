@@ -1,10 +1,10 @@
 ---
 show: true
 width: 8
-date: 2013-01-12 00:01:00 +0800
+date: 2018-01-12 00:01:00 +0800
 ---
 <div class="p-4">
-    <h2>Transgenerational microbiome function</h2>
+    <h2>Transgenerational immune priming</h2>
      <img data-src="{{ 'assets/images/covers/cover_host.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
   <img data-src="{{ 'assets/images/covers/cover_host.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
         <hr />
