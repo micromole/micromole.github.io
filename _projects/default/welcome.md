@@ -13,6 +13,7 @@ date: 2017-05-12 00:01:00 +0800
     <p>
         My work at the Max Planck Institute for Chemical Ecology had the focus on the function of plant-microbe-interactions. I tested heterologous expression of antimicrobial peptides to manipulate a plants’ microbiome in the field. Here I gained a lot of experience in field work during several field trips into the Great Basin Desert of Utah (USA). I applied molecular methods to answer ecological questions in plant-microbe and plant-herbivore interactions.
         </p>
+    [Jump to Functional Ecology](/projects/#functional-ecology-of-the-butterfly-microbiota)
       [Jump to heading]({{ site.baseurl }}/projects/default/project_FU/#functional-ecology-of-the-butterfly-microbiota)
     <p>
        This work was generously supported by:
