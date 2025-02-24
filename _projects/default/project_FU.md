@@ -14,7 +14,7 @@ date: 2017-05-15 00:01:00 +0800
          class="lazy rounded" 
          style="float: right; width: 48%; height: auto; margin: 5px;">   
 <p>
-During my time as a postdoctoral researcher within the CRC 973 at Freie Universität Berlin, I investigate how a disturbance of the <b>parental microbiota</b> of the large cabbage butterfly <i>Pieris brassicae</i> influences offspring performance. Parental treatment showed an effect on the larvae when they experienced a host plant shift, but not when they remain on the parental host plant. This suggests a transgenerational influence of the parental microbiota on offspring performance combining aspects of <b>transgenerational immune priming</b> and <b>dietary immunity</b>.
+When I joined the Collaborative Research Centre (CRC 973) at Freie Universität Berlin as a postdoc, I moved my research towards the next trophic level. I shifted my interest from <b>plant-microbe interactions</b> towards <b>insect-microbe symbiosis</b>. In a joint project with Wageningen University and Research (WUR) and the Berlin Center for Genomics in Biodiversity Research (BeGenDiv) we discovered that a disturbance of the <b>parental microbiota</b> in the large cabbage butterfly <i>Pieris brassicae</i> influences offspring performance. Such a <b>transgenerational function</b> was unexpected but has broader implications on the timing and acquisition of microbes by pollinators within their native environment.
 </p>
   <p>
     </p>
