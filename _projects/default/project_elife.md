@@ -21,7 +21,7 @@ Can the plant microbiome be manipulated in nature? In a time when microbiome ana
     </p>
       <img src="/assets/logo/logo64_ICE.png" alt="ICE Logo" class="rounded-sm img-fluid logo-img">
      <img src="/assets/logo/logo64_JSMC.png" alt="JSMC Logo" class="rounded-sm img-fluid logo-img"> 
-     <img src="/assets/logo/logo64_ILRS.png" alt="ILRS Logo" class="rounded-sm img-fluid logo-img">
+     <img src="/assets/logo/logo64_ILRSMIB.png" alt="ILRS Logo" class="rounded-sm img-fluid logo-img">
     <img src="/assets/logo/logo64_Leip.png" alt="Leibniz Logo" class="rounded-sm img-fluid logo-img">
     <div style="display: flex; flex-direction: column; align-items: start; gap: 5px;">
     <span>
