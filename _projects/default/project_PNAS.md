@@ -7,7 +7,11 @@ date: 2015-01-12 00:01:00 +0800
     <h2>A synthetic bacterial community saves plants from root disease</h2>
     <img data-src="{{ 'assets/images/photos/IMG_6676m.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
  <img data-src="{{ 'assets/images/photos/IMG_6443m.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
-  <hr />   
+  <hr />
+ <img src="assets/images/photos/IMG_5901m.jpg" 
+         alt="In planta microbiome manipulation" 
+         class="lazy rounded" 
+         style="float: right; width: 40%; height: auto; margin: 5px;">     
 <p>
      During my postdoc phase at the MPI for chemical ecology, we performed a large field trial and applied an artificial <b>bacterial community</b> as a <b>biocontrol agent</b>. The continues cropping of <i>Nicotiana attenuata</i> on our field plot resulted in buildup of a wilt disease, similar as observed in agricultural fields. Plants were suddenly dying and showed black root symptoms. We tested different strategies including <b>fungicide application</b> and <b>soil amendment</b> using <b>biochar</b>. This seems to be the most logical approach as young tobacco plants germinate after wildfires on burned soil. But none of these applications seems to help. </p>
         <p>
