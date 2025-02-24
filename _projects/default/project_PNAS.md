@@ -8,7 +8,7 @@ date: 2015-01-12 00:01:00 +0800
     <img data-src="{{ 'assets/images/photos/IMG_6676m.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
  <img data-src="{{ 'assets/images/photos/IMG_6443m.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
   <hr />
- <img src="assets/images/photos/IMG_5901m.jpg" 
+ <img src="assets/images/photos/588694.jpg" 
          alt="In planta microbiome manipulation" 
          class="lazy rounded" 
          style="float: right; width: 40%; height: auto; margin: 5px;">     
@@ -24,7 +24,7 @@ date: 2015-01-12 00:01:00 +0800
     </p>
      <img src="/assets/logo/logo64_ICE.png" alt="ICE Logo" class="rounded-sm img-fluid logo-img">
      <img src="/assets/logo/logo64_JSMC.png" alt="JSMC Logo" class="rounded-sm img-fluid logo-img"> 
-     <img src="/assets/logo/logo64_ILRS.png" alt="ILRS Logo" class="rounded-sm img-fluid logo-img">
+     <img src="/assets/logo/logo64_ILRSMIB.png" alt="ILRS Logo" class="rounded-sm img-fluid logo-img">
     <img src="/assets/logo/logo64_Leip.png" alt="Leibniz Logo" class="rounded-sm img-fluid logo-img">
  <div style="display: flex; flex-direction: column; align-items: start; gap: 5px;">
     <span>
