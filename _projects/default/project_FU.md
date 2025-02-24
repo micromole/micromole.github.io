@@ -5,9 +5,8 @@ date: 2013-01-12 00:01:00 +0800
 ---
 <div class="p-4">
     <h2>Transgenerational microbiome function</h2>
-    <hr />
+     <img data-src="{{ 'assets/images/covers/cover_host.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
   <img data-src="{{ 'assets/images/covers/cover_host.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
-  <img data-src="{{ 'assets/images/covers/cover_PCE.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
      <p>
        This work was generously supported by:
     </p>
@@ -27,20 +26,20 @@ Can the plant microbiome be manipulated in nature? In a time when microbiome ana
     <div style="display: flex; flex-direction: column; align-items: start; gap: 5px;">
     <span>
         Original research: 
-        <a href=" https://elifesciences.org/articles/28715">
-            Weinhold et al. 2018 eLife
+        <a href="https://journals.asm.org/doi/10.1128/aem.00596-20">
+            Paniagua Voirol et al. 2021 AEM
         </a>
     </span>
     <div style="display: flex; gap: 10px; align-items: center;">
         <span class="__dimensions_badge_embed__" 
-              data-doi="10.7554/eLife.28715" 
+              data-doi="10.1128/AEM.00596-20" 
               data-style="small_rectangle">
         </span>
         <div class='altmetric-embed' 
              data-badge-popover='bottom' 
-             data-doi='10.7554/eLife.28715'>
+             data-doi='10.1128/AEM.00596-20'>
         </div>
-        <a href="https://plu.mx/plum/a/?doi=10.7554/eLife.28715" 
+        <a href="https://plu.mx/plum/a/?doi=10.1128/AEM.00596-20" 
            class="plumx-plum-print-popup" 
            data-popup="bottom" 
            data-theme="liberty" 
