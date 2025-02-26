@@ -4,7 +4,7 @@ width: 8
 date: 2015-01-12 00:01:00 +0800
 ---
 <div class="p-4">
-    <h3>A synthetic bacterial community saves plants from root disease</h3>
+    <h3>Synthetic bacterial community saves plant from root rot</h3>
     <img data-src="{{ 'assets/images/photos/IMG_6676m.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
  <img data-src="{{ 'assets/images/photos/IMG_6443m.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
   <hr />
