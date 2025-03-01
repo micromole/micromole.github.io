@@ -4,7 +4,6 @@ width: 12
 date: 2017-06-10 00:01:00 +0800
 ---
 <h2>Past Projects</h2>
-<hr />
 <div>
 <img data-src="{{ 'assets/images/photos/IMG_7600_stitch.jpg' | relative_url }}" class="lazy w-100 rounded"   data-toggle="tooltip" data-placement="top" title="Utah field plot">
  <!--  <div class="card-body">
