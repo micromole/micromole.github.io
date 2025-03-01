@@ -97,8 +97,8 @@ awards:
         <strong>Guest Scientist</strong> FU Berlin
   date: 2017
 - name: >-
-        <strong>Research Fellowship</strong> MPG 
-  date: 2012
+        <strong>[MPG] Research Fellowship</strong> 
+  date: 2014
 #- name: >-
 #        <strong>Top ten</strong> 🏅 photo contest 
 #        <a href="https://www.pflanzenforschung.de/de/pflanzenwissen/bildstrecken/die-top-ten-2022" target="_blank"><strong>pflanzenforschung.de</strong></a>
@@ -111,5 +111,5 @@ awards:
 #  date: 2011
 #        <img src="/assets/logo/icon_ILRS.png" alt="Icon" style="width: 24px; margin-right: 5px;">
 - name: >-
-        <strong>Graduate Research Fellowship</strong> ILRS Jena
+        <strong>[ILRS] Graduate Research Fellowship</strong>
   date: 2009
