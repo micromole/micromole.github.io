@@ -28,6 +28,7 @@ body_attr: >-
         </div>
     </div>
 </div>
+<hr />
 <blockquote>
     For a complete list, go to <a href="https://scholar.google.de/citations?user=JzVuBk4AAAAJ&hl=de" target="_blank"> <i class="fab fa-google"></i> Google Scholar</a> or 
   <a href="https://www.researchgate.net/profile/Arne-Weinhold " target="_blank"> <i class="fa-brands fa-researchgate"></i> ResearchGate</a>.
@@ -46,7 +47,7 @@ body_attr: >-
     }
 }
 </style>
-  <hr />
+  
 
 
 {% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
