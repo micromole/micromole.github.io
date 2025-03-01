@@ -89,7 +89,7 @@ awards:
         <img src="/assets/logo/icon_DFG.png" alt="Icon" style="width: 24px; margin-right: 5px;">
         <strong>Research Grant</strong> WE 5403/3-1
   date: 2025
-- name: <strong>LMU Biomentoring</strong> member
+- name: <strong>LMU Biomentoring member</strong> 
   date: 2024
 - name: <strong>LMUexcellent Postdoc Support Funds</strong>
   date: 2023
@@ -97,7 +97,7 @@ awards:
         <strong>Guest Scientist</strong> FU Berlin
   date: 2017
 - name: >-
-        <strong>[MPG] Research Fellowship</strong> 
+        <strong>MPG Research Fellowship</strong> 
   date: 2014
 #- name: >-
 #        <strong>Top ten</strong> 🏅 photo contest 
@@ -111,5 +111,5 @@ awards:
 #  date: 2011
 #        <img src="/assets/logo/icon_ILRS.png" alt="Icon" style="width: 24px; margin-right: 5px;">
 - name: >-
-        <strong>[ILRS] Graduate Research Fellowship</strong>
+        <strong>ILRS Graduate Research Fellowship</strong>
   date: 2009
