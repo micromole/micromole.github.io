@@ -3,7 +3,7 @@ layout: default
 title : Projects
 navbar_title: Projects
 ---
-
+<h3>Heading 3</h3>
 {% assign cards_by_group = site.projects | sort: "date" | reverse | where: "show", true | group_by_exp: "item", "item.group" %}
 
 {% for group in cards_by_group %}
