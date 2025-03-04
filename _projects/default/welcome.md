@@ -12,7 +12,7 @@ date: 2017-05-12 00:01:00 +0800
     <p>
        My work at the <a href=" https://www.ice.mpg.de/" target="_blank">Max Planck Institute for Chemical Ecology</a> had the focus on <b>plant-microbe</b> and <b>plant-herbivore</b> interactions. I used genetically modified plants expressing antimicrobial peptides to test <b>microbiome function</b> in nature. Here, I gained a lot of experience in <b>ecological field work</b> during several field trips into the <b>Great Basin Desert of Utah (USA)</b>. I have learned how powerful it can be to apply <b>molecular tools</b> on <b>ecological questions</b>. This interdisciplinary mix of molecular, ecological and analytical work was a comprehensive training in natural sciences outside the boundaries of scientific disciplines.
         </p>
-   <img src="/assets/logo/logo48_ICE.png" alt="ICE Logo" class="rounded-sm img-fluid logo-img">
+   <img src="/assets/logo/logo64_ICE.png" alt="ICE Logo" class="rounded-sm img-fluid logo-img">
      <img src="/assets/logo/logo64_JSMC.png" alt="JSMC Logo" class="rounded-sm img-fluid logo-img"> 
      <img src="/assets/logo/logo64_ILRSMIB.png" alt="ILRS Logo" class="rounded-sm img-fluid logo-img">
     <img src="/assets/logo/logo64_Leip.png" alt="Leibniz Logo" class="rounded-sm img-fluid logo-img">
