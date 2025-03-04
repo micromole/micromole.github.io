@@ -9,5 +9,11 @@ date: 2016-01-10 00:01:00 +0800
     <p class="card-text">
       Screening native isolates by leaf infiltration. This assay allowed <i>in planta</i> activity tests of transgenic plants against individual bacterial isolates.
     </p>
+    <span>
+        Original research: 
+        <a href=" https://elifesciences.org/articles/28715">
+            Weinhold et al. 2018 eLife
+        </a>
+    </span>
   </div>
 </div>
