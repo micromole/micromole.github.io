@@ -9,7 +9,7 @@ images:
   desc: 
   link: assets/images/photos/IMG_2262m.jpg
 - src: assets/images/photos/IMG_7596m.jpg
-  title: Field Plot
+  title: Field Research
   desc: Great Basin Desert, Utah
   link: assets/images/photos/IMG_7596m.jpg
 - src: assets/images/photos/IMG_2714m.jpg
@@ -29,7 +29,7 @@ images:
   desc:
   link: assets/images/photos/IMG_3746m.jpg
 - src: assets/images/photos/IMG_7435_m.jpg
-  title: Native Environment
+  title: Field Plot
   desc: 
   link: assets/images/photos/IMG_7435_m.jpg
 ---
