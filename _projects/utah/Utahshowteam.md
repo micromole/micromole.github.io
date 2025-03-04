@@ -16,6 +16,9 @@ images:
   desc: 
 - src: assets/images/photos/IMG_4219m.jpg
   title: Nightwatch
+  desc:
+- src: assets/images/photos/IMG_9196pm.jpg
+  title: Soil Sensors
   desc: 
 
 ---
