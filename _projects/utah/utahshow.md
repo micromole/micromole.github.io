@@ -29,7 +29,7 @@ images:
   desc:
   link: assets/images/photos/IMG_3746m.jpg
 - src: assets/images/photos/IMG_7435_m.jpg
-  title: Field Plot
+  title: Utah Field Plot
   desc: 
   link: assets/images/photos/IMG_7435_m.jpg
 ---
