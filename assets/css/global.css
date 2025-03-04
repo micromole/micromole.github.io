@@ -73,7 +73,7 @@ div.lazy {
 /* Default sizes for larger screens */
 .logo-img {
     margin: 8px; /* Adds space on all sides */
-    height: 48px;
+    height: 42px;
     width: auto;
 }
 
