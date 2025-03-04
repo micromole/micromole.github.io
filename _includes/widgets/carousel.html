@@ -11,7 +11,7 @@
                 {% if item.link %}<a href="{{ item.link }}" target="_blank">{% endif %}
                 <div class="lazy always-load d-block rounded-sm" data-src="{{ item.src | relative_url }}" style="height: {{ include.height }};">
                 </div>
-                <div class="carousel-caption d-none d-md-block">
+                <div class="carousel-caption d-sm-block d-md-block">
                     <h5>{{ item.title }}</h5>
                     <p>{{ item.desc }}</p>
                 </div>
