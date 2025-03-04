@@ -23,7 +23,7 @@ images:
 - src: assets/images/photos/588694.jpg
   title: Bacterial Biocontrol
   desc:
-  link assets/images/photos/588694.jpg 
+  link: assets/images/photos/588694.jpg 
 - src: assets/images/photos/IMG_3746m.jpg
   title: Herbivore Assay
   desc: in the glasshouse
