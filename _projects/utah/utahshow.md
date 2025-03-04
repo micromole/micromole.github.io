@@ -16,15 +16,22 @@ images:
   title: Seedbank
   desc:
   link: assets/images/photos/IMG_2714m.jpg
-- src: assets/images/photos/588694.jpg
-  title: Fighting Pathogens
-  desc: with SynComs
-- src: assets/images/photos/IMG_3746m.jpg
-  title: Herbivores
-  desc: in the glasshouse
 - src: assets/images/photos/root_harvest_AWm.jpg
   title: Resilient Microbiome
   desc:
+  link: assets/images/photos/root_harvest_AWm.jpg
+- src: assets/images/photos/588694.jpg
+  title: Bacterial Biocontrol
+  desc:
+  link assets/images/photos/588694.jpg 
+- src: assets/images/photos/IMG_3746m.jpg
+  title: Herbivore Assay
+  desc: in the glasshouse
+  link: assets/images/photos/IMG_3746m.jpg
+- src: assets/images/photos/IMG_3746m.jpg
+  title: Herbivore Assay
+  desc: in the glasshouse
+  link: assets/images/photos/IMG_3746m.jpg
 ---
 
 {% include widgets/carousel.html id=page.id images=page.images height=page.height %}
