@@ -1,5 +1,5 @@
 primary_name: "Name Blackbeard"
-secondary_name: "xx"
+secondary_name: 
 navbar_name: "Microbial Molecular Ecology"
 
 positions:
@@ -41,8 +41,7 @@ short_bio: >-
 
 portrait_url: /assets/images/photos/AW_logo.jpg
 portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
-
+  
 education:
 - name: Friedrich-Schiller-University Jena
   logo: /assets/logo/icon_FSU.png
