@@ -6,7 +6,7 @@ height: 295px
 images:
 - src: assets/images/photos/IMG_0284m.jpg
   title: Utah Team
-  desc: 2011 season
+  desc:
   link: assets/images/photos/IMG_0284m.jpg
 - src: assets/images/photos/IMG_5987m.jpg
   title: Hiking
