@@ -4,7 +4,7 @@ width: 4
 date: 2015-06-10 00:01:00 +0800
 ---
 <div>
-   <h3>Photo Contest</h3>
+   <h4>Photo Contest</h4>
   <img data-src="{{ 'assets/images/photos/IMG_2932m.jpg' | relative_url }}" class="lazy w-100 rounded" src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Manduca sexta">
   <div class="card-body">
     <p class="card-text">
