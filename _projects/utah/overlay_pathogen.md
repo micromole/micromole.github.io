@@ -1,10 +1,10 @@
 ---
 show: true
 width: 4
-date: 2013-01-12 00:01:00 +0800
+date: 2012-01-12 00:01:00 +0800
 ---
 <div>
-  <img data-src="{{ 'assets/images/photos/IMG_2096m.jpg' | relative_url }}" class="lazy w-100 rounded-sm" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+  <img data-src="{{ 'assets/images/photos/IMG_2096m.jpg' | relative_url }}" class="lazy w-75 rounded-sm" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
 
   <div class="card-img-overlay" style="overflow: scroll; background: rgb(255,255,255,0.5)">
     <h5 class="card-title">Pathogen Dynamics</h5>
