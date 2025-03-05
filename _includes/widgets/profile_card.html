@@ -105,6 +105,15 @@
                             <i class="fab fa-github"></i> GitHub
                         </a>
                         {% endif %}
+
+                        {% if site.data.profile.round_logo1 %}
+                        <img 
+                         src="{{ site.data.profile.round_logo1 | relative_url }}" 
+                        class="rounded-circle img-fluid" 
+                        style="height: 96px; width: 96px; margin-left: 10px;" 
+                        alt="Circular Image">
+                        {% endif %}
+
                     </div>
                 </div>
             </div>
