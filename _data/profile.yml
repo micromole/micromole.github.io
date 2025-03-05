@@ -21,6 +21,8 @@ bluesky: micromole.bsky.social  # Do not include the '@' symbol
 researchgate: Arne-Weinhold
 # linkedin: your-linked-in-id
 orcid: 0000-0001-9999-7450
+round_logo1: /assets/images/photos/portrait.jpg
+
 
 short_bio_text_justify: true
 short_bio: >-
