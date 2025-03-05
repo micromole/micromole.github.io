@@ -13,7 +13,7 @@
             <p class="mt-0 mb-0">{% include widgets/author_list.html authors=item.authors %}</p>
             <p class="mt-0 mb-0">{{item.pub_pre}}<i><strong>{{ item.pub }}</strong></i>{{ item.pub_post }} <b>{{ item.pub_date }}</b> {{ item.pub_last }}
                 {% if item.dimensions %}
-                <span style="display: inline-block; margin-left: 10px; margin-right: 10px; vertical-align: middle;">
+                <span style="display: inline-block; margin-left: 10px; margin-right: 10px; vertical-align: text-bottom;">
                 <span class="__dimensions_badge_embed__" data-doi="{{ item.dimensions | replace:'https://doi.org/', '' }}" data-style="small_rectangle"></span>
                 </span>
                 {% endif %}
@@ -44,7 +44,7 @@
                 <p class="mt-0 mb-0">{% include widgets/author_list.html authors=item.authors %}</p>
                 <p class="mt-0 mb-0">{{item.pub_pre}}<i><strong>{{ item.pub }}</strong></i>{{ item.pub_post }} <b>{{ item.pub_date }}</b> {{ item.pub_last }}
                     {% if item.dimensions %}
-                    <span style="display: inline-block; margin-left: 10px; margin-right: 10px; vertical-align: middle;">
+                    <span style="display: inline-block; margin-left: 10px; margin-right: 10px; vertical-align: text-bottom;">
                     <span class="__dimensions_badge_embed__" data-doi="{{ item.dimensions | replace:'https://doi.org/', '' }}" data-style="small_rectangle"></span>
                     </span>
                     {% endif %}
