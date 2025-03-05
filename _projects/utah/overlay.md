@@ -1,21 +1,17 @@
 ---
 show: true
 width: 4
-date: 2014-01-12 00:01:00 +0800
+date: 2013-01-12 00:01:00 +0800
 ---
 <div>
   <img data-src="{{ 'assets/images/photos/IMG_2096m.jpg' | relative_url }}" class="lazy w-100 rounded-sm" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
 
-  <div class="card-img-overlay" style="overflow: scroll; background: rgb(255,255,255,0.8)">
-    <h5 class="card-title">Image Lazyload</h5>
+  <div class="card-img-overlay" style="overflow: scroll; background: rgb(255,255,255,0.85)">
+    <h5 class="card-title">Plant Pathogen</h5>
     <p class="card-text">
-      It is highly recommended to use lazyload for images to improve page loading speed, especially for pages with many images.
+      A dynamic disease outbreak within a native population of <i>Nicotiana attenuata</i> plants was a great opportunity to study pathogen dynamics in the wild. We isolated fungi to establish a native pathovar system for laboratory screenings. This has been since used in several different projects by other researchers.
       Example code snippet:
     </p>
-    <p class="card-text">
-      {% raw %}
-      <code>&lt;img data-src=&quot;[Image URL]&quot; class=&quot;lazy w-100 rounded-sm&quot; src=&quot;{{ '/assets/images/empty_300x200.png' | relative_url }}&quot;&gt;</code>
-      {% endraw %}
-    </p>
+   
   </div>
 </div>
