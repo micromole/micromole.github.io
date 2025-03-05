@@ -23,9 +23,9 @@ researchgate: Arne-Weinhold
 orcid: 0000-0001-9999-7450
 
 round_logos:
-  - /assets/images/photos/portrait.jpg
-  - /assets/images/photos/portrait.jpg
-  - /assets/images/photos/portrait.jpg
+  - /assets/images/photos/RG_logo.jpg
+  - /assets/images/photos/scholar_logo.jpg
+  - /assets/images/photos/twitter_logo.jpg
 
 
 short_bio_text_justify: true
