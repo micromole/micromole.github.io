@@ -6,6 +6,4 @@ class: ""  # Override the default card style
 ---
 <div>
 <img src="assets/images/photos/portrait.jpg" class="rounded-circle img-fluid" style="height: 150px; width: 150px;" alt="Circular Logo">
-<img src="assets/images/photos/portrait.jpg" class="rounded-circle img-fluid" style="height: 150px; width: 150px;" alt="Circular Logo">
-<img src="assets/images/photos/portrait.jpg" class="rounded-circle img-fluid" style="height: 150px; width: 150px;" alt="Circular Logo">
 </div>
