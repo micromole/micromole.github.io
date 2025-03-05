@@ -106,13 +106,13 @@
                         </a>
                         {% endif %}
 
-                        {% if site.data.profile.round_logo1 %}
+                        {% for logo in site.data.profile.round_logos %}
                         <img 
-                         src="{{ site.data.profile.round_logo1 | relative_url }}" 
+                        src="{{ logo | relative_url }}" 
                         class="rounded-circle img-fluid" 
                         style="height: 96px; width: 96px; margin-left: 10px;" 
                         alt="Circular Image">
-                        {% endif %}
+                        {% endfor %}
 
                     </div>
                 </div>
