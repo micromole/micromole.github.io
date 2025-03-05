@@ -10,7 +10,7 @@ images:
   link: assets/images/photos/IMG_2262m.jpg
 - src: assets/images/photos/IMG_7596m.jpg
   title: Field Research
-  desc: Great Basin Desert, Utah
+  desc: 
   link: assets/images/photos/IMG_7596m.jpg
 - src: assets/images/photos/IMG_2714m.jpg
   title: Seedbank
