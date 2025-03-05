@@ -4,10 +4,11 @@ width: 4
 date: 2016-01-10 00:01:00 +0800
 ---
 <div>
-  <img data-src="{{ 'assets/images/photos/pathogenassay.jpg' | relative_url }}" class="lazy w-100 rounded" src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Pathogen Assay">
+  <h4>Isolate Screening</h4>
+  <img data-src="{{ 'assets/images/photos/pathogenassay.jpg' | relative_url }}" class="lazy w-100 rounded" src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Isolate Screening">
   <div class="card-body">
     <p class="card-text">
-      Screening native isolates by leaf infiltration. This assay allowed <i>in planta</i> activity tests of transgenic plants against individual bacterial isolates.
+      Screening of native isolates by leaf infiltration. This assay allowed <i>in planta</i> activity tests of transgenic plants with individual bacterial isolates and revealed high heterogeneity among <i>Bacillus</i> isolates.
     </p>
     <span>
         Original research: 
