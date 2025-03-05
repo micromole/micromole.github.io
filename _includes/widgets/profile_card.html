@@ -44,12 +44,14 @@
                             <a target="_blank" href="{{ site.data.profile.cv_link | relative_url }}"><i class="fas fa-file-alt"></i> Curriculum Vitae</a> <br/>
                         {% endif %}
 
-                              {% for logo in site.data.profile.round_logos %}
-                        <img 
+                        {% for logo in site.data.profile.round_logos %}
+                            <div class="figure float-right ml-4 mb-4">
+                            <img 
                         src="{{ logo | relative_url }}" 
-                        class="rounded-circle img-fluid" 
-                        style="height: 72px; width: 72px; margin-left: 10px; margin-top: 10px;" 
+                        class="figure-img rounded-circle img-fluid" 
+                        style="height: 72px; width: 72px;" 
                         alt="Circular Image">
+                        </div>
                         {% endfor %}
                     </div>
         
