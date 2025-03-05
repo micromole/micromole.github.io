@@ -4,7 +4,7 @@ width: 8
 date: 2015-01-12 00:01:00 +0800
 ---
 <div class="p-4">
-    <h3>Synthetic bacterial community saves plant from root rot</h3>
+    <h3>Applying SynCom for Biocontrol</h3>
     <img data-src="{{ 'assets/images/photos/588694.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
  <img data-src="{{ 'assets/images/photos/IMG_6443m.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
   <hr />
@@ -13,17 +13,16 @@ date: 2015-01-12 00:01:00 +0800
          class="lazy rounded" 
          style="float: right; width: 40%; height: auto; margin: 5px;">     
 <p>
-     One of our larger field trials tested the application of a <b>SynCom</b> (<b>synthetic bacterial community</b>) as <b>biocontrol agent</b>. The continues cropping of <i>Nicotiana attenuata</i> on the research field plot resulted in the buildup of soil borne pathogens, similar as observed in agricultural fields. Plants were suddenly dying and showed black root symptoms. We tested different strategies including <b>fungicide application</b> and <b>soil amendment</b> using <b>biochar</b>. This appeared as a logical approach as young tobacco plants germinate after wildfires on burned soil. But none of these applications helped. </p>
+     One of our larger field trials with more than 735 plants tested the application of a <b>SynCom</b> (<b>synthetic bacterial community</b>) as <b>biocontrol agent</b>. The continues cropping of <i>Nicotiana attenuata</i> on the research field plot resulted in the buildup of soil borne pathogens, similar as observed in agricultural fields. Plants were suddenly dying and showed black root symptoms. We tested different strategies including <b>fungicide application</b> and <b>soil amendment</b> using <b>biochar</b>. This appeared as a logical approach as young tobacco plants germinate after wildfires on burned soil. But none of these applications helped. </p>
         <p>
-     The best reduction in plant mortality could be achieved via inoculation with a <b>SynCom</b> of five strains. Individual inoculations where not  effective, but the combination of all strains with synergistic effects. These experiments showed how important the early establishment of a microbial partnership is for plants.
+     The best reduction in plant mortality could be achieved via inoculation with a <b>SynCom</b> of five bacterial strains. Individual inoculations where not as effective, but the combination of all strains showed synergistic effects. These experiments highlight the importance of an early establishment of a microbial partnership with plants.
 </p>
 <blockquote cite="https://www.mpg.de/9373626/bacteria-tabacco-root-disease">
-<q><i>So far, only individual bacterial strains had been applied in agriculture. However, bacteria do not live alone, they form communities which complement each other. Only when they interact with each other they can exert their positive effects on plant health.</i></q> (source <a href="https://www.mpg.de/9373626/bacteria-tabacco-root-disease">MPG Research News</a>)</blockquote>
+<q><i>So far, only individual bacterial strains had been applied in agriculture. However, bacteria do not live alone, they form communities which complement each other. Only when they interact with each other they can exert their positive effects on plant health.</i></q> Arne Weinhold (source <a href="https://www.mpg.de/9373626/bacteria-tabacco-root-disease">MPG Research News</a>)</blockquote>
      <p>
-       This work was generously supported by:
-    </p>
+       </p>
      <img src="/assets/logo/logo64_ICE.png" alt="ICE Logo" class="rounded-sm img-fluid logo-img">
-     <img src="/assets/logo/logo64_JSMC.png" alt="JSMC Logo" class="rounded-sm img-fluid logo-img"> 
+     <img src="/assets/logo/logo64_minerva.png" alt="JSMC Logo" class="rounded-sm img-fluid logo-img"> 
      <img src="/assets/logo/logo64_ILRSMIB.png" alt="ILRS Logo" class="rounded-sm img-fluid logo-img">
     <img src="/assets/logo/logo64_Leip.png" alt="Leibniz Logo" class="rounded-sm img-fluid logo-img">
  <div style="display: flex; flex-direction: column; align-items: start; gap: 5px;">
