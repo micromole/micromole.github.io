@@ -14,7 +14,7 @@ abstract: >-
                                          
 cover:          /assets/images/covers/cover_bumble.jpg
 authors:
-  - Weinhold A#
+  - Weinhold A*
   - Grüner E
   - Keller A
 links:
