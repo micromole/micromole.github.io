@@ -1,26 +1,17 @@
 ---
 show: true
 width: 8
-date: 2024-01-12 00:01:00 +0800
+date: 2025-01-04 00:01:00 +0800
 ---
 
 <div class="p-4">
-    <h2>Welcome to Research!</h2>
+    <h3>Welcome Plant Microbiome Function</h3>
+       <img data-src="{{ 'assets/images/photos/IMG_2714m.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+ <img data-src="{{ 'assets/images/photos/IMG_4270m.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
     <hr />
-     <img src="/assets/logo/logo_LMU.png" alt="Image 3" class="rounded-sm img-fluid logo-img">
-     <img src="/assets/logo/logo_DFG.png" alt="Image 3" class="rounded-sm img-fluid logo-img"> 
-    <hr />
     <p>
-        <code>Research </code> is a page where you can show off almost anything you want. It can be the photo of your pets, your favorite books, your favorite projects, or anything else you want to show to the world.
-    </p>
-    <p>
-        You can create a new showcase item by creating a new file in the <code>_showcase</code> folder. It gives you the highest flexibility to customize the item using any HTML code.
-    </p>
-    <p>
-        Cards are ordered by the <code>date</code> field in the front matter in descending order. The <code>width</code> field is used to determine the width of the card, ranging from 1 to 12.
-        Layout is done by the <a href="https://masonry.desandro.com/" target="_blank">Masonry</a> library.
-    </p>
-    <p>
-        For a tidy layout, it is recommended to set the width of the cards to be either multiple of 3 or multiple of 4 for all cards, except for small badges that do not take up much space (width=1).
-    </p>
-</div>
+       My work at the <a href=" https://www.ice.mpg.de/" target="_blank">Max Planck Institute for Chemical Ecology</a> had the focus on <b>plant-microbe</b> and <b>plant-herbivore</b> interactions. I used genetically modified plants expressing antimicrobial peptides to test <b>microbiome function</b> in nature. Here, I gained a lot of experience in <b>ecological field work</b> during several field trips into the <b>Great Basin Desert of Utah (USA)</b>. I have learned how powerful it can be to apply <b>molecular tools</b> on <b>ecological questions</b>. This interdisciplinary mix of molecular, ecological and analytical work was a comprehensive training in natural sciences outside the boundaries of scientific disciplines. My graduate research training was funded by the <b>International Leibniz Research School for Microbial and Biomolecular Interactions</b> (<a href="https://www.ilrs.de/" target="_blank">ILRS</a>), which is part of the <b>Jena School for Microbial Communication</b> (<a href="https://www.jsmc-phd.de/" target="_blank">JSMC</a>).
+        </p>
+   <img src="/assets/logo/logo64_LMU.png" alt="ICE Logo" class="rounded-sm img-fluid logo-img">
+     <img src="/assets/logo/logo_DFG.png" alt="JSMC Logo" class="rounded-sm img-fluid logo-img"> 
+    </div>
