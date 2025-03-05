@@ -8,14 +8,17 @@ images:
   title: Utah Team
   desc:
   link: assets/images/photos/IMG_0284m.jpg
-- src: assets/images/photos/IMG_5987m.jpg
-  title: Hiking
+- src: assets/images/photos/IMG_2273m.jpg
+  title: Sampling
   desc: 
 - src: assets/images/photos/IMG_4455m.jpg
   title: Root Harvest
   desc: 
 - src: assets/images/photos/IMG_4219m.jpg
   title: Nightwatch
+  desc:
+- src: assets/images/photos/IMG_5698m.jpg
+  title: Manduca quinquemaculata
   desc:
 - src: assets/images/photos/IMG_9196pm.jpg
   title: Soil Sensors
