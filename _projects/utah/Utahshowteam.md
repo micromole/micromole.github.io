@@ -20,9 +20,6 @@ images:
 - src: assets/images/photos/IMG_5698m.jpg
   title: Manduca quinquemaculata
   desc:
-- src: assets/images/photos/IMG_9196pm.jpg
-  title: Soil Sensors
-  desc: 
 
 ---
 
