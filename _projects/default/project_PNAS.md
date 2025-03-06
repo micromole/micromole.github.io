@@ -18,7 +18,9 @@ date: 2015-01-12 00:01:00 +0800
      The best reduction in plant mortality could be achieved via inoculation with a <b>SynCom</b> of five bacterial strains. Individual inoculations where not as effective, but the combination of all strains showed synergistic effects. These experiments highlight the importance of an early establishment of a microbial partnership with plants.
 </p>
 <blockquote cite="https://www.mpg.de/9373626/bacteria-tabacco-root-disease">
-<q><i>So far, only individual bacterial strains had been applied in agriculture. However, bacteria do not live alone, they form communities which complement each other. Only when they interact with each other they can exert their positive effects on plant health.</i></q> Arne Weinhold (source <a href="https://www.mpg.de/9373626/bacteria-tabacco-root-disease">MPG Research News</a>)</blockquote>
+So far, only individual bacterial strains had been applied in agriculture. However, bacteria do not live alone, they form communities which complement each other. Only when they interact with each other they can exert their positive effects on plant health. 
+    <footer>Arne Weinhold (source <a href="https://www.mpg.de/9373626/bacteria-tabacco-root-disease">MPG Research News</a>)</footer>
+</blockquote>
      <p>
        </p>
      <img src="/assets/logo/logo64_ICE.png" alt="ICE Logo" class="rounded-sm img-fluid logo-img">
