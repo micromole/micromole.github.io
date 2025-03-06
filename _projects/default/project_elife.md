@@ -4,7 +4,7 @@ width: 8
 date: 2016-01-12 00:01:00 +0800
 ---
 <div class="p-4">
-    <h3>Resilient microbiome</h3>
+    <h3>Resilient Microbiome</h3>
      <img data-src="{{ 'assets/images/photos/root_harvest_AWm.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
   <img data-src="{{ 'assets/images/photos/Utah_fieldm.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
  <hr />
