@@ -32,6 +32,10 @@ images:
   title: Utah Field Plot
   desc: 
   link: assets/images/photos/IMG_7435_m.jpg
+- src: assets/images/photos/IMG_4270m.jpg
+  title: Manduca in the Field
+  desc: 
+  link: assets/images/photos/IMG_4270m.jpg
 ---
 
 {% include widgets/carousel.html id=page.id images=page.images height=page.height %}
