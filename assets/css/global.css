@@ -70,6 +70,24 @@ div.lazy {
     min-height: 80px;
 }
 
+blockquote {
+    font-style: italic;
+    color: #555;
+    border-left: 10px solid #3498db;
+    background: #ecf5fc;
+    padding: 15px 20px;
+    margin: 20px 0;
+    width: 100%;
+    position: relative;
+}
+
+blockquote::before {
+    content: '\f10d';
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    margin-right: 10px;
+}
+
 /* Default sizes for larger screens */
 .logo-img {
     margin: 8px; /* Adds space on all sides */
