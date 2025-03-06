@@ -4,9 +4,9 @@ navbar_name: "Microbial Molecular Ecology"
 
 positions:
 - logo: /assets/logo/icon_LMU.png   # Logo is optional
-  name: LMU Munich, Cellular and Organismic Networks 
+  name: LMU Munich, CORA - Center for Organismic Adaptation 
 - logo: /assets/logo/icon_DFG.png  # Logo is optional
-  name: Principal investigator
+  name: PI @ Cellular and Organismic Networks
 
 
 email: "arne.weinhold@bio.lmu.de"
