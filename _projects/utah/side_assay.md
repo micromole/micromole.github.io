@@ -8,7 +8,7 @@ date: 2016-01-10 00:01:00 +0800
   <div class="card-img-overlay" style="overflow: scroll; background: rgb(255,255,255,0.5)">
     <h5 class="card-title">Isolate Screening</h5>
     <p class="card-text">
-      I developed a customized leaf infiltration assay to screen transgenic plants for <i>in planta</i> activity. Native isolates revealed high heterogeneity in their suceptability towards antimicrobial petides.
+      I customized a leaf infiltration assay to screen transgenic plants for <i>in planta</i> activity against native isolates.
     </p>
      </div>
 </div>
