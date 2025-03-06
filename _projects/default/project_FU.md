@@ -5,7 +5,7 @@ title: Functional ecology of the butterfly microbiota
 date: 2017-05-15 00:01:00 +0800
 ---
 <div class="p-4">
-     <h3>Functional Ecology of the Parental Microbiota</h3>
+     <h3>Parental legacy of the butterfly microbiota</h3>
      <img data-src="{{ 'assets/images/photos/IMG_2685m.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
     <img data-src="{{ 'assets/images/photos/IMG_2631_m.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
      <hr />
@@ -14,10 +14,8 @@ date: 2017-05-15 00:01:00 +0800
          class="lazy rounded" 
          style="float: right; width: 40%; height: auto; margin: 5px;">   
 <p>
-When I joined the <b>Collaborative Research Centre</b> (<a href="https://www.sfb973.de/" target="_blank">CRC 973</a>) at <a href="https://www.bcp.fu-berlin.de/en/biologie/arbeitsgruppen/zoologie/ag_hilker/" target="_blank">Freie Universität Berlin</a>, I moved my research interests towards the next trophic level and shifted from <b>plant-microbe interactions</b> towards <b>insect-microbe symbiosis</b>. As part of a joint project with Wageningen University (<a href="https://www.wur.nl/en.htm" target="_blank">WUR</a>) and the Berlin Center for Genomics in Biodiversity Research (<a href="https://begendiv.de/" target="_blank">BeGenDiv</a>), I quantified the microbiota of the large cabbage butterfly <i>Pieris brassicae</i>. A disturbance of the <b>parental microbiota</b> influences offspring performance. Such a <b>transgenerational function</b> was unexpected but has broader implications on the timing and acquisition of microbes by pollinators within their native environment.
+As a postdoctoral researcher within the <b>Collaborative Research Centre</b> (<a href="https://www.sfb973.de/" target="_blank">CRC 973</a>) at <a href="https://www.bcp.fu-berlin.de/en/biologie/arbeitsgruppen/zoologie/ag_hilker/" target="_blank">Freie Universität Berlin</a>, I investigated how a disturbance of the <b>parental microbiota</b> of the large cabbage butterfly (<i>Pieris brassicae</i>) influences offspring performance. Parental treatment showed an effect on the larvae when they experienced a host plant shift. This suggests a transgenerational influence of the <strong>parental microbiota</strong> on offspring performance combining <strong>transgenerational immune priming</strong> and <strong>dietary immunity</strong>.   
 </p>
-  <p>
-    </p>
       <img src="/assets/logo/logo64_FU.png" alt="Image 3" class="rounded-sm img-fluid logo-img">
      <img src="/assets/logo/logo64_CRC973.png" alt="Image 3" class="rounded-sm img-fluid logo-img"> 
      <img src="/assets/logo/logo64_DCPS.png" alt="Image 1" class="rounded-sm img-fluid logo-img">
