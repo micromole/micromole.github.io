@@ -43,10 +43,10 @@ short_bio: >-
   <p>
    Currently I am working at the <a href="https://www.cora.bio.lmu.de/">Center for Organismic Adaptation (CORA)</a> at LMU Munich.
    Before I have worked on <strong>Microbiome Function</strong> in plants and insects (see <a href="{{ 'projects' | relative_url }}">past projects <i class="fas fa-angle-double-right"></i></a>).
-   xxx <p>
-  See <a href="{{ 'projects' | relative_url }}">past projects <i class="fas fa-angle-double-right"></i></a>.
-  yyy {% capture projects_url %}{{ 'projects' | relative_url }}{% endcapture %}
-<a href="{{ projects_url }}">past projects</a>
+   xxx <a href="{{ 'projects' | relative_url }}">past projects <i class="fas fa-angle-double-right"></i></a>.
+  yyy {% capture projects_url %}{{ 'projects' | relative_url }}{% endcapture %} 
+  zzz <a href="{{ projects_url }}">past projects</a>
+  aaa <a href="/projects">past projects <i class="fas fa-angle-double-right"></i></a>
    </p> 
   <blockquote>
         <q>...what I consider is the key aspect of the future of education in the life sciences,
