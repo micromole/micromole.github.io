@@ -43,7 +43,7 @@ short_bio: >-
   <p>
    Currently I am working at the <a href="https://www.cora.bio.lmu.de/">Center for Organismic Adaptation (CORA)</a> at LMU Munich.
    Before I have worked on <strong>Microbiome Function</strong> in plants and insects (see <a href="{{ 'projects' | relative_url }}">past projects <i class="fas fa-angle-double-right"></i></a>).
-   </p>
+   </p> xxx [Past Projects]({{ 'projects' | relative_url }}) {: .fas .fa-angle-double-right}
   <blockquote>
         <q>...what I consider is the key aspect of the future of education in the life sciences,
         a curriculum based on the ecology and evolution of the biosphere that integrates microbiology and macrobiology
