@@ -13,9 +13,9 @@ date: 2015-01-12 00:01:00 +0800
          class="lazy rounded" 
          style="float: right; width: 40%; height: auto; margin: 5px;">     
 <p>
-     One of our larger field trials with more than 735 plants tested the application of a <b>SynCom</b> (<b>synthetic bacterial community</b>) as <b>biocontrol agent</b>. The continues cropping of <i>Nicotiana attenuata</i> on the research field plot resulted in the buildup of soil borne pathogens, similar as observed in agricultural fields. Plants were suddenly dying and showed black root symptoms. We tested different strategies including <b>fungicide application</b> and <b>soil amendment</b> using <b>biochar</b>. This appeared as a logical approach as young tobacco plants germinate after wildfires on burned soil. But none of these applications helped. </p>
+     In one of our largest field trials we tested the application of a <b>SynCom</b> (<b>synthetic bacterial community</b>) as <b>biocontrol agent</b> on more than 735 plants. The continues cropping of <i>Nicotiana attenuata</i> on the research field plot resulted in the buildup of soil borne pathogens, similar as observed in agricultural fields. Plants were suddenly dying and showed black root symptoms. We tested different strategies including <b>fungicide application</b> and <b>soil amendment</b>. The use of <b>biochar</b> seemed like a natural choice, as young tobacco plants germinate after wildfires on burned soil. But none of these applications helped. </p>
         <p>
-     The best reduction in plant mortality could be achieved via inoculation with a <b>SynCom</b> of five bacterial strains. Individual inoculations where not as effective, but the combination of all strains showed synergistic effects. These experiments highlight the importance of an early establishment of a microbial partnership with plants.
+     The best reduction in plant mortality could be achieved via inoculation with a <b>SynCom</b> of five bacterial strains. While individual inoculations where not as effective, the combination of all strains showed synergistic effects. These experiments highlight the importance of an early establishment of a microbial partnership with plants.
 </p>
 <blockquote cite="https://www.mpg.de/9373626/bacteria-tabacco-root-disease">
 So far, only individual bacterial strains had been applied in agriculture. However, bacteria do not live alone, they form communities which complement each other. Only when they interact with each other they can exert their positive effects on plant health. 
@@ -30,9 +30,7 @@ So far, only individual bacterial strains had been applied in agriculture. Howev
  <div style="display: flex; flex-direction: column; align-items: start; gap: 5px;">
     <span>
         Original research: 
-        <a href="https://www.pnas.org/doi/full/10.1073/pnas.1505765112">
-            Santhanam et al. 2015 PNAS
-        </a>
+        <a href="https://www.pnas.org/doi/full/10.1073/pnas.1505765112" target="_blank">Santhanam et al. 2015 PNAS</a>
     </span>
     <div style="display: flex; gap: 10px; align-items: center;">
         <span class="__dimensions_badge_embed__" 
