@@ -45,6 +45,8 @@ short_bio: >-
    Before I have worked on <strong>Microbiome Function</strong> in plants and insects (see <a href="{{ 'projects' | relative_url }}">past projects <i class="fas fa-angle-double-right"></i></a>).
    xxx <p>
   See <a href="{{ 'projects' | relative_url }}">past projects <i class="fas fa-angle-double-right"></i></a>.
+  yyy {% capture projects_url %}{{ 'projects' | relative_url }}{% endcapture %}
+<a href="{{ projects_url }}">past projects</a>
    </p> 
   <blockquote>
         <q>...what I consider is the key aspect of the future of education in the life sciences,
