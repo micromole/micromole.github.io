@@ -8,7 +8,7 @@ navbar_title: Projects
 
 {% for group in cards_by_group %}
 <h3>{{ group.name }}</h3>
-<div class="row grid mb-4"style="text-align: justify;">
+<div class="row grid mb-4">
     <div class="grid-sizer col-1"></div>
     {% for item in group.items %}
     {% if item.width >= 4 -%}
