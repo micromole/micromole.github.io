@@ -4,7 +4,7 @@ width: 8
 date: 2019-01-04 00:01:00 +0800
 ---
 
-<div class="p-4">
+<div class="p-4" style="text-align: justify;">
     <h3>Microbiome Function</h3>
         <p>
        My past research primarily focused on <strong>Microbiome Function</strong> in plants and insects. Here, I used manipulative approaches and molecular tools to explore consequences of microbiome disturbances in both laboratory and field settings.  </p>
