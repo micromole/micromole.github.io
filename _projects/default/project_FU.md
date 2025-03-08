@@ -14,13 +14,10 @@ date: 2017-05-15 00:01:00 +0800
          class="lazy rounded" 
          style="float: right; width: 40%; height: auto; margin: 5px;">   
 <p>
-As a postdoctoral researcher within the <b>Collaborative Research Centre</b> (<a href="https://www.sfb973.de/" target="_blank">CRC 973</a>) at <a href="https://www.bcp.fu-berlin.de/en/biologie/arbeitsgruppen/zoologie/ag_hilker/" target="_blank">Freie Universität Berlin</a>, I investigated how a disturbance of the <b>parental microbiota</b> of the large cabbage butterfly (<i>Pieris brassicae</i>) influences offspring performance. Parental treatment showed an effect on the larvae when they experienced a host plant shift. This suggests a transgenerational influence of the <strong>parental microbiota</strong> on offspring performance combining <strong>transgenerational immune priming</strong> and <strong>dietary immunity</strong>.   
+While working as a postdoctoral researcher within the <b>Collaborative Research Centre</b> (<a href="https://www.sfb973.de/" target="_blank">CRC 973</a>) at <a href="https://www.bcp.fu-berlin.de/en/biologie/arbeitsgruppen/zoologie/ag_hilker/" target="_blank">Freie Universität Berlin</a>, I investigated how a disturbance of the <b>parental microbiota</b> of the large cabbage butterfly (<i>Pieris brassicae</i>) influences offspring performance. Parental treatment showed an effect on the larvae when they experienced a host plant shift. This suggests a transgenerational influence of the <strong>parental microbiota</strong> on offspring performance combining <strong>transgenerational immune priming</strong> and <strong>dietary immunity</strong>.   
 </p>
-      <img src="/assets/logo/logo64_FU.png" alt="Image 3" class="rounded-sm img-fluid logo-img">
-     <img src="/assets/logo/logo64_CRC973.png" alt="Image 3" class="rounded-sm img-fluid logo-img"> 
-     <img src="/assets/logo/logo64_DCPS.png" alt="Image 1" class="rounded-sm img-fluid logo-img">
-    <img src="/assets/logo/logo64_DFGalt.png" alt="Image 1" class="rounded-sm img-fluid logo-img">
-    <div style="display: flex; flex-direction: column; align-items: start; gap: 5px;">
+      
+<div style="display: flex; flex-direction: column; align-items: start; gap: 5px;">
     <span>
         Original research: 
         <a href="https://journals.asm.org/doi/10.1128/aem.00596-20">
@@ -45,5 +42,8 @@ As a postdoctoral researcher within the <b>Collaborative Research Centre</b> (<a
         </a>
     </div>
 </div>
-
+<img src="/assets/logo/logo64_FU.png" alt="Image 3" class="rounded-sm img-fluid logo-img">
+     <img src="/assets/logo/logo64_CRC973.png" alt="Image 3" class="rounded-sm img-fluid logo-img"> 
+     <img src="/assets/logo/logo64_DCPS.png" alt="Image 1" class="rounded-sm img-fluid logo-img">
+    <img src="/assets/logo/logo64_DFGalt.png" alt="Image 1" class="rounded-sm img-fluid logo-img">
 </div>
