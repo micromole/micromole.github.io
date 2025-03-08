@@ -13,15 +13,9 @@ date: 2016-01-12 00:01:00 +0800
          class="lazy rounded" 
          style="float: right; width: 48%; height: auto; margin: 5px;">   
 <p>
-How to manipulate a plant microbiome under field conditions? During my time at the <a href=" https://www.ice.mpg.de/" target="_blank">Max Planck Institute for Chemical Ecology</a>, I aimed at an <i>in-planta</i> <b>microbiome manipulation</b> approach using transgenic plants. The goal was to test <b>microbiome function</b> directly within a plants’ natural habitat. From a tested antimicrobial peptides (AMPs) only a few turned out as suitable candidates. However, the native endophytic bacteria exhibited highly variable susceptibility to the expressed peptide, resulting in a resilient microbiome under field conditions. This highlights the importance of field research, as lab-based assays alone cannot resolve the resilience of natural microbial communities.
+How to manipulate a plant microbiome under field conditions? During my time at the <a href=" https://www.ice.mpg.de/" target="_blank">Max Planck Institute for Chemical Ecology</a>, I aimed at an <i>in-planta</i> <b>microbiome manipulation</b> approach using transgenic plants. The goal was to test <b>microbiome function</b> directly within a plants’ natural habitat. From several tested antimicrobial peptides (AMPs) only a few turned out as suitable candidates. However, the native endophytic bacteria exhibited highly variable susceptibility to the expressed peptide, resulting in a resilient microbiome under field conditions. This highlights the importance of field research, as lab-based assays alone cannot resolve the resilience of natural microbial communities.
 </p>
 <blockquote>In order to manipulate the microbiome, we used the expression of antimicrobial peptides. Our plants showed activity against different Bacillus species, which are mainly known as plant beneficial microbes. We assumed that that these transgenic plants might show deficits in growth or reproduction in field experiments. In other words: we wanted to make an unhappy plant to see how important microbes are for them. To our surprise, the plants appeared rather unimpressed when we compared them with controls in the field, first author Arne Weinhold summarizes. <cite>(source <a href=" https://phys.org/news/2018-04-microbiome-native-resilient.html">MPG press release</a>)</cite></blockquote>
-    <p>
-    </p>
-      <img src="/assets/logo/logo64_ICE.png" alt="ICE Logo" class="rounded-sm img-fluid logo-img">
-     <img src="/assets/logo/logo64_JSMC.png" alt="JSMC Logo" class="rounded-sm img-fluid logo-img"> 
-     <img src="/assets/logo/logo64_ILRSMIB.png" alt="ILRS Logo" class="rounded-sm img-fluid logo-img">
-    <img src="/assets/logo/logo64_Leip.png" alt="Leibniz Logo" class="rounded-sm img-fluid logo-img">
     <div style="display: flex; flex-direction: column; align-items: start; gap: 5px;">
     <span>
         Original research: 
@@ -47,5 +41,8 @@ How to manipulate a plant microbiome under field conditions? During my time at t
         </a>
     </div>
 </div>
-
+ <img src="/assets/logo/logo64_ICE.png" alt="ICE Logo" class="rounded-sm img-fluid logo-img">
+     <img src="/assets/logo/logo64_JSMC.png" alt="JSMC Logo" class="rounded-sm img-fluid logo-img"> 
+     <img src="/assets/logo/logo64_ILRSMIB.png" alt="ILRS Logo" class="rounded-sm img-fluid logo-img">
+    <img src="/assets/logo/logo64_Leip.png" alt="Leibniz Logo" class="rounded-sm img-fluid logo-img">
 </div>
