@@ -68,18 +68,15 @@
                     {% endif %}
 
                 </div>
-  <!-- Background Image Below the Sections with Semi-transparent Overlay -->
-                <div class="card-img-overlay" style="overflow: scroll; position: relative; background: rgba(255, 255, 255, 0.5);">
-                    <!-- Image with lazy load -->
-                    <img data-src="{{ 'assets/images/photos/IMG_2096m.jpg' | relative_url }}" class="lazy w-100 rounded-sm" src="{{ '/assets/images/empty_300x200.png' | relative_url }}" alt="Faint Image Background">
-                    <!-- Add Text on top of the Image (Optional) -->
-                    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: white;">
-                         <h5>This is some content on top of the faint image</h5>
-                    </div>
-  </div>
-  </div>
- <!-- Semi-transparent white overlay -->
+
             </div>
         </div>
+    </div>
+</div>
+<!-- Image Background Below the Experience, Education, and Awards -->
+<div class="card mt-4" style="position: relative; background: rgba(255, 255, 255, 0.5);">
+    <img data-src="{{ 'assets/images/photos/IMG_2096m.jpg' | relative_url }}" class="lazy w-100 rounded-sm" src="{{ '/assets/images/empty_300x200.png' | relative_url }}" alt="Background Image" style="height: auto; max-height: 300px; object-fit: cover;">
+    <div class="card-img-overlay d-flex flex-column justify-content-center align-items-center text-center" style="background: rgba(255, 255, 255, 0.5);">
+        <h5 class="text-dark">This is some content on top of the faint image</h5>
     </div>
 </div>
