@@ -88,6 +88,10 @@ blockquote::before {
     margin-right: 10px;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 /* Default sizes for larger screens */
 .logo-img {
     margin: 8px; /* Adds space on all sides */
