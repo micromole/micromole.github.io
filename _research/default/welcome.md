@@ -6,7 +6,7 @@ date: 2025-01-04 00:01:00 +0800
 
 <div class="p-4">
     <h3>Welcome Plant Microbiome Function</h3>
-       <img data-src="{{ 'assets/images/photos/IMG_2714m.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+       <img data-src="{{ 'assets/images/photos/IMG_5899m.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
  <img data-src="{{ 'assets/images/photos/IMG_4270m.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
     <hr />
     <p>
