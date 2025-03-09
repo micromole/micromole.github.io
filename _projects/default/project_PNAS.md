@@ -4,7 +4,7 @@ width: 8
 date: 2015-01-12 00:01:00 +0800
 ---
 <div class="p-4">
-    <h3 id="PNAS">Applying SynCom for Biocontrol</h3>
+    <h3 id="SynCom">Applying SynCom for Biocontrol</h3>
     <img data-src="{{ 'assets/images/photos/588694.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
  <img data-src="{{ 'assets/images/photos/IMG_6443m.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
   <hr />
