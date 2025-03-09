@@ -21,13 +21,7 @@ date: 2015-01-12 00:01:00 +0800
 So far, only individual bacterial strains had been applied in agriculture. However, bacteria do not live alone, they form communities which complement each other. Only when they interact with each other they can exert their positive effects on plant health. 
     <footer>— Arne Weinhold (source <a href="https://www.mpg.de/9373626/bacteria-tabacco-root-disease">MPG Research News</a>)</footer>
 </blockquote>
-     <p>
-       </p>
-     <img src="/assets/logo/logo64_ICE.png" alt="ICE Logo" class="rounded-sm img-fluid logo-img">
-     <img src="/assets/logo/logo64_minerva.png" alt="JSMC Logo" class="rounded-sm img-fluid logo-img"> 
-     <img src="/assets/logo/logo64_ILRSMIB.png" alt="ILRS Logo" class="rounded-sm img-fluid logo-img">
-    <img src="/assets/logo/logo64_Leip.png" alt="Leibniz Logo" class="rounded-sm img-fluid logo-img">
- <div style="display: flex; flex-direction: column; align-items: start; gap: 5px;">
+     <div style="display: flex; flex-direction: column; align-items: start; gap: 5px;">
     <span>
         Original research: 
         <a href="https://www.pnas.org/doi/full/10.1073/pnas.1505765112" target="_blank">Santhanam et al. 2015 PNAS</a>
@@ -50,7 +44,10 @@ So far, only individual bacterial strains had been applied in agriculture. Howev
         </a>
     </div>
 </div>
-
-
+    <img src="/assets/logo/logo64_ICE.png" alt="ICE Logo" class="rounded-sm img-fluid logo-img">
+     <img src="/assets/logo/logo64_minerva.png" alt="JSMC Logo" class="rounded-sm img-fluid logo-img"> 
+     <img src="/assets/logo/logo64_ILRSMIB.png" alt="ILRS Logo" class="rounded-sm img-fluid logo-img">
+    <img src="/assets/logo/logo64_Leip.png" alt="Leibniz Logo" class="rounded-sm img-fluid logo-img">
+<p><a href="#top">Back to Top</a></p>
 </div>
 
