@@ -1,7 +1,12 @@
 {% assign news_by_year = site.news | sort: "date" | reverse | slice: 0, include.limit | group_by_exp: "item", "item.date | date: '%Y'" -%}
 
 <div class="my-3 bg-white shadow-sm rounded-sm">
-    <h6 class="p-3 mb-0 border-bottom border-gray"><i class="fas fa-rss"></i> News</h6>
+    <h6 class="p-3 mb-0 border-bottom border-gray" 
+        style="background: url('/assets/images/photos/IMG_2096m.jpg') center/cover no-repeat, rgba(255,255,255,0.6);
+               backdrop-filter: blur(3px); 
+               border-radius: 10px;">
+        <i class="fas fa-rss"></i> News
+    </h6>
     <div class="px-3 pb-1">
         {% for year in news_by_year %}
         <div class="media py-1 {% if not_first -%}border-top border-gray{%- endif %}">
