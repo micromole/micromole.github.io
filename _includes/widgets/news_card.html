@@ -1,9 +1,9 @@
 {% assign news_by_year = site.news | sort: "date" | reverse | slice: 0, include.limit | group_by_exp: "item", "item.date | date: '%Y'" -%}
 
-<div class="my-3 bg-white shadow-sm rounded-sm">
+<div class="my-3 bg-white shadow-sm rounded-lg">
     <h6 class="p-3 mb-0 border-bottom border-gray text-white" 
-        style="background: url('/assets/images/photos/news_banner.jpg') center/cover no-repeat;
-             border-radius: 3px; min-height: 60px;">
+        style="background: url('/assets/images/photos/pub_banner.jpg') center/cover no-repeat;
+             border-radius: 4px; min-height: 55px;">
         <i class="fas fa-rss"></i> News
     </h6>
     <div class="px-3 pb-1">
