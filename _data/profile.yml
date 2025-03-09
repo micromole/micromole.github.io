@@ -6,7 +6,7 @@ positions:
 - logo: /assets/logo/icon_LMU.png   # Logo is optional
   name: LMU Munich, CORA - Center for Organismic Adaptation 
 - logo: /assets/logo/icon_DFG.png  # Logo is optional
-  name: PI @ Cellular and Organismic Networks
+  name: PI @ Cellular and Organismic Networks 🦠🦋
 
 
 email: "arne.weinhold@bio.lmu.de"
@@ -41,7 +41,7 @@ short_bio: >-
    My goal is an integrative understanding of microbiomes in the light of macroecological concepts.
    </p>
   <p>
-   Currently I investigate 🦠🦋 at the <a href="https://www.cora.bio.lmu.de/">Center for Organismic Adaptation (CORA)</a> at LMU Munich
+   Currently I work at the <a href="https://www.cora.bio.lmu.de/">Center for Organismic Adaptation (CORA)</a> at LMU Munich
    (see my <a href="/research">Research <i class="fas fa-angle-double-right"></i></a>).<br>
    Before I have worked on <strong>Microbiome Function</strong> of plants and insects (see <a href="/projects">Past Projects <i class="fas fa-angle-double-right"></i></a>).
    </p> 
