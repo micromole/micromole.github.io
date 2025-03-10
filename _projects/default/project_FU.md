@@ -6,8 +6,10 @@ date: 2017-05-15 00:01:00 +0800
 ---
 <div class="p-4">
      <h3 id="Parental-Legacy">Parental Legacy of the Butterfly Microbiota</h3>
-     <img data-src="{{ 'assets/images/photos/IMG_2685m.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
-    <img data-src="{{ 'assets/images/photos/IMG_2631_m.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+      <div style="display: flex; flex-wrap: wrap; gap: 4px;">
+     <img data-src="{{ 'assets/images/photos/IMG_2685m.jpg' | relative_url }}" class="lazy rounded frame-img" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+    <img data-src="{{ 'assets/images/photos/IMG_2631_m.jpg' | relative_url }}" class="lazy rounded frame-img" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+             </div>
      <hr />
  <img src="assets/images/photos/diet_shift.jpg" 
          alt="Diet shift" 
