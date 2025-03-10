@@ -5,8 +5,10 @@ date: 2015-01-12 00:01:00 +0800
 ---
 <div class="p-4">
     <h3 id="SynCom">Applying SynCom for Biocontrol</h3>
-    <img data-src="{{ 'assets/images/photos/588694.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
- <img data-src="{{ 'assets/images/photos/IMG_6443m.jpg' | relative_url }}" class="lazy rounded" style="width: 48%; height: auto;margin: 2px;" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+     <div style="display: flex; flex-wrap: wrap; gap: 4px;">
+    <img data-src="{{ 'assets/images/photos/588694.jpg' | relative_url }}" class="lazy rounded frame-img" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+ <img data-src="{{ 'assets/images/photos/IMG_6443m.jpg' | relative_url }}" class="lazy rounded frame-img" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+          </div>
   <hr />
  <img src="assets/images/photos/plate_300.png" 
          alt="Microbial Community" 
@@ -44,9 +46,9 @@ So far, only individual bacterial strains had been applied in agriculture. Howev
         </a>
     </div>
 </div>
-    <img src="/assets/logo/logo64_ICE.png" alt="ICE Logo" class="rounded-sm img-fluid logo-img">
-     <img src="/assets/logo/logo64_minerva.png" alt="JSMC Logo" class="rounded-sm img-fluid logo-img"> 
-     <img src="/assets/logo/logo64_ILRSMIB.png" alt="ILRS Logo" class="rounded-sm img-fluid logo-img">
+    <img src="/assets/logo/logo64_ICE.png" alt="ICE Logo" class="img-fluid logo-img">
+     <img src="/assets/logo/logo64_minerva.png" alt="JSMC Logo" class="img-fluid logo-img"> 
+     <img src="/assets/logo/logo64_ILRSMIB.png" alt="ILRS Logo" class="img-fluid logo-img">
     <img src="/assets/logo/logo64_Leip.png" alt="Leibniz Logo" class="rounded-sm img-fluid logo-img">
 <p><a href="#top">Back to Top</a></p>
 </div>
