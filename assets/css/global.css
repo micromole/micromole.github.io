@@ -106,6 +106,20 @@ html {
     }
 }
 
+/* Frame image on larger screens */
+.frame-img {
+    margin: 2px; /* Adds space on all sides */
+    height: auto;
+    width: 48%;
+}
+
+/* Frame image on smaller screens below 576px */
+@media (max-width: 576px) {
+    .frame-img {
+         width: 99%;
+    }
+}
+
 .badge-publication {
     font-size: 100%;
 }
