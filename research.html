@@ -4,7 +4,6 @@ title : Research
 navbar_title: Research
 ---
 <h2>Research</h2>
- <div class="banner" style="background-image: url('/assets/images/photos/Peru_banner2.jpg');"></div>
 {% assign cards_by_group = site.research | sort: "date" | reverse | where: "show", true | group_by_exp: "item", "item.group" %}
 
 {% for group in cards_by_group %}
