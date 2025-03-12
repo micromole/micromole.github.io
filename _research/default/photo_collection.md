@@ -1,17 +1,29 @@
 ---
 show: true
 width: 4
-date: 2021-09-12 00:01:00 +0800
+date: 2024-09-12 00:01:00 +0800
 height: 295px
 images:
-- src: https://picsum.photos/seed/first1111/800/800
-  title: Photo 1
-  desc: Description 1.
-  link: https://picsum.photos/
-- src: https://picsum.photos/seed/second22/800/800
-  title: Photo 2
-  desc: Description 2
-- src: https://picsum.photos/seed/third33/800/800
+- src: assets/images/photos/20221002_105835m.jpg
+  title: Wayquecha Peru
+  desc: 
+  link: 
+- src: assets/images/photos/IMG_5996m.jpg
+  title: UV Trapping
+  desc: 
+  link:
+- src: assets/images/photos/IMG_6021m.jpg
+  title: Peru
+  desc: 
+  link:
+- src: assets/images/photos/IMG_6087m.jpg
+  title: Peru
+  desc: 
+  link:
+- src: assets/images/photos/IMG_7120m.jpg
+  title: Peru
+  desc: 
+  link: 
 ---
 
 {% include widgets/carousel.html id=page.id images=page.images height=page.height %}
