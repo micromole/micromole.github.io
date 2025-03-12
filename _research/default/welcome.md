@@ -6,11 +6,8 @@ date: 2025-01-04 00:01:00 +0800
 
 <div class="p-4">
     <h3>Dynamics of Microbial Enrichment in Adult Butterflies</h3>
-    <div style="display: flex; flex-wrap: wrap; gap: 4px;">
-       <img data-src="{{ 'assets/images/photos/IMG_5899m.jpg' | relative_url }}" class="lazy rounded frame-img" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
-     <img data-src="{{ 'assets/images/photos/IMG_5899m.jpg' | relative_url }}" class="lazy rounded frame-img" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
-        </div>
-    <hr />
+           <img data-src="{{ 'assets/images/photos/IMG_5899m.jpg' | relative_url }}" class="lazy rounded frame-img" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+              <hr />
     <p>
        My main research focus is on <strong>Microbiome Assembly</strong> of <strong>Adult Butterflies</strong>. The assembly of a specialized gut-microbiota is important for many pollinating insects. But microbial associations of pollinators have been mainly studied in groups with socially maintained microbiota, particular honeybees and bumblebees. In contrast, the majority of wild pollinators are solitary species and need to acquire their microbiota from environmental sources. Still, major drivers of microbiota assembly in wild pollinator are insufficiently understood compared to social pollinators.
     </p>
