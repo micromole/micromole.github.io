@@ -9,7 +9,7 @@ group:
     src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="CON Group">
   <div class="card-body">
     <p class="card-text">
-      Meow! I am a cat.
+      Cellular and Organismic Networks Group at LMU.
     </p>
   </div>
 </div>
