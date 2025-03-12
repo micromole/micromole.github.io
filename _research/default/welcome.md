@@ -4,7 +4,7 @@ width: 8
 date: 2025-01-04 00:01:00 +0800
 ---
 
-<div class="p-4">
+<div class="p-4" style="text-align: justify;">
     <h3>Dynamics of Microbial Enrichment in Adult Butterflies</h3>
            <img data-src="{{ 'assets/images/photos/IMG_5899m.jpg' | relative_url }}" class="lazy rounded frame-img" style="float: right;"  src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
               <p>
