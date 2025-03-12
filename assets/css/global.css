@@ -125,7 +125,8 @@ html {
     background-position: top center;
     background-attachment: scroll;
     background-repeat: no-repeat;
-    width: 100vw;
+    width: 100%;
+    height: auto;
     aspect-ratio: 6 / 1; 
 }
 
