@@ -121,12 +121,11 @@ html {
 }
 
 .banner {
-    background-size: contain;
+    background-size: cover;
     background-position: top center;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    width: 100%;
-    min-height: calc(100vw / 6); /* Allow it to scale */
+    width: 100vw;
     aspect-ratio: 6 / 1; 
 }
 
