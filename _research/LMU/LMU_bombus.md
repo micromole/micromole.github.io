@@ -10,6 +10,7 @@ date: 2022-07-12 00:01:00 +0800
      <img data-src="{{ 'assets/images/photos/bb_nest2.jpg' | relative_url }}" class="lazy rounded frame-img" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
                </div>
  <hr />
+     <img data-src="{{ 'assets/images/covers/cover_bumble.jpg' | relative_url }}" class="lazy rounded frame-img" style="float: right; margin-left: 10px;"  src="{{ '/assets/images/empty_300x200.png' | relative_url }}">  
 <p>
 This was our first semi field experiment at LMU campus Martinsried. We used outdoor flight cages to test how the microbiota of <strong>Large Earth Bumblebee</strong> (<i>Bombus terrestris</i>) changes when exposed to different flower diversities.
   Monocultures within agroecosystems could have negative consequences for pollinator health and fitness. We observed a dynamic <strong>Temporal Progression</strong> of the microbiota with distinct compositional changes and diversification over time.
