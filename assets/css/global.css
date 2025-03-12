@@ -127,7 +127,7 @@ html {
     background-repeat: no-repeat;
     width: 100%;
     height: auto; /* Allow it to scale */
-    aspect-ratio: 4 / 1; 
+    aspect-ratio: 5 / 1; 
 }
 
 .badge-publication {
