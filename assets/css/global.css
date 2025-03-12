@@ -126,7 +126,7 @@ html {
 }
 
 .banner {
-    background-size: cover;
+    background-size: contain;
     background-position: bottom center;
     background-attachment: fixed;
     background-repeat: no-repeat;
