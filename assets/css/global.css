@@ -120,10 +120,6 @@ html {
     }
 }
 
-.banner-wrapper {
-    width: 100%;
-    overflow: hidden; /* Ensures no unwanted white space */
-}
 
 .banner {
     background-size: cover;
