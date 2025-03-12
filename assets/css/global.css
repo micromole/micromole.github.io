@@ -126,7 +126,8 @@ html {
     background-attachment: fixed;
     background-repeat: no-repeat;
     width: 100%;
-    max-height: 200px;
+    height: auto; /* Allow it to scale */
+    aspect-ratio: 4 / 1; /
 }
 
 .badge-publication {
