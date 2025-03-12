@@ -10,7 +10,7 @@ date: 2023-01-12 00:01:00 +0800
   <img data-src="{{ 'assets/images/photos/IMG_6011m.jpg' | relative_url }}" class="lazy rounded frame-img" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
          </div>
  <hr />
- <img data-src="{{ 'assets/images/photos/Peru_Pierid.jpg' | relative_url }}" class="lazy rounded frame-img" style="float: right; width: 40%; margin-left: 10px;"  src="{{ '/assets/images/empty_300x200.png' | relative_url }}">  
+ <img data-src="{{ 'assets/images/photos/IMG_7255m.jpg' | relative_url }}" class="lazy rounded frame-img" style="float: right; margin-left: 10px;"  src="{{ '/assets/images/empty_300x200.png' | relative_url }}">  
 <p>
 The ANDIV project is a collaboration between the universities of Munich, Würzburg and Jena. The goal is to investigate tropical insect microbiota along an elevational gradient in the <strong>Peruvian Andes</strong>. This includes the four major holometabolous insect groups Hymenoptera, Coleoptera, Diptera and Lepidoptera. Among the Lepidoptera order, I focus on the families of <strong>Pieridae</strong> and <strong>Heliconidae</strong> to disentangle environmental drivers of microbiome assembly from phylogenetically conserved core-microbiota pattern. This combines the use of Metabarcoding for butterfly gut-microbiota analysis and Barcoding for insect identification.
 </p>
