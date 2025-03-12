@@ -126,13 +126,13 @@ html {
 }
 
 .banner {
-    background-size: contain;
-    background-position: bottom center;
+    background-size: cover;
+    background-position: top center;
     background-attachment: fixed;
     background-repeat: no-repeat;
     width: 100%;
     height: auto; /* Allow it to scale */
-    aspect-ratio: 6 / 1; 
+    aspect-ratio: 8 / 1; 
 
 }
 
