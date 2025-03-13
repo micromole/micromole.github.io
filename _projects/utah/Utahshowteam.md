@@ -20,9 +20,6 @@ images:
 - src: assets/images/photos/IMG_5698m.jpg
   title: Manduca quinquemaculata
   desc: 
-- src: assets/images/photos/IMG_8879m.jpg
-  title: 
-  desc: xx
 - src: assets/images/photos/IMG_9196m.jpg
   title: Root Sampling
   desc: 
