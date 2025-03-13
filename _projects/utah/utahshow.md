@@ -20,10 +20,6 @@ images:
   title: Plant Pathogens
   desc:
   link: assets/images/photos/IMG_2093m.jpg
-- src: assets/images/photos/IMG_5425m.jpg
-  title: Biocontrol
-  desc:
-  link: assets/images/photos/IMG_5425m.jpg 
 - src: assets/images/photos/IMG_3746m.jpg
   title: Herbivore Assay
   desc:
