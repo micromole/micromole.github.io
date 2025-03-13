@@ -16,14 +16,14 @@ images:
   title: Seedbank
   desc:
   link: assets/images/photos/IMG_2714m.jpg
-- src: assets/images/photos/root_harvest_AWm.jpg
-  title: Resilient Microbiome
+- src: assets/images/photos/IMG_2093m.jpg
+  title: Plant Pathogens
   desc:
-  link: assets/images/photos/root_harvest_AWm.jpg
-- src: assets/images/photos/588694.jpg
-  title: Bacterial Biocontrol
+  link: assets/images/photos/IMG_2093m.jpg
+- src: assets/images/photos/IMG_5425m.jpg
+  title: Biocontrol
   desc:
-  link: assets/images/photos/588694.jpg 
+  link: assets/images/photos/IMG_5425m.jpg 
 - src: assets/images/photos/IMG_3746m.jpg
   title: Herbivore Assay
   desc:
@@ -33,7 +33,7 @@ images:
   desc: 
   link: assets/images/photos/IMG_7435_m.jpg
 - src: assets/images/photos/IMG_4270m.jpg
-  title: Manduca in the Field
+  title: Native Herbivory
   desc: 
   link: assets/images/photos/IMG_4270m.jpg
 ---
