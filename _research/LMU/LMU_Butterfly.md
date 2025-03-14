@@ -14,5 +14,5 @@ This will help to better understand how anthropogenic disturbances during microb
     </p>
      <img src="/assets/logo/logo64_LMU.png" alt="LMU Logo" class="img-fluid logo-img">
      <img src="/assets/logo/logo64_DFG.png" alt="DFG Logo" class="img-fluid logo-img"> 
-    </div>
-    <p><a href="#top">Back to Top <i class="fas fa-angle-double-up"></i></a></p>
+       <p><a href="#top">Back to Top <i class="fas fa-angle-double-up"></i></a></p>
+     </div>
