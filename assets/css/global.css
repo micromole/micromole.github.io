@@ -108,7 +108,7 @@ html {
 
 /* Frame image on larger screens */
 .frame-img {
-    margin: 2px; /* Adds space on all sides */
+    margin: 5px; /* Adds space on all sides */
     height: auto;
     width: 48%;
 }
