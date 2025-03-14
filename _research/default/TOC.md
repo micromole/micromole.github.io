@@ -1,10 +1,10 @@
 ---
 show: true
-width: 4
+width: 8
 date: 2025-01-05 00:01:00 +0800
 ---
 
-<div class="p-4" style="text-align: justify;">
+<div class="p-4">
     <h4>Current Research Projects</h4>
            <p>
        <ul>
