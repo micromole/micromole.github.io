@@ -6,14 +6,12 @@ group:
 ---
 <div>
   <div class="card-body">
-    <p class="card-text">
-       <h4>My Research Interests</h4>
-       <ul>
-  <li>Solitary pollinator microbiota</li>
-  <li>Community assembly of microbiomes</li>
-  <li>Microbial modulators of (wild) pollinator health and immunity</li>
-    <li>Microbial transmission among plant-pollinator networks</li>
-</ul> 
-    </p>
+    <h4>My Research Interests</h4>
+    <ul>
+      <li>Solitary pollinator microbiota</li>
+      <li>Community assembly of microbiomes</li>
+      <li>Microbial modulators of (wild) pollinator health and immunity</li>
+      <li>Microbial transmission among plant-pollinator networks</li>
+    </ul>
   </div>
 </div>
