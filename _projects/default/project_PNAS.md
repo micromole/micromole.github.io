@@ -50,6 +50,6 @@ So far, only individual bacterial strains had been applied in agriculture. Howev
      <img src="/assets/logo/logo64_minerva.png" alt="JSMC Logo" class="img-fluid logo-img"> 
      <img src="/assets/logo/logo64_ILRSMIB.png" alt="ILRS Logo" class="img-fluid logo-img">
     <img src="/assets/logo/logo64_Leip.png" alt="Leibniz Logo" class="rounded-sm img-fluid logo-img">
-<p><a href="#top">Back to Top</a></p>
+ <p><a href="#top">Back to Top <i class="fas fa-angle-double-up"></i></a></p>
 </div>
 
