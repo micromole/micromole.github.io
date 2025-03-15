@@ -109,7 +109,7 @@ html {
 /* Frame image on larger screens */
 .frame-img {
     width: 48%;
-    margin: 2px;
+    margin: 4px;
 }
 
 /* Frame image on smaller screens below 576px */
