@@ -44,7 +44,6 @@ This was our first semi field experiment at LMU campus Martinsried. We used outd
     </div>
 </div>
  <img src="/assets/logo/logo64_LMU.png" alt="LMU Logo" class="img-fluid logo-img">
-      <p><a href="#top">Back to Top</a>
-</p>
+ <p><a href="#top">Back to Top <i class="fas fa-angle-double-up"></i></a></p>
 </div>
 </div>
