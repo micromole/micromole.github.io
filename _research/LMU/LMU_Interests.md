@@ -6,7 +6,7 @@ group:
 ---
 <div>
   <div class="card-body">
-    <h5>My Research Interests</h5>
+    <h5>Current Research Interests</h5>
     <ul>
       <li>Solitary pollinator microbiota</li>
       <li>Community assembly of microbiomes</li>
