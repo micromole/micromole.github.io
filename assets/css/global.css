@@ -109,8 +109,7 @@ html {
 /* Frame image on larger screens */
 .frame-img {
     width: 48%;
-    padding: 5px;
-    box-sizing: border-box; /* Ensures padding does not increase total width */
+    margin: 5px;
 }
 
 /* Frame image on smaller screens below 576px */
