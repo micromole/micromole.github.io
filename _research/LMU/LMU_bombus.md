@@ -5,7 +5,7 @@ date: 2022-07-12 00:01:00 +0800
 ---
 <div class="p-4">
      <h3 id="Bombus">Environmental Driver of the Bumblebee Microbiota</h3>
-      <div style="display: flex; flex-wrap: wrap; gap: 4px;">
+      <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1px;">
      <img data-src="{{ 'assets/images/photos/bb_setupm.jpg' | relative_url }}" class="lazy rounded frame-img" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
      <img data-src="{{ 'assets/images/photos/bb_nest2.jpg' | relative_url }}" class="lazy rounded frame-img" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
                </div>
