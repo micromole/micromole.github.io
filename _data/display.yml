@@ -8,6 +8,6 @@ homepage:
 # if you keep the link to the template so that more people can benefit from it. Thanks!
 footer_text: >-
  <a href="/"><i class="fa-solid fa-house"></i> Home</a>  | 
- <a href="mailto:your.email@example.com">
+ <a href="mailto:arne.weinhold@bio.lmu.de">
  <i class="fas fa-envelope"></i> Contact</a> | 
  <a href="https://github.com/luost26/academic-homepage" target="_blank"><i class="fas fa-pencil-ruler"></i> Source</a>
