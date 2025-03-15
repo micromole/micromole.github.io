@@ -5,7 +5,7 @@ date: 2023-01-12 00:01:00 +0800
 ---
 <div class="p-4" style="text-align: justify;">
     <h3 id="ANDIV">Diversity of Butterly Microbiota along an elevational gradient in Peru</h3>
-     <div style="display: flex; flex-wrap: wrap; gap: 4px;">
+     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
      <img data-src="{{ 'assets/images/photos/IMG_6055m.jpg' | relative_url }}" class="lazy rounded frame-img" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
   <img data-src="{{ 'assets/images/photos/IMG_6011m.jpg' | relative_url }}" class="lazy rounded frame-img" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
          </div>
