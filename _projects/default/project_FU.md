@@ -48,5 +48,5 @@ At the <b>Collaborative Research Centre</b> (<a href="https://www.sfb973.de/" ta
      <img src="/assets/logo/logo64_CRC973.png" alt="Image 3" class="img-fluid logo-img"> 
      <img src="/assets/logo/logo64_DCPS.png" alt="Image 1" class="img-fluid logo-img">
     <img src="/assets/logo/logo64_DFGalt.png" alt="Image 1" class="img-fluid logo-img">
-    <p><a href="#top">Back to Top</a></p>
+     <p><a href="#top">Back to Top <i class="fas fa-angle-double-up"></i></a></p>
 </div>
