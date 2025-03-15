@@ -15,7 +15,7 @@ The goal is to test how the <strong>Acquisition</strong> timepoint of microbes d
 This will help to better understand how anthropogenic disturbances during microbial acquisition can influence microbiota assembly in wild pollinators.
     </p>
      <img src="/assets/logo/logo64_LMU.png" alt="LMU Logo" class="img-fluid logo-img">
-     <img src="/assets/logo/logo64_DFG.png" alt="DFG Logo" class="img-fluid logo-img"> 
+     <img src="/assets/logo/logo64_DFGalt.png" alt="DFG Logo" class="img-fluid logo-img"> 
        <p><a href="#top">Back to Top <i class="fas fa-angle-double-up"></i></a></p>
      </div>
  </div>
