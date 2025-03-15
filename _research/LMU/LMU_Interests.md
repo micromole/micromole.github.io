@@ -9,8 +9,8 @@ group:
     <h5>Current Research Interests</h5>
     <ul>
       <li>Solitary pollinator microbiota</li>
-      <li>Community assembly of microbiomes</li>
-      <li>Microbial modulators of (wild) pollinator health and immunity</li>
+      <li>Microbiome assembly</li>
+      <li>Wild pollinator health and immunity</li>
       <li>Microbial transmission among plant-pollinator networks</li>
     </ul>
   </div>
