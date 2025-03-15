@@ -5,7 +5,7 @@ date: 2016-01-12 00:01:00 +0800
 ---
 <div class="p-4">
      <h3 id="Resilient-Microbiome">Plant Microbiome Manipulation</h3>
-      <div style="display: flex; flex-wrap: wrap; gap: 4px;">
+      <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1px;">
      <img data-src="{{ 'assets/images/photos/root_harvest_AWm.jpg' | relative_url }}" class="lazy rounded frame-img" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
      <img data-src="{{ 'assets/images/photos/Utah_fieldm.jpg' | relative_url }}" class="lazy rounded frame-img" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
                </div>
