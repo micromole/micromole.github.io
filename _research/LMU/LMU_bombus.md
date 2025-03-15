@@ -10,6 +10,7 @@ date: 2022-07-12 00:01:00 +0800
      <img data-src="{{ 'assets/images/photos/bb_nest2.jpg' | relative_url }}" class="lazy rounded frame-img" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
                </div>
  <hr />
+      <div style="text-align: justify;">
      <img data-src="{{ 'assets/images/covers/cover_bumble.jpg' | relative_url }}" class="lazy rounded frame-img" style="float: right; margin-left: 10px;"  src="{{ '/assets/images/empty_300x200.png' | relative_url }}">  
 <p>
 This was our first semi field experiment at LMU campus Martinsried. We used outdoor flight cages to test how the microbiota of <strong>Large Earth Bumblebee</strong> (<i>Bombus terrestris</i>) changes when exposed to different flower diversities.
@@ -45,4 +46,5 @@ This was our first semi field experiment at LMU campus Martinsried. We used outd
  <img src="/assets/logo/logo64_LMU.png" alt="LMU Logo" class="img-fluid logo-img">
       <p><a href="#top">Back to Top</a>
 </p>
+</div>
 </div>
