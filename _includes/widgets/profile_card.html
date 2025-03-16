@@ -51,8 +51,10 @@
                 </div>
                   <!-- Keywords -->
                   <p class="keywords">
-                    Keyword1 * Keyword2 * Keyword3 * Keyword4  * Keyword5 * Keyword6 * Keyword7
-                    </p>
+                    {% for keyword in site.data.keywords %}
+                      {{ keyword }}{% unless forloop.last %} * {% endunless %}
+                        {% endfor %}
+                        </p>
                  <!-- Background Banner -->
         <div class="banner rounded" style="background-image: url('/assets/images/photos/news_banner.jpg');">
 <div class="overlay">
