@@ -195,6 +195,17 @@ mark {
     padding: 1px 4px; /* Add some padding for a softer look */
 }
 
+.keywords {
+    font-size: 0.9em; /* Slightly smaller */
+    color: gray; /* Subtle look */
+    text-align: center;
+    margin-top: 10px;
+}
+
+.keywords span {
+    margin: 0 5px; /* Adds spacing around the asterisks */
+}
+
 
 .badge-publication {
     font-size: 80%;
