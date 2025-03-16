@@ -149,8 +149,8 @@ html {
 }
 
 .banner {
-    background-size: 100% auto;
-    background-position: bottom center;
+    background-size: contain;
+    background-position: top center;
     background-attachment: scroll;
     background-repeat: repeat;
     aspect-ratio: 6 / 1; 
