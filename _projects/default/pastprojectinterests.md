@@ -8,7 +8,7 @@ group:
   <div class="card-body">
     <h5>Past Research Interests</h5>
     <ul>
-      <li><h6>Plant Microbiome Function</h6></li>
+      <li><strong>Plant Microbiome Function</strong></li>
       <li><strong>Plant-Microbe-Herbivore Interactions</strong></li>
       <li><strong>Antimicrobial Peptides</strong></li>
     </ul>
