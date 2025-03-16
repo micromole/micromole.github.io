@@ -162,7 +162,7 @@ html {
 mark {
     background-color: lightblue; /* Keep or change the background */
     border-radius: 10px; /* Adjust for smoother corners */
-    padding: 2px 5px; /* Add some padding for a softer look */
+    padding: 4px 10px; /* Add some padding for a softer look */
 }
 
 
