@@ -15,7 +15,8 @@ h1, h2, h3, h4 {
 }
 
 a {
-    color: #2a7ae2;
+    color: #2a7ae2; /* Your preferred link color */
+    font-weight: bold;
   }
 
 .text-profile-position {
