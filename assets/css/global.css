@@ -190,8 +190,8 @@ html {
 
 mark {
     background-color: lightblue; /* Keep or change the background */
-    border-radius: 10px; /* Adjust for smoother corners */
-    padding: 2px 5px; /* Add some padding for a softer look */
+    border-radius: 5px; /* Adjust for smoother corners */
+    padding: 1px 3px; /* Add some padding for a softer look */
 }
 
 
