@@ -151,7 +151,7 @@ html {
 .banner {
     background-size: cover;
     background-position: center;
-    background-attachment: scroll;
+    background-attachment: fixed;
     background-repeat: no-repeat;
     width: 100%;
     max-height: 200px;
