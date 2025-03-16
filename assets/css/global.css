@@ -151,7 +151,7 @@ html {
 .banner {
     background-size: cover;
     background-position: bottom center;
-    background-attachment: fixed;
+    background-attachment: local;
     background-repeat: repeat;
     width: 100%;
     aspect-ratio: 6 / 1; 
