@@ -119,6 +119,25 @@ html {
     }
 }
 
+.custom-bullet-list {
+    list-style: none; /* Remove default bullets */
+    padding-left: 1.5em; /* Indent text properly */
+}
+
+.custom-bullet-list li {
+    position: relative; /* Needed for absolute positioning */
+    padding-left: 1.5em; /* Space for the icon */
+}
+
+.custom-bullet-list li::before {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900; /* Ensures solid icons */
+    content: "\f0a9"; /* Unicode for fa-arrow-circle-right */
+    color: #007bff; /* Adjust color */
+    position: absolute;
+    left: 0;
+    top: 0.15em; /* Adjust vertical alignment */
+}
 
 .banner {
     background-size: cover;
