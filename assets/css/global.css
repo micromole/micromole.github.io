@@ -150,10 +150,9 @@ html {
 
 .banner {
     background-size: 100% auto;
-    background-position: center;
+    background-position: bottom center;
     background-attachment: fixed;
-    background-repeat: no-repeat;
-    width: 100%;
+    background-repeat: repeat;
     aspect-ratio: 6 / 1; 
     max-height: 200px;
     min-height: 50px;
