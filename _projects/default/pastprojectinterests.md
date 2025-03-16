@@ -6,11 +6,11 @@ group:
 ---
 <div>
   <div class="card-body">
-    <h5 style="color:MediumSeaGreen;">Past Research Interests</h5>
+    <h5>Past Research Interests</h5>
     <ul>
-      <li style="color:MediumSeaGreen;">Plant Microbiome Function</li>
-      <li style="color:MediumSeaGreen;">Plant-Microbe-Herbivore Interactions</li>
-      <li style="color:MediumSeaGreen;">Epigenetics</li>
+      <li><strong>Plant Microbiome Function</strong></li>
+      <li><strong>Plant-Microbe-Herbivore Interactions</strong></li>
+      <li><strong>Antimicrobial Peptides</strong></li>
     </ul>
   </div>
 </div>
