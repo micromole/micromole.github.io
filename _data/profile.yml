@@ -4,9 +4,9 @@ navbar_name: "Microbial Molecular Ecology"
 
 positions:
 - logo: /assets/logo/icon_LMU.png   # Logo is optional
-  name: <b>LMU Munich</b>, Center for Organismic Adaptation (<a href="https://www.cora.bio.lmu.de/">CORA</a>)
+  name: <strong>LMU Munich, Center for Organismic Adaptation (<a href="https://www.cora.bio.lmu.de/">CORA</a>)</strong>
 - logo: /assets/logo/icon_DFG.png  # Logo is optional
-  name: PI @ Cellular and Organismic Networks 🦠🦋
+  name: <strong>PI @ Cellular and Organismic Networks</strong> 🦠🦋
 
 
 email: "arne.weinhold@bio.lmu.de"
@@ -41,8 +41,8 @@ short_bio: >-
    My goal is an integrative understanding of microbiomes in the light of macroecological concepts.
    </p>
   <p>
-   Currently, I work on <strong>Pollinator Microbiome Assembly</strong> (see my <a href="/research">Research <i class="fas fa-angle-double-right"></i></a>).<br>
-   Before, I have worked on <strong>Plant Microbiome Function</strong> (see <a href="/projects">Past Projects <i class="fas fa-angle-double-right"></i></a>).
+   Currently I work on <strong>Pollinator Microbiome Assembly</strong> (see my <a href="/research">Research <i class="fas fa-angle-double-right"></i></a>).<br>
+   Before I worked on <strong>Plant Microbiome Function</strong> (see <a href="/projects">Past Projects <i class="fas fa-angle-double-right"></i></a>).
    </p> 
   <blockquote>
         <q>...what I consider is the key aspect of the future of education in the life sciences,
