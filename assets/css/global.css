@@ -14,6 +14,9 @@ h1, h2, h3, h4 {
     color: #157878; /* Cayman greenish heading color */
 }
 
+a {
+    color: #4682B4;
+  }
 
 .text-profile-position {
     font-weight: 400;
