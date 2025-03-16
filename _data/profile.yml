@@ -4,7 +4,7 @@ navbar_name: "Microbial Molecular Ecology"
 
 positions:
 - logo: /assets/logo/icon_LMU.png   # Logo is optional
-  name: <b>LMU Munich</b>, CORA - Center for Organismic Adaptation 
+  name: <b>LMU Munich</b>, Center for Organismic Adaptation (<a href="https://www.cora.bio.lmu.de/">CORA</a>)
 - logo: /assets/logo/icon_DFG.png  # Logo is optional
   name: PI @ Cellular and Organismic Networks 🦠🦋
 
@@ -36,14 +36,13 @@ short_bio: >-
     Hello there! I consider myself as <b><ins>Micro</ins>bial <ins>Mol</ins>ecular <ins>E</ins>cologist</b> (<code>mi·cro·mole</code>).
     I have been trained cross-disciplinary at the interfaces of molecular and organismic disciplines and combine ecological field work with quantitative microbiome analysis.
     My research focus is on <strong>&raquo;Microbiome Assembly of Butterflies&laquo;</strong>.
-    My broader interest is on <strong>host-microbe symbiosis</strong> of pollinators and
-   microbial transmission among <strong>plant-pollinator networks</strong>.
+    My broader interest is on <strong>Host-Microbe Symbiosis</strong> of <strong>Pollinators</strong> and
+   microbial transmission among <strong>Plant-Pollinator Networks</strong>.
    My goal is an integrative understanding of microbiomes in the light of macroecological concepts.
    </p>
   <p>
-   Currently I work at the <a href="https://www.cora.bio.lmu.de/">Center for Organismic Adaptation (CORA)</a> at LMU Munich
-   (see my <a href="/research">Research <i class="fas fa-angle-double-right"></i></a>).<br>
-   Before I have worked on <strong>Microbiome Function</strong> of plants and insects (see <a href="/projects">Past Projects <i class="fas fa-angle-double-right"></i></a>).
+   Currently, I work on <strong>Pollinator Microbiome Assembly</strong> (see my <a href="/research">Research <i class="fas fa-angle-double-right"></i></a>).<br>
+   Before, I have worked on <strong>Plant Microbiome Function</strong> (see <a href="/projects">Past Projects <i class="fas fa-angle-double-right"></i></a>).
    </p> 
   <blockquote>
         <q>...what I consider is the key aspect of the future of education in the life sciences,
