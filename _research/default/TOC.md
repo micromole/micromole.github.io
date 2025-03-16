@@ -13,3 +13,8 @@ date: 2025-01-01 00:01:00 +0800
       <li><a href="#Bombus">Environmental Driver of the Bumblebee Microbiota</a></li>
   </ul> 
   </div>
+  <ul class="custom-bullet-list">
+    <li><a href="#Pieris">Dynamics of Microbial Enrichment in Adult Butterflies</a></li>
+    <li><a href="#Andean">Microbiota Diversity Along an Elevational Gradient</a></li>
+    <li><a href="#Tropical">Tropical Butterfly Microbiomes</a></li>
+</ul>
