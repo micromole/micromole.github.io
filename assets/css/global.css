@@ -150,12 +150,12 @@ html {
 
 .banner {
     background-size: cover;
-    background-position: center;
+    background-position: bottom center;
     background-attachment: fixed;
     background-repeat: no-repeat;
     width: 100%;
     max-height: 40vh;
-    min-height: 25vh;
+    min-height: 30vh;
     position: relative; 
     overflow: hidden;
 }
