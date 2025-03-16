@@ -149,7 +149,7 @@ html {
 }
 
 .banner {
-    background-size: contain;
+    background-size: cover;
     background-position: top center;
     background-attachment: scroll;
     background-repeat: repeat;
