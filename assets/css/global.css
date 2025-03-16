@@ -161,7 +161,7 @@ html {
 
 mark {
     background-color: lightblue; /* Keep or change the background */
-    border-radius: 5px; /* Adjust for smoother corners */
+    border-radius: 10px; /* Adjust for smoother corners */
     padding: 2px 5px; /* Add some padding for a softer look */
 }
 
