@@ -150,7 +150,7 @@ html {
 
 .banner {
     background-size: cover;
-    background-position: top center;
+    background-position: bottom center;
     background-attachment: scroll;
     background-repeat: repeat;
     width: 100%;
