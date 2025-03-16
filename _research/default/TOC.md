@@ -6,7 +6,7 @@ date: 2025-01-01 00:01:00 +0800
 
 <div class="p-4">
     <h5>Current Projects</h5>
-      <ul>
+      <ul style="list-style: none; padding-left: 0;">
       <li><i class="fas fa-arrow-circle-right"></i><a href="#Pieris">Dynamics of Microbial Enrichment in Adult Butterflies</a></li>
       <li><a href="#Pieris">Dynamics of Microbial Enrichment in Adult Butterflies</a></li>
       <li><a href="#ANDIV">ANDIV Project</a></li>
