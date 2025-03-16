@@ -154,6 +154,7 @@ html {
     background-attachment: scroll;
     background-repeat: no-repeat;
     width: 100%;
+    height: 20vh;
     max-height: 200px;
     min-height: 50px;
     position: relative; 
