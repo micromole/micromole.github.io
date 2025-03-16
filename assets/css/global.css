@@ -153,6 +153,7 @@ html {
     background-position: top center;
     background-attachment: scroll;
     background-repeat: repeat;
+    width: 100%;
     aspect-ratio: 6 / 1; 
     max-height: 200px;
     min-height: 50px;
