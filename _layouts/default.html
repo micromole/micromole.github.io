@@ -26,6 +26,17 @@
         background-repeat: no-repeat;
     }
     {% endif %}
+        body::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.6); /* Adjust the last value (0.0 - 1.0) for visibility */
+    pointer-events: none; /* Ensures it doesn't block interactions */
+    z-index: -1;
+}
 </style>
 </head>
 <body id="top" class="bg-light" {{ page.body_attr }}>
