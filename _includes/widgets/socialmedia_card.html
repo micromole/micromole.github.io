@@ -8,7 +8,7 @@
                     <div class="col text-center">
                         <p class="keywords mb-0">
                             {% for keyword in site.data.profile.keywords %}
-                                <span class="badge badge-primary mx-1">{{ keyword }}</span>
+                                <strong>{{ keyword }}</strong>
                             {% unless forloop.last %}
                     <i class="fa-solid fa-asterisk mx-1"></i>
                 {% endunless %}
