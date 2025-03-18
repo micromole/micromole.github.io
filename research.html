@@ -2,6 +2,7 @@
 layout: default
 title : Research
 navbar_title: Research
+background_image: "/assets/images/photos/Peru_banner2.jpg"
 ---
 <h2>Research</h2>
 {% assign cards_by_group = site.research | sort: "date" | reverse | where: "show", true | group_by_exp: "item", "item.group" %}
