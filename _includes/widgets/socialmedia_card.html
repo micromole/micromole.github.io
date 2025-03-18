@@ -6,14 +6,14 @@
                 {% if site.data.profile.keywords %}
                 <div class="row">
                     <div class="col text-center">
-                        <p class="keywords mb-0 style="color: #157878;">
+                        <h5 class="keywords mb-2" style="color: #157878; font-weight: bold;">
                             {% for keyword in site.data.profile.keywords %}
-                                <strong>{{ keyword }}</strong>
+                                {{ keyword }}
                             {% unless forloop.last %}
                     <i class="fa-solid fa-asterisk mx-1"></i>
                 {% endunless %}
             {% endfor %}
-                        </p>
+                        </h5>
                     </div>
                 </div>
                 {% endif %}
