@@ -49,27 +49,9 @@
                         {% endif %}
                     </div>
                 </div>
-                  <!-- Keywords -->
-                  <p class="keywords">
-                    {% for keyword in site.data.keywords %}
-                      {{ keyword }}{% unless forloop.last %} * {% endunless %}
-                        {% endfor %}
-                        </p>
-                       <hr />
+                <hr />
                 
-        <div class="row mb-4">
-        <div class="col text-center">
-        {% for logo in site.data.profile.round_logos %}
-            <div class="d-inline-block mx-2">
-                <img 
-                    src="{{ logo | relative_url }}" 
-                    class="rounded-circle img-fluid" 
-                    style="height: 72px; width: 72px;" 
-                    alt="Circular Image">
-            </div>
-        {% endfor %}
-        </div>
-        </div>
+     
                 <div class="row">
                     <div class="col text-center">
                         <a class="pr-3 no-break" href="mailto:{{ site.data.profile.email | encode_email }}">
