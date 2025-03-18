@@ -1,0 +1,84 @@
+<div class="row">
+    <div class="col">
+         <div class="card border-0 shadow-sm bg-white">
+             
+        <div class="row mb-4">
+        <div class="col text-center">
+        {% for logo in site.data.profile.round_logos %}
+            <div class="d-inline-block mx-2">
+                <img 
+                    src="{{ logo | relative_url }}" 
+                    class="rounded-circle img-fluid" 
+                    style="height: 72px; width: 72px;" 
+                    alt="Circular Image">
+            </div>
+        {% endfor %}
+        </div>
+        </div>
+                <div class="row">
+                    <div class="col text-center">
+                        <a class="pr-3 no-break" href="mailto:{{ site.data.profile.email | encode_email }}">
+                            <i class="fas fa-envelope"></i> <span class="email-text">Mail</span>
+                        </a>
+
+                        {% if site.data.profile.gscholar %}
+                        {%- if site.data.profile.gscholar contains 'scholar.google' -%}
+                        {%- assign gscholar_url = site.data.profile.gscholar -%}
+                        {%- else -%}
+                        {%- assign gscholar_url = 'https://scholar.google.com/citations?user=' | append: site.data.profile.gscholar -%}
+                        {%- endif -%}
+                        <a class="pr-3 no-break" target="_blank" href="{{ gscholar_url }}">
+                            <i class="fab fa-google"></i> Google Scholar
+                        </a>
+                        {% endif %}
+                        
+                        {% if site.data.profile.researchgate %}
+                        <a class="pr-3 no-break" target="_blank" href="https://www.researchgate.net/profile/{{ site.data.profile.researchgate }}">
+                            <i class="fa-brands fa-researchgate"></i> ResearchGate
+                        </a>
+                        {% endif %}
+                        
+                        {% if site.data.profile.wechat_qrcode %}
+                        <a class="pr-3 no-break" data-toggle="modal" data-target="#modal-wechat">
+                            <i class="fab fa-weixin"></i> WeChat
+                        </a>
+                        {% endif %}
+
+                        {% if site.data.profile.twitter %}
+                        <a class="pr-3 no-break" target="_blank" href="https://twitter.com/{{ site.data.profile.twitter }}">
+                            <i class="fab fa-twitter"></i> Twitter
+                        </a>
+                        {% endif %}
+
+                        {% if site.data.profile.bluesky %}
+                        <a class="pr-3 no-break" target="_blank" href="https://bsky.app/profile/{{ site.data.profile.bluesky }}">
+                            <i class="fab fa-bluesky"></i> Bluesky
+                        </a>
+                        {% endif %}
+                        
+                        {% if site.data.profile.linkedin %}
+                        <a class="pr-3 no-break" target="_blank" href="https://www.linkedin.com/in/{{ site.data.profile.linkedin }}">
+                            <i class="fab fa-linkedin"></i> LinkedIn
+                        </a>
+                        {% endif %}
+
+                        {% if site.data.profile.orcid %}
+                        <a class="pr-3 no-break" target="_blank" href="https://orcid.org/{{ site.data.profile.orcid }}">
+                            <i class="fab fa-orcid"></i> ORCID
+                        </a>
+                        {% endif %}
+
+                        {% if site.data.profile.github %}
+                        <a class="pr-3 no-break" target="_blank" href="https://github.com/{{ site.data.profile.github }}">
+                            <i class="fab fa-github"></i> GitHub
+                        </a>
+                        {% endif %}
+
+                    
+                    </div>
+                </div>
+            </div>
+        </div>        
+    </div>
+</div>
+
