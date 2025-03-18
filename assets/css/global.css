@@ -6,7 +6,6 @@ body {
 }
 
 body {
-    background-image: url('/assets/images/photos/IMG_5747m.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed; /* Optional for parallax effect */
