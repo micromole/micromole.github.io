@@ -21,11 +21,11 @@ images:
   desc: 
   link:
 - src: assets/images/photos/IMG_6180m.jpg
-  title: 
+  title: Picture Hunting
   desc: 
   link:
-- src: assets/images/photos/IMG_7100m.jpg
-  title: Night Trapping
+- src: assets/images/photos/20220928_071413m.jpg
+  title: ANDIV Team
   desc: 
   link:
 - src: assets/images/photos/IMG_6103m.jpg
