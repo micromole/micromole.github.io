@@ -10,7 +10,7 @@ images:
   link: assets/images/photos/IMG_2262m.jpg
 - src: assets/images/photos/IMG_7596m.jpg
   title: Field Research
-  desc: 
+  desc: in the Great Basin Desert
   link: assets/images/photos/IMG_7596m.jpg
 - src: assets/images/photos/IMG_2714m.jpg
   title: Seedbank
@@ -21,7 +21,7 @@ images:
   desc:
   link: assets/images/photos/IMG_2093m.jpg
 - src: assets/images/photos/IMG_3746m.jpg
-  title: Herbivore Assay
+  title: Plant Herbivore Assay
   desc:
   link: assets/images/photos/IMG_3746m.jpg
 - src: assets/images/photos/IMG_7435_m.jpg
@@ -29,8 +29,12 @@ images:
   desc: 
   link: assets/images/photos/IMG_7435_m.jpg
 - src: assets/images/photos/IMG_4270m.jpg
-  title: Native Herbivory
+  title: Manduca Caterpillar
   desc: 
+  link: assets/images/photos/IMG_4270m.jpg
+- src: assets/images/photos/IMG_5698m.jpg
+  title: Manduca Adult
+  desc: M. quinquemaculata
   link: assets/images/photos/IMG_4270m.jpg
 ---
 
