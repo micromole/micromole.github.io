@@ -47,7 +47,7 @@ short_bio: >-
     <img src="assets/images/covers/cover_move.jpg" 
          alt="Microbiome Movement" 
          class="img-fluid lazy rounded" 
-         style="float: right; max-width: 40%; max-height: 150px; margin: 5px;">  
+         style="float: right; max-width: 40%; max-height: 120px; margin: 5px;">  
          <p>
    My goal is an integrative understanding of microbiomes in the light of macroecological concepts.
    </p>
