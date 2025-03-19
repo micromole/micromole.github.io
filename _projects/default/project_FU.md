@@ -16,7 +16,13 @@ date: 2017-05-15 00:01:00 +0800
          class="lazy rounded" 
          style="float: right; width: 40%; height: auto; margin: 5px;">   
 <p>
-At the <b>Collaborative Research Centre</b> (<a href="https://www.sfb973.de/" target="_blank">CRC 973</a>) at <a href="https://www.bcp.fu-berlin.de/en/biologie/arbeitsgruppen/zoologie/ag_hilker/" target="_blank">Freie Universität Berlin</a>, we investigated the functional ecology of the <b>adult microbiota</b> of the large cabbage butterfly (<i>Pieris brassicae</i>). Here, I made two important discoeveries: First, adult butterflies contain singificant higher amounts of bacteria compared to their caterpillars. Second, removal of the parental microbiota showed an effect on larval performance when they experience a host plant shift. This transgenerational influence of the <strong>parental microbiota</strong> on offspring performance combines elements of <strong>transgenerational immune priming</strong> and <strong>dietary immunity</strong>.   
+At the <b>Collaborative Research Centre</b> (<a href="https://www.sfb973.de/" target="_blank">CRC 973</a>) at <a href="https://www.bcp.fu-berlin.de/en/biologie/arbeitsgruppen/zoologie/ag_hilker/" target="_blank">Freie Universität Berlin</a>, I moved my research focus to the next trophic level on <strong>Insect-Microbe-Symbiosis</strong>. I investigated the functional ecology of the <b>Adult Butterfly Microbiota</b> using the cabbage white (<i>Pieris brassicae</i>). Here, I made two important discoveries: 
+<ol>
+    <li>Adult butterflies harbor significantly higher bacterial loads compared to their larvae.</li>
+    <li>Removing the parental microbiota affects larval performance when they experience a host plant shift.
+</li>
+    </ol>
+This transgenerational effect suggests a combined role of the <strong>parental microbiota</strong> on <strong>transgenerational immune priming</strong> and <strong>dietary immunity</strong>. This sheds new light on the ecological and evolutionary role of parental microbiota in butterflies.    
 </p>
       
 <div style="display: flex; flex-direction: column; align-items: start; gap: 5px;">
