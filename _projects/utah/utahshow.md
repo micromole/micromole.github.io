@@ -33,8 +33,8 @@ images:
   desc: 
   link: assets/images/photos/IMG_4270m.jpg
 - src: assets/images/photos/IMG_5698m.jpg
-  title: Manduca Adult
-  desc: M. quinquemaculata
+  title: Adult
+  desc: Manduca quinquemaculata
   link: assets/images/photos/IMG_4270m.jpg
 ---
 
