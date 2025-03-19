@@ -46,8 +46,8 @@ short_bio: >-
    microbial transmission among <strong>Plant-Pollinator Networks</strong>.</p>
     <img src="assets/images/covers/cover_move.jpg" 
          alt="Microbiome Movement" 
-         class="lazy rounded" 
-         style="float: right; width: 40%; height-max: 200px; margin: 5px;">  
+         class="img-fluid lazy rounded" 
+         style="float: right; max-width: 40%; max-height: 200px; margin: 5px;">  
          <p>
    My goal is an integrative understanding of microbiomes in the light of macroecological concepts.
    </p>
