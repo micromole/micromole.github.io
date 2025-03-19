@@ -19,10 +19,10 @@ date: 2017-05-15 00:01:00 +0800
 At the <b>Collaborative Research Centre</b> (<a href="https://www.sfb973.de/" target="_blank">CRC 973</a>) at <a href="https://www.bcp.fu-berlin.de/en/biologie/arbeitsgruppen/zoologie/ag_hilker/" target="_blank">Freie Universität Berlin</a>, I moved my research focus to the next trophic level on <strong>Insect-Microbe-Symbiosis</strong>. I investigated the functional ecology of the <b>Adult Butterfly Microbiota</b> using the cabbage white (<i>Pieris brassicae</i>). Here, I made two important discoveries: 
 <ol>
     <li>Adult butterflies harbor significantly higher bacterial loads compared to their larvae.</li>
-    <li>Removing the parental microbiota affects larval performance when they experience a host plant shift.
+    <li>Removing the parental microbiota affects offspring performance when larvae experience a host plant shift.
 </li>
     </ol>
-This transgenerational effect suggests a combined role of the <strong>parental microbiota</strong> on <strong>transgenerational immune priming</strong> and <strong>dietary immunity</strong>. This sheds new light on the ecological and evolutionary role of parental microbiota in butterflies.    
+This transgenerational effect suggests a combined role of the <strong>Parental Microbiota</strong> on <strong>Transgenerational Immune Priming</strong> and <strong>Dietary Immunity</strong>. This sheds new light on the ecological and evolutionary role of parental microbiota in butterflies.    
 </p>
       
 <div style="display: flex; flex-direction: column; align-items: start; gap: 5px;">
