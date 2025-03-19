@@ -44,6 +44,10 @@ short_bio: >-
     My research focus is on <strong>&raquo;Microbiome Assembly of Butterflies&laquo;</strong>.
     My broader interest is on <strong>Host-Microbe Symbiosis</strong> of <strong>Pollinators</strong> and
    microbial transmission among <strong>Plant-Pollinator Networks</strong>.
+    <img src="assets/images/cover/cover_move.jpg" 
+         alt="Microbiome Movement" 
+         class="lazy rounded" 
+         style="float: right; width: 40%; height-max: 200px; margin: 5px;">  
    My goal is an integrative understanding of microbiomes in the light of macroecological concepts.
    </p>
   <p>
@@ -62,9 +66,6 @@ short_bio: >-
 portrait_url: /assets/images/photos/AW_logo.jpg
 portrait_caption: >-
 
-research_pic: /assets/images/covers/cover_move.jpg
-research_caption: >-
-  
 education:
 - name: Friedrich-Schiller-University Jena
   logo: /assets/logo/icon_FSU.png
