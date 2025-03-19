@@ -9,7 +9,7 @@ group:
     src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="CON Group">
   <div class="card-body">
     <p class="card-text">
-      Cellular and Organismic Networks Group at LMU.
+      <strong>Cellular and Organismic Networks</strong> Group at <strong>LMU</strong>.
     </p>
   </div>
 </div>
