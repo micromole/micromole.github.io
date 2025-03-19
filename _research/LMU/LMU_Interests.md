@@ -8,10 +8,10 @@ group:
   <div class="card-body">
     <h5>Current Research Interests</h5>
     <ul>
-      <li>Solitary pollinator microbiota</li>
-      <li>Microbiome assembly</li>
-      <li>Wild pollinator health and immunity</li>
-      <li>Microbial transmission among plant-pollinator networks</li>
-    </ul>
+      <li><strong>Microbiome assembly</strong></li>
+      <li><strong>Pollinator health and immunity</strong></li>
+      <li><strong>Microbial dispersal</strong></li>
+      <li><strong>Plant-pollinator networks</strong></li>
+      </ul>
   </div>
 </div>
