@@ -30,11 +30,11 @@ round_logos:
   - /assets/images/photos/Cora_logo.jpg
 
 keywords:
-  - Ecology
-  - Evolution
-  - Data Science
-  - Bioinformatics
-  - Phylogenetics
+  - Microbial Ecology
+  - Symbiosis
+  - Microbiome Assembly
+  - Pollination
+  - Microbiome Function
 
 short_bio_text_justify: true
 short_bio: >-
@@ -47,8 +47,8 @@ short_bio: >-
    My goal is an integrative understanding of microbiomes in the light of macroecological concepts.
    </p>
   <p>
-   I work on <strong>Pollinator Microbiome Assembly</strong> (see <a href="/research">Research <i class="fas fa-angle-double-right"></i></a>).<br>
-   Before I worked on <strong>Plant Microbiome Function</strong> (see <a href="/projects">Past Projects <i class="fas fa-angle-double-right"></i></a>).
+   Currently I work on <strong>Microbiome Assembly</strong> of insects (see <a href="/research">Research <i class="fas fa-angle-double-right"></i></a>).<br>
+   Before I worked on <strong>Microbiome Function</strong> in plants (see <a href="/projects">Past Projects <i class="fas fa-angle-double-right"></i></a>).
    </p> 
   <blockquote>
         <q>...what I consider is the key aspect of the future of education in the life sciences,
@@ -68,12 +68,6 @@ education:
   position: >- 
     Dr. rer. nat. Molecular Ecology
   date: 2014
-#- name: Max Planck Institute for Chemical Ecology, Jena
-#  logo: /assets/logo/icon_ICE.png
-#  position: >- 
-#    Department of Molecular Ecology <br/>
-#    Ph.D. Student
-#  date: 2009 - 2014
 - name: Philipps-University Marburg
   logo: /assets/logo/icon_MR.png
   position: Dipl.-Biol. Microbiology
@@ -85,14 +79,10 @@ experience:
    logo: /assets/logo/icon_LMU.png
    position: Research Associate
    date: 2021 - 2024
- - name: Collaborative Research Centre 973
+ - name: Collaborative Research Centre 973, Berlin
    logo: /assets/logo/icon_SFB2.png
    position: Postdoctoral Researcher
    date: 2017 - 2020
-# - name: FU Berlin
-#   logo: /assets/logo/icon_FU2.png
-#   position: Guest Scientist
-#   date: 2017
  - name: MPI for Chemical Ecology, Jena
    logo: /assets/logo/icon_ICE.png
    position: >- 
@@ -121,10 +111,6 @@ awards:
 - name: >-
         <strong>MPG Research Fellowship</strong> 
   date: 2014
-#- name: >-
-#        <strong>Top ten</strong> 🏅 photo contest 
-#        <a href="https://www.pflanzenforschung.de/de/pflanzenwissen/bildstrecken/die-top-ten-2022" target="_blank"><strong>pflanzenforschung.de</strong></a>
-#  date: 2022
 #- name: <strong>Best Poster Award</strong> ILRS Symposium
 #  date: 2014
 #- name: >-
