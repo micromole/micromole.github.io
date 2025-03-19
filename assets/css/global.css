@@ -43,17 +43,6 @@ a {
     }
 }
 
-.navbar-nav .nav-link {
-    padding-left: 0.5rem;
-    padding-right: 0.5rem;
-    white-space: nowrap; /* Ensures text stays in a single line */
-}
-
-/* Prevent navbar items from wrapping */
-.navbar-nav {
-    flex-wrap: nowrap;
-    overflow-x: auto;
-}
 
 .inline-badge {
     width: 32px;
