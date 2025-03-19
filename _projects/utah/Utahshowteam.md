@@ -17,11 +17,14 @@ images:
 - src: assets/images/photos/IMG_4219m.jpg
   title: Nightwatch
   desc:
-- src: assets/images/photos/IMG_5698m.jpg
-  title: Manduca quinquemaculata
+- src: assets/images/photos/IMG_5974m.jpg
+  title: Great Ash Sphinx
   desc: 
 - src: assets/images/photos/IMG_9196m.jpg
-  title: Root Sampling
+  title: Placing Soil Sensors
+  desc:
+- src: assets/images/photos/IMG_2155m.jpg
+  title: Poplar Hawk-Moth
   desc: 
 ---
 
