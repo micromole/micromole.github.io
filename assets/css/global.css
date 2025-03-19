@@ -49,6 +49,12 @@ a {
     white-space: nowrap; /* Ensures text stays in a single line */
 }
 
+/* Prevent navbar items from wrapping */
+.navbar-nav {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+}
+
 .inline-badge {
     width: 32px;
     vertical-align: -10%;
