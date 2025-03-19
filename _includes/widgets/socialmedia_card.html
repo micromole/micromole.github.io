@@ -43,7 +43,7 @@
 
                         {% if site.data.profile.gscholar %}
                         {%- assign gscholar_url = site.data.profile.gscholar contains 'scholar.google' ? site.data.profile.gscholar : 'https://scholar.google.com/citations?user=' | append: site.data.profile.gscholar -%}
-                        <a class="pr-3 no-break" target="_blank" href="https://scholar.google.com/citations?user{{ gscholar_url }}">
+                        <a class="pr-3 no-break" target="_blank" href="https://scholar.google.de/citations?user={{ gscholar_url }}">
                             <i class="fab fa-google"></i> Google Scholar
                         </a>
                         {% endif %}
