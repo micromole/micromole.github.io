@@ -14,9 +14,9 @@ date: 2022-07-12 00:01:00 +0800
      <img data-src="{{ 'assets/images/covers/cover_bumble.jpg' | relative_url }}" class="lazy rounded frame-img" style="float: right; margin-left: 10px;"  src="{{ '/assets/images/empty_300x200.png' | relative_url }}">  
 <p>
 This was our first semi field experiment at LMU campus Martinsried. We used outdoor flight cages to test how the microbiota of <strong>Large Earth Bumblebee</strong> (<i>Bombus terrestris</i>) changes when exposed to different flower diversities.
-  Monocultures within agroecosystems could have negative consequences for pollinator health and fitness. We observed a dynamic <strong>Temporal Progression</strong> of the microbiota with distinct compositional changes and diversification over time.
-  Members of the family <i>Lactobacillaceae</i> showed an increase over time, while major core-taxa (<i>Snodgrassella</i> and <i>Gilliamella</i>) declined in their relative abundance.
-  This highlights the importance of field-based observations to resolve plasticity within highly conserved core-taxa of social pollinators. 
+  <strong>Monocultures</strong> within <strong>Agroecosystems</strong> can have negative consequences for pollinator health and fitness, but it is unclear how this infuences the gut-mucrobiota. We observed a dynamic <strong>Temporal Progression</strong> in microbiota diversification with distinct compositional changes over time.
+  Members of the family <i>Lactobacillaceae</i> showed an increase, while major core-taxa (<i>Snodgrassella</i> and <i>Gilliamella</i>) declined in their relative abundance.
+  This highlights the importance of field-based observations to resolve an unexpected plasticity even within highly conserved core-taxa of social pollinators. 
 </p>
     <div style="display: flex; flex-direction: column; align-items: start; gap: 5px;">
     <span>
