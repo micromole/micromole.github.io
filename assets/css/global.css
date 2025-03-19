@@ -29,7 +29,7 @@ a {
 }
 
 .navbar {
-    opacity: 0.95;
+    background-color: rgba(255, 255, 255, 0.8) !important;
 }
 /* Default font size for navbar name */
 .navbar-brand {
