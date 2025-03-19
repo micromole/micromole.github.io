@@ -44,9 +44,8 @@ short_bio: >-
     My research focus is on <strong>&raquo;Microbiome Assembly of Butterflies&laquo;</strong>.
     My broader interest is on <strong>Host-Microbe Symbiosis</strong> of <strong>Pollinators</strong> and
    microbial transmission among <strong>Plant-Pollinator Networks</strong>.</p>
-            <img data-src="{{ 'assets/images/covers/cover_move.jpg' | relative_url }}"
-           class="lazy rounded" style="float: right; height: 150px; margin-left: 10px;"
-           src="{{ '/assets/images/empty_300x200.png' | relative_url }}">  
+            <img data-src="assets/images/covers/cover_move.jpg"
+           class="lazy rounded" style="float: right; height: 150px; margin-left: 10px;">  
                 <p>
    My goal is an integrative understanding of microbiomes in the light of macroecological concepts.
    Host movement would be a valuable addition to the metacommunity concept.
