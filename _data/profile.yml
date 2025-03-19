@@ -46,7 +46,7 @@ short_bio: >-
    microbial transmission among <strong>Plant-Pollinator Networks</strong>.</p>
                         <div class="figure float-right ml-4 mb-4">
                             <img 
-                                src="assets/images/covers/cover_move.jpg | relative_url }}" 
+                                src="{{ assets/images/covers/cover_move.jpg | relative_url }}" 
                                 class="figure-img img-fluid lazy rounded" 
                                 style="height: 200px; width: 40%;"
                                 data-toggle="tooltip" 
