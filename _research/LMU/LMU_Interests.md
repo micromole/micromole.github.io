@@ -8,10 +8,10 @@ group:
   <div class="card-body">
     <h5>Current Research Interests</h5>
     <ul>
-      <li><strong>Microbiome assembly</strong></li>
-      <li><strong>Pollinator health and immunity</strong></li>
-      <li><strong>Microbial dispersal</strong></li>
-      <li><strong>Plant-pollinator networks</strong></li>
+      <li><strong><mark>Microbiome Assembly</mark></strong></li>
+      <li><strong>Pollinator Health and Immunity</strong></li>
+      <li><strong>Microbial Dispersal</strong></li>
+      <li><strong>Plant-Pollinator Networks</strong></li>
       </ul>
   </div>
 </div>
