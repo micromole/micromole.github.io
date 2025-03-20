@@ -10,7 +10,7 @@ group:
   Your browser does not support the video tag.
 </video>
    <div class="card-body">
-    <p class="card-text">
-      <i>Pieris brassicae</i> in a flight cage </p>
-    </div>
-  </div>
+    <h5>
+      <i>Pieris brassicae</i> in a flight cage </h5>
+      </div>
+</div>
