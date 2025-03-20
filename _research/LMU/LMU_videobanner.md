@@ -9,7 +9,8 @@ group:
   <source src="assets/video/Pieris_small.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-  <p>
-    <i>Pieris brassicae</i> in a flight cage
-  </p>
+   <div class="card-body">
+    <p class="card-text">
+      <i>Pieris brassicae</i> in a flight cage </p>
+    </div>
   </div>
