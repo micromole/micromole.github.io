@@ -172,7 +172,6 @@ html {
 
 mark {
     background-color: lightblue; /* Keep or change the background */
-    font-size: 0.8em; /* Reduce size */
     border-radius: 8px; /* Adjust for smoother corners */
     padding: 1px 4px; /* Add some padding for a softer look */
 }
