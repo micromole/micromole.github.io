@@ -8,8 +8,8 @@ date: 2011-06-10 00:01:00 +0800
   <div class="card-body">
      <h5>Gleichgewicht des Mikroversums</h5>
     <p class="card-text">
-      Being recognized in science is always great. Our PNAS research article was featured when the <a href="https://www.microverse-cluster.de/" target="_blank">Cluster of Excellence</a>
-      <strong>Balance of the Microverse</strong> was founded. Go Jena, advancing microbial research!
+      Being recognized in science is always great. Our PNAS article was featured as an example for functional research when the <strong>Cluster of Excellence</strong> <a href="https://www.microverse-cluster.de/" target="_blank">Balance of the Microverse</a>
+       was founded. Go Jena! Advancing microbial research!
          </p>
     <span>
         Original research: 
