@@ -29,7 +29,7 @@ This transgenerational effect suggests a combined role of the <strong>Parental M
     <span>
         Original research: 
         <a href="https://journals.asm.org/doi/10.1128/aem.00596-20">
-            Paniagua Voirol et al. 2021 AEM
+            Paniagua Voirol <i>et al.</i> 2021 <i>AEM</i>
         </a>
     </span>
     <div style="display: flex; gap: 10px; align-items: center;">
