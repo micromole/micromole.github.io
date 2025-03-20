@@ -10,7 +10,7 @@ group:
   <div class="card-body">
     <p class="card-text">
       <strong>Cellular and Organismic Networks</strong> group at <strong>LMU</strong>.
-    </p>
-    <p><small>Photo by A Keller</small></p>
+    <br>
+    <small>Photo by A Keller</small></p>
   </div>
 </div>
