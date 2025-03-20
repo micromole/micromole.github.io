@@ -1,9 +1,11 @@
 "Weinhold A":
   bold: true
+  url: https://scholar.google.de/citations?user=JzVuBk4AAAAJ&hl=de
 
-"Robert White":
-  url: https://www.google.com/?q=Robert+White
-
+"Fatouros N":
+  name: Nina Fatouros
+  url: https://scholar.google.de/citations?user=rP-vAFMAAAAJ&hl=de
+  
 "Charles Green (MIT)":
   name: Charles Green
   url: https://www.google.com/?q=Charles+Green+MIT
