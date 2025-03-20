@@ -46,8 +46,8 @@ short_bio: >-
     microbial transmission among <strong>Plant-Pollinator Networks</strong>.</p>
           <img src="assets/images/covers/cover_move.jpg" 
          alt="Hoste Movement" 
-         class="img-fluid lazy rounded" 
-         style="float: right; max-width: 40%; max-height: 150px; margin-left: 16px;"> 
+         class="img-fluid lazy rounded ml-4" 
+         style="float: right; max-width: 40%; max-height: 150px;"> 
                 <p>
       My goal is an integrative understanding of microbiomes in the light of macroecological theories.
       Host movement can be a valuable addition to current metacommunity concepts.
