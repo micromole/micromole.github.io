@@ -26,7 +26,7 @@ So far, only individual bacterial strains had been applied in agriculture. Howev
      <div style="display: flex; flex-direction: column; align-items: start; gap: 5px;">
     <span>
         Original research: 
-        <a href="https://www.pnas.org/doi/full/10.1073/pnas.1505765112" target="_blank">Santhanam <i>et al.</i>> 2015 <i>PNAS</i></a>
+        <a href="https://www.pnas.org/doi/full/10.1073/pnas.1505765112" target="_blank">Santhanam <i>et al.</i> 2015 <i>PNAS</i></a>
     </span>
     <div style="display: flex; gap: 10px; align-items: center;">
         <span class="__dimensions_badge_embed__" 
