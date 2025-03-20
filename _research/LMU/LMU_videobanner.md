@@ -11,7 +11,7 @@ group:
 </video>
   <div class="card-body">
     <p class="card-text">
-      Text 
+      Testing <strong>Priority Effects</strong> on <i>P. brassicae</i>.
     </p>
      </div>
 </div>
