@@ -53,7 +53,7 @@ short_bio: >-
       Host movement can be a valuable addition to current metacommunity concepts.
       Host movement can extend the boundaries of microbial dispersal limitations within and across trophic levels and connect habitat patches within plant-pollinator networks.
     </p> </div>
-     <div class="col-md-9" style="border: 2px solid red;">
+     <div class="col-md-9" style="border: 2px solid red; padding: 0 !important;">
     <p>This should be left-aligned.</p>
    </div>
     <p>
