@@ -23,7 +23,7 @@ How to manipulate a plant’s microbiome under real-world conditions? At the <a 
     <span>
         Original research: 
         <a href=" https://elifesciences.org/articles/28715">
-            Weinhold et al. 2018 eLife
+            Weinhold <i>et al.</i> 2018 <i>eLife</i>
         </a>
     </span>
     <div style="display: flex; gap: 10px; align-items: center;">
