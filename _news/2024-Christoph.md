@@ -1,6 +1,6 @@
 ---
 title: >-
     <span class="badge badge-pill badge-secondary">Defense</span>
-    Christoph presented his BSc project on butterfly microbiota 🍾
-date: 2023-03-19 11:00:00 UTC
+    Christoph & Mayukh gave their final thesis project presentations 🍾
+date: 2023-07-19 11:00:00 UTC
 ---
