@@ -11,7 +11,7 @@
         <div class="col-md-9 col-xl-10 p-3 pl-md-0">
             <h6 class="mt-0 mb-1">{{ item.title }}</h6>
             <p class="mt-0 mb-0">{% include widgets/author_list.html authors=item.authors %}</p>
-            <p class="mt-0 mb-0">{{item.pub_pre}}<i><strong>{{ item.pub }}</strong></i>{{ item.pub_post }} <b>{{ item.pub_date }}</b> {{ item.pub_last }}
+            <p class="mt-0 mb-0">{{item.pub_pre}}<i><strong>{{ item.pub }}</strong></i>{{ item.pub_post }} <b>{{ item.pub_date }}</b> <small>{{ item.pub_last }}</small>
                 {% if item.dimensions %}
                 <span style="display: inline-block; margin-left: 10px; margin-right: 10px; vertical-align: text-bottom;">
                 <span class="__dimensions_badge_embed__" data-doi="{{ item.dimensions | replace:'https://doi.org/', '' }}" data-style="small_rectangle"></span>
@@ -42,7 +42,7 @@
             <div>
                 <h6 class="mt-0 mb-1">{{ item.title }}</h6>
                 <p class="mt-0 mb-0">{% include widgets/author_list.html authors=item.authors %}</p>
-                <p class="mt-0 mb-0">{{item.pub_pre}}<i><strong>{{ item.pub }}</strong></i>{{ item.pub_post }} <b>{{ item.pub_date }}</b> {{ item.pub_last }}
+                <p class="mt-0 mb-0">{{item.pub_pre}}<i><strong>{{ item.pub }}</strong></i>{{ item.pub_post }} <b>{{ item.pub_date }}</b> <small>{{ item.pub_last }}</small>
                     {% if item.dimensions %}
                     <span style="display: inline-block; margin-left: 10px; margin-right: 10px; vertical-align: text-bottom;">
                     <span class="__dimensions_badge_embed__" data-doi="{{ item.dimensions | replace:'https://doi.org/', '' }}" data-style="small_rectangle"></span>
