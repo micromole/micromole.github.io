@@ -1,7 +1,7 @@
 ---
 show: true
-width: 8
-date: 2024-12-09 00:01:00 +0800
+width: 4
+date: 2024-12-10 00:01:00 +0800
 group:
 ---
 <div>
@@ -11,7 +11,7 @@ group:
 </video>
   <div class="card-body">
     <p class="card-text">
-      Text
+      Text 
     </p>
      </div>
 </div>
