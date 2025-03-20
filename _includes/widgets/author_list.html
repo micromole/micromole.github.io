@@ -43,6 +43,7 @@
 
 {%- if has_eq_contrib or has_corresponding %}
 <mark>
+    <small>
     {%- if has_eq_contrib -%}
         <sup>#</sup><i>equal contribution</i>
     {%- endif -%}
@@ -50,5 +51,6 @@
         {%- if has_eq_contrib -%}, {% endif -%}
         *<i>corresponding author</i>
     {%- endif -%}
+    </small>
 </mark>
 {%- endif -%}
