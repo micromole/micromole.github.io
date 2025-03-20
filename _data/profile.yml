@@ -48,7 +48,7 @@ short_bio: >-
          alt="Hoste Movement" 
          class="img-fluid lazy rounded ml-4" 
          style="float: right; max-width: 40%; max-height: 150px;"> 
-        <div class="col-md-9">
+        <div class="col-md-9 ps-0">
         <p>
       My goal is an integrative understanding of microbiomes in the light of macroecological theories.
       Host movement can be a valuable addition to current metacommunity concepts.
