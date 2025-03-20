@@ -7,11 +7,11 @@ group:
 <div>
   <div class="card-body">
     <h5>Current Research Interests</h5>
-    <ul><mark>
-      <li><strong>Microbiome Assembly</strong></li>
-      <li><strong>Pollinator Health and Immunity</strong></li>
-      <li><strong>Microbial Dispersal</strong></li>
-      <li><strong>Plant-Pollinator Networks</strong></li>
-      </mark></ul>
+    <ul>
+    <li><mark><strong>Microbiome Assembly</strong></mark></li>
+    <li><mark><strong>Pollinator Health and Immunity</strong></mark></li>
+    <li><mark><strong>Microbial Dispersal</strong></mark></li>
+    <li><mark><strong>Plant-Pollinator Networks</strong></mark></li>
+    </ul>
   </div>
 </div>
