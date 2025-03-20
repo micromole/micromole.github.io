@@ -9,7 +9,7 @@ images:
   desc:
   link: assets/images/photos/IMG_0284m.jpg
 - src: assets/images/photos/IMG_2273m.jpg
-  title: Sampling
+  title: Sampling Wash Population
   desc: 
 - src: assets/images/photos/IMG_4455m.jpg
   title: Root Harvest
