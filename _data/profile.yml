@@ -38,11 +38,10 @@ keywords:
 
 short_bio_text_justify: true
 short_bio: >-
-  <div class="col-md-9" style="padding: 0 !important;"> <p>
+  <div class="col-md-9" style="padding: 0 !important;"> 
+   <h5>About me</h5><p>
     Hello there! I consider myself as <b><ins>Micro</ins>bial <ins>Mol</ins>ecular <ins>E</ins>cologist</b> (<code>mi·cro·mole</code>).
-    I have been trained cross-disciplinary at the interfaces of molecular and organismic disciplines and combine ecological field work with quantitative microbiome analysis.
-    </p>
-    <p>
+    I have been trained cross-disciplinary at the interfaces of molecular and organismic disciplines and combine ecological field work with quantitative microbiome analysis.<br>
     My current research focus is on <strong>&raquo;Microbiome Assembly of Butterflies&laquo;</strong>.
     My broader interest is on <strong>Host-Microbe Symbiosis</strong> of <strong>Pollinators</strong> and
     microbial transmission among <strong>Plant-Pollinator Networks</strong>.</p> </div>
@@ -50,7 +49,8 @@ short_bio: >-
          alt="Hoste Movement" 
          class="img-fluid lazy rounded ml-4" 
          style="float: right; max-width: 50%; max-height: 150px;"> 
-        <div class="col-md-9" style="padding: 0 !important;"> <p>
+        <div class="col-md-9" style="padding: 0 !important;"> 
+      <h5>My Research</h5><p>
       My goal is an integrative understanding of microbiomes in the light of macroecological theories.
       Host movement can be a valuable addition to current metacommunity concepts.
       Host movement can extend the boundaries of microbial dispersal limitations within and across trophic levels and connect habitat patches within plant-pollinator networks.
