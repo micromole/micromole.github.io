@@ -52,7 +52,7 @@ short_bio: >-
       <h5>My Goals</h5>
           <img src="assets/images/covers/cover_move.jpg" 
          alt="Hoste Movement" 
-         class="img-fluid lazy rounded ml-4" 
+         class="img-fluid lazy rounded" 
          style="float: right; max-width: 50%; max-height: 150px;"> 
         <div class="col-md-9" style="padding: 0 !important;"> 
       <p>
