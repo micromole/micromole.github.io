@@ -38,12 +38,12 @@ keywords:
 
 short_bio_text_justify: true
 short_bio: >-
-  <p>
+  <div class="col-md-9"> <p>
     Hello there! I consider myself as <b><ins>Micro</ins>bial <ins>Mol</ins>ecular <ins>E</ins>cologist</b> (<code>mi·cro·mole</code>).
     I have been trained cross-disciplinary at the interfaces of molecular and organismic disciplines and combine ecological field work with quantitative microbiome analysis.
     My research focus is on <strong>&raquo;Microbiome Assembly of Butterflies&laquo;</strong>.
     My broader interest is on <strong>Host-Microbe Symbiosis</strong> of <strong>Pollinators</strong> and
-    microbial transmission among <strong>Plant-Pollinator Networks</strong>.</p>
+    microbial transmission among <strong>Plant-Pollinator Networks</strong>.</p> </div>
           <img src="assets/images/covers/cover_move.jpg" 
          alt="Hoste Movement" 
          class="img-fluid lazy rounded ml-4" 
