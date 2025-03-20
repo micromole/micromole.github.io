@@ -1,11 +1,11 @@
 ---
 show: true
-width: 4
-date: 2024-12-11 00:01:00 +0800
+width: 8
+date: 2024-12-09 00:01:00 +0800
 group:
 ---
 <div>
-  <video autoplay loop muted playsinline width="100%">
+  <video autoplay loop muted playsinline class="w-100 rounded">
   <source src="assets/video/Pieris_small.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
