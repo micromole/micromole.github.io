@@ -16,13 +16,13 @@ date: 2024-12-11 00:01:00 +0800
                   I can test hypotheses on host selection and <strong>Neutral Community Assembly</strong> in natural habitats. 
                </p>
         <div>
-  <video autoplay loop muted playsinline class="rounded" style="width: 99%; margin: 4px;">
+  <video autoplay loop muted playsinline class="rounded" style="width: 99%; margin: 2px;">
   <source src="assets/video/Pieris_small.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 </div>
 <p>
-These analyses will be accompanied by empirical tests within a butterfly rearing. <strong>Targeted Manipulations</strong> will help to distinguish among stochastic and deterministic processes, to reveal the impact of <strong>Priority Effects</strong> during microbial community assembly. Understanding these dynamics will provide insights into how anthropogenic influences can disturb microbiota assembly of wild pollinators.
+These analyses will be accompanied by empirical tests within a butterfly rearing. The controlled setup will allow to distinguish among stochastic and deterministic processes and the impact of <strong>Priority Effects</strong> during microbial community assembly. Understanding these dynamics will provide insights into how anthropogenic influences can disturb microbiota assembly of wild pollinators.
 </p>
      <img src="/assets/logo/logo64_LMU.png" alt="LMU Logo" class="img-fluid logo-img">
      <img src="/assets/logo/logo64_DFGalt.png" alt="DFG Logo" class="img-fluid logo-img"> 
