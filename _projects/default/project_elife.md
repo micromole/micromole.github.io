@@ -18,11 +18,16 @@ date: 2016-01-12 00:01:00 +0800
 How to manipulate a plant’s microbiome under real-world conditions? At the <a href=" https://www.ice.mpg.de/" target="_blank">Max Planck Institute for Chemical Ecology</a>, I used an <i>in-planta</i> <b>Microbiome Manipulation</b> approach with transgenic plants. The goal was to test <b>Microbiome Function</b>—and its role in plant defense against herbivores—directly within a plants’ natural habitat. 
      Among the ten different antimicrobial peptides (AMPs) tested, only a few proved to be viable candidates. However, the native endophytic bacteria displayed highly variable susceptibility to the expressed peptide, resulting in a <strong>Resilient Microbiome</strong> under field conditions. This highlights the importance of field research, as lab-based assays alone cannot capture the diversity of natural microbial communities.
 </p>
-<blockquote>In order to manipulate the microbiome, we used the expression of antimicrobial peptides. Our plants showed activity against different Bacillus species, which are mainly known as plant beneficial microbes. We assumed that that these transgenic plants might show deficits in growth or reproduction in field experiments. In other words: we wanted to make an unhappy plant to see how important microbes are for them. To our surprise, the plants appeared rather unimpressed when we compared them with controls in the field, first author Arne Weinhold summarizes. <cite>(source <a href=" https://phys.org/news/2018-04-microbiome-native-resilient.html">MPG press release</a>)</cite></blockquote>
+<blockquote>In order to manipulate the microbiome, we used the expression of antimicrobial peptides. Our plants showed activity against different Bacillus species, which are mainly known as plant beneficial microbes. We assumed that that these transgenic plants might show deficits in growth or reproduction in field experiments. In other words: we wanted to make an unhappy plant to see how important microbes are for them. To our surprise, the plants appeared rather unimpressed when we compared them with controls in the field, first author Arne Weinhold summarizes. 
+     <span style="font-style: normal;">
+          <cite>(source <a href=" https://phys.org/news/2018-04-microbiome-native-resilient.html" class="external" target="_blank" rel="noopener noreferrer">MPG press release</a>)
+          </cite>
+     </span>
+     </blockquote>
     <div style="display: flex; flex-direction: column; align-items: start; gap: 5px;">
     <span>
         Original research: 
-        <a href=" https://elifesciences.org/articles/28715">
+        <a href=" https://elifesciences.org/articles/28715" class="external" target="_blank" rel="noopener noreferrer">
             Weinhold <i>et al.</i> 2018 <i>eLife</i>
         </a>
     </span>
