@@ -21,7 +21,7 @@ images:
   desc: 
   link: 
 - src: assets/images/photos/20221002_084002m.jpg
-  title: ANDIV Team
+  title: ANDIV Team, Exploring
   desc: 
   link:
 - src: assets/images/photos/20220928_071413m.jpg
@@ -33,11 +33,11 @@ images:
   desc: 
   link: assets/images/photos/IMG_6103wm.jpg
 - src: assets/images/photos/IMG_7043m.jpg
-  title: Ara ararauna
+  title: Macaw from Peru
   desc: 
   link: assets/images/photos/IMG_7043wm.jpg
 - src: assets/images/photos/IMG_6005m.jpg
-  title: Ant from Peru
+  title: Cloud Forest Ant
   desc: 
   link: assets/images/photos/IMG_6005wm.jpg 
 ---
