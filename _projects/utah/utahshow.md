@@ -28,6 +28,10 @@ images:
   title: Research Field Plot, Utah
   desc: 
   link: assets/images/photos/IMG_7435_m.jpg
+- src: assets/images/photos/IMG_6353m.jpg
+  title: Locust Herbivory
+  desc: 
+  link: assets/images/photos/IMG_6353m.jpg
 - src: assets/images/photos/IMG_4270m.jpg
   title: Manduca Caterpillar
   desc: 
