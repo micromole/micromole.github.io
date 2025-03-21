@@ -17,6 +17,9 @@ images:
 - src: assets/images/photos/IMG_4219m.jpg
   title: Nightwatch
   desc:
+- src: assets/images/photos/IMG_5858m.jpg
+  title: Joshua Tree Dawn
+  desc:
 - src: assets/images/photos/IMG_5974m.jpg
   title: Great Ash Sphinx
   desc: 
