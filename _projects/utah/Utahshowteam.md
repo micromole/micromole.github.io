@@ -11,7 +11,7 @@ images:
 - src: assets/images/photos/IMG_2273m.jpg
   title: Sampling Wash Population
   desc: 
-- src: assets/images/photos/IMG_5698m.jpg
+- src: assets/images/photos/IMG_8879m.jpg
   title: Field Work
   desc: 
 - src: assets/images/photos/IMG_4219m.jpg
