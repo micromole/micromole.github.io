@@ -20,8 +20,8 @@ images:
   title: Wayquecha Station
   desc: 
   link:
-- src: assets/images/photos/IMG_6180m.jpg
-  title: Picture Hunting
+- src: assets/images/photos/20221002_084002m.jpg
+  title: ANDIV Team
   desc: 
   link:
 - src: assets/images/photos/20220928_071413m.jpg
@@ -31,6 +31,10 @@ images:
 - src: assets/images/photos/IMG_6103m.jpg
   title: Peru Moth
   desc: 
+  link:
+- src: assets/images/photos/IMG_7043m.jpg
+  title: 
+  desc: Ara ararauna
   link:  
 ---
 
