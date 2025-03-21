@@ -12,7 +12,7 @@ images:
   title: Sampling Wash Population
   desc: 
 - src: assets/images/photos/IMG_5698m.jpg
-  title: Plant Trait Measurement
+  title: Field Work
   desc: 
 - src: assets/images/photos/IMG_4219m.jpg
   title: Nightwatch
