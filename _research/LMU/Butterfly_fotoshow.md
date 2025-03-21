@@ -24,6 +24,9 @@ images:
   title: 
   desc: Cetonia aurata
   link:
+- src: assets/images/photos/IMG_6028s.jpg
+  title: 
+  desc: Cetonia small
 - src: assets/images/photos/IMG_6070m.jpg
   title: 
   desc: Polyommatus icarus
