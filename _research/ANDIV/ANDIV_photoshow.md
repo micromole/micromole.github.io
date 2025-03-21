@@ -35,6 +35,10 @@ images:
 - src: assets/images/photos/IMG_7043m.jpg
   title: 
   desc: Ara ararauna
+  link:
+- src: assets/images/photos/IMG_6005m.jpg
+  title: 
+  desc: 
   link:  
 ---
 
