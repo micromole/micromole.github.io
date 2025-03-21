@@ -16,7 +16,7 @@ date: 2024-12-11 00:01:00 +0800
                   I can test hypotheses on host selection and <strong>Neutral Community Assembly</strong> in natural habitats. 
                </p>
         <div>
-  <video autoplay loop muted playsinline class="w-100 rounded frame-img" style="float: right;">
+  <video autoplay loop muted playsinline class="w-100 rounded">
   <source src="assets/video/Pieris_small.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
