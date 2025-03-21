@@ -25,7 +25,7 @@ images:
   desc:
   link: assets/images/photos/IMG_3746m.jpg
 - src: assets/images/photos/IMG_7435_m.jpg
-  title: Reaearch Field Plot, Utah
+  title: Research Field Plot, Utah
   desc: 
   link: assets/images/photos/IMG_7435_m.jpg
 - src: assets/images/photos/IMG_4270m.jpg
