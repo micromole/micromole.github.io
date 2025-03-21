@@ -16,7 +16,7 @@ date: 2017-05-15 00:01:00 +0800
          class="lazy rounded" 
          style="float: right; width: 40%; height: auto; margin: 5px;">   
 <p>
-At the <b>Collaborative Research Centre</b> (<a href="https://www.sfb973.de/" target="_blank">CRC 973</a>) at <a href="https://www.bcp.fu-berlin.de/en/biologie/arbeitsgruppen/zoologie/ag_hilker/" target="_blank">Freie Universität Berlin</a>, I moved my research focus to the next trophic level on <strong>Insect-Microbe-Symbiosis</strong>. We investigated the functional ecology of the <b>Adult Butterfly Microbiota</b> using the cabbage white (<i>Pieris brassicae</i>) and made two important discoveries: 
+At the <b>Collaborative Research Centre</b> (<a href="https://www.sfb973.de/" class="external" target="_blank" rel="noopener noreferrer">CRC 973</a>) at <a href="https://www.bcp.fu-berlin.de/en/biologie/arbeitsgruppen/zoologie/ag_hilker/" class="external" target="_blank" rel="noopener noreferrer">Freie Universität Berlin</a>, I moved my research focus to the next trophic level on <strong>Insect-Microbe-Symbiosis</strong>. We investigated the functional ecology of the <b>Adult Butterfly Microbiota</b> using the cabbage white (<i>Pieris brassicae</i>) and made two important discoveries: 
 <ol>
     <li>Adult butterflies harbor significantly higher bacterial loads compared to their larvae.</li>
     <li>Removing the parental microbiota affects offspring performance when larvae experience a host plant shift.
@@ -28,7 +28,7 @@ This transgenerational effect suggests a combined role of the <strong>Parental M
 <div style="display: flex; flex-direction: column; align-items: start; gap: 5px;">
     <span>
         Original research: 
-        <a href="https://journals.asm.org/doi/10.1128/aem.00596-20">
+        <a href="https://journals.asm.org/doi/10.1128/aem.00596-20" class="external" target="_blank" rel="noopener noreferrer">
             Paniagua Voirol <i>et al.</i> 2021 <i>AEM</i>
         </a>
     </span>
