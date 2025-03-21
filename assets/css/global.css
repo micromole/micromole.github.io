@@ -29,7 +29,7 @@ a {
 }
 
 .navbar {
-    background-color: rgba(255, 255, 255, 0.8) !important;
+    background-color: rgba(255, 255, 255, 0.85) !important;
 }
 /* Default font size for navbar name */
 .navbar-brand {
@@ -118,14 +118,14 @@ html {
 
 /* Frame image on larger screens */
 .frame-img {
-    width: 47%;
-    margin: 4px;
+    width: 48%;
+    margin: 2px;
 }
 
 /* Frame image on smaller screens below 576px */
 @media (max-width: 576px) {
     .frame-img {
-         width: 98%;
+         width: 99%;
     }
 }
 
