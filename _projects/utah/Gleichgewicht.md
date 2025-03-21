@@ -8,12 +8,12 @@ date: 2011-06-10 00:01:00 +0800
   <div class="card-body">
      <h5>Gleichgewicht des Mikroversums</h5>
     <p class="card-text">
-      Being recognized in science is always great. Our PNAS article was featured as an example for functional microbiome research when the <strong>Cluster of Excellence</strong> <a href="https://www.microverse-cluster.de/" target="_blank">Balance of the Microverse</a>
+      Being recognized in science is always great. Our PNAS article was featured as an example for functional microbiome research when the <strong>Cluster of Excellence</strong> <a href="https://www.microverse-cluster.de/" class="external" target="_blank" rel="noopener noreferrer">Balance of the Microverse</a>
        was founded. Go Jena! Advancing microbial research!
          </p>
     <span>
         Original research: 
-        <a href="https://link.springer.com/article/10.1007/s12268-019-1032-z">
+        <a href="https://link.springer.com/article/10.1007/s12268-019-1032-z" class="external" target="_blank" rel="noopener noreferrer">
             Brakhage 2019 <i>Biospektrum</i></a>
     </span>
   </div>
