@@ -22,10 +22,10 @@ images:
   link:
 - src: assets/images/photos/20221002_084002m.jpg
   title: ANDIV Team
-  desc: Villa Carmen
+  desc: 
   link:
 - src: assets/images/photos/20220928_071413m.jpg
-  title: ANDIV Team
+  title: ANDIV Team, Villa Carmen
   desc: 
   link:
 - src: assets/images/photos/IMG_6103m.jpg
@@ -33,8 +33,8 @@ images:
   desc: 
   link:
 - src: assets/images/photos/IMG_7043m.jpg
-  title: 
-  desc: Ara ararauna
+  title: Ara ararauna
+  desc: 
   link:
 - src: assets/images/photos/IMG_6005m.jpg
   title: Ant from Peru
