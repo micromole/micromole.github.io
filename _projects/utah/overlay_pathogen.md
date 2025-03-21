@@ -13,7 +13,7 @@ date: 2012-01-12 00:01:00 +0800
     </p>
        <span>
         Original research: 
-        <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102915">
+        <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102915" class="external" target="_blank" rel="noopener noreferrer">
             Schuck <i>et al.</i> 2014 <i>PlosOne</i>
         </a>
     </span>
