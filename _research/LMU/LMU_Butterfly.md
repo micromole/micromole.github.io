@@ -7,8 +7,8 @@ date: 2024-12-11 00:01:00 +0800
 <div class="p-4">
     <h3 id="Pieris">Dynamics of Microbial Enrichment in Adult Butterflies</h3>
     <div style="text-align: justify;">
-           <img data-src="{{ 'assets/images/photos/IMG_5899m.jpg' | relative_url }}" class="lazy rounded frame-img" style="float: right; margin-left: 10px;"  
-               src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+            <img data-src="{{ 'assets/images/photos/IMG_5899m.jpg' | relative_url }}" alt="Pieris brassicae" class="lazy rounded frame-img" style="float: right; margin-left: 10px;"  
+               src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Pieris brassicae">
               <p>
                 In this study, I use cabbage white butterflies (<i>Pieris spp.</i>) as a model for solitary pollinators to investigate how the timing of 
                   <strong>Microbial Acquisition</strong> shapes <strong>Community Assembly</strong> dynamics over time.
