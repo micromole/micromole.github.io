@@ -11,8 +11,8 @@ images:
 - src: assets/images/photos/IMG_2273m.jpg
   title: Sampling Wash Population
   desc: 
-- src: assets/images/photos/IMG_4455m.jpg
-  title: Root Harvest
+- src: assets/images/photos/IMG_5698m.jpg
+  title: Plant Trait Measurement
   desc: 
 - src: assets/images/photos/IMG_4219m.jpg
   title: Nightwatch
@@ -23,7 +23,7 @@ images:
 - src: assets/images/photos/IMG_9196m.jpg
   title: Placing Soil Sensors
   desc:
-- src: assets/images/photos/IMG_2155m.jpg
+- src: assets/images/photos/IMG_5709m.jpg
   title: Poplar Hawk-Moth
   desc: 
 ---
