@@ -98,6 +98,11 @@ blockquote::before {
     margin-right: 10px;
 }
 
+blockquote footer {
+    font-style: normal;
+}
+
+
 html {
     scroll-behavior: smooth;
 }
@@ -208,5 +213,3 @@ a.external:after {
     margin-left: 5px;
     display: inline-block;
 }
-
-
