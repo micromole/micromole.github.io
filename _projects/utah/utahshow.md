@@ -10,10 +10,10 @@ images:
   link: assets/images/photos/IMG_2262m.jpg
 - src: assets/images/photos/IMG_7596m.jpg
   title: Field Research
-  desc: in the Great Basin Desert
+  desc: Great Basin Desert, Utah
   link: assets/images/photos/IMG_7596m.jpg
 - src: assets/images/photos/IMG_2714m.jpg
-  title: Seedbank
+  title: Seedbank Survival
   desc:
   link: assets/images/photos/IMG_2714m.jpg
 - src: assets/images/photos/IMG_2093m.jpg
@@ -25,7 +25,7 @@ images:
   desc:
   link: assets/images/photos/IMG_3746m.jpg
 - src: assets/images/photos/IMG_7435_m.jpg
-  title: Utah Field Plot
+  title: Reaearch Field Plot, Utah
   desc: 
   link: assets/images/photos/IMG_7435_m.jpg
 - src: assets/images/photos/IMG_4270m.jpg
