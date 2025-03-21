@@ -199,8 +199,8 @@ mark {
     font-size: 14px; /* Adjust as needed */
 }
 
-/* Add icon only to links with rel="noopener noreferrer" */
-a[rel~="noopener noreferrer"]:after {
+/* Only apply to links with class "external" */
+a.external:after {
     content: "\f35d";  /* Font Awesome external link icon */
     font-family: "Font Awesome 6 Free";
     font-weight: 900;
@@ -208,4 +208,5 @@ a[rel~="noopener noreferrer"]:after {
     margin-left: 5px;
     display: inline-block;
 }
+
 
