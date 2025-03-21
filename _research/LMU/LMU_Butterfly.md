@@ -22,6 +22,9 @@ date: 2024-12-11 00:01:00 +0800
   Your browser does not support the video tag.
 </video>
 </div>
+<p>
+These analyses will be accompanied by empirical tests within a butterfly rearing. <strong>Targeted Manipulations</strong> will help to reveal the importance of stochastic and deterministic processes to decipher the role of <strong>Priority Effects</strong>.
+</p>
      <img src="/assets/logo/logo64_LMU.png" alt="LMU Logo" class="img-fluid logo-img">
      <img src="/assets/logo/logo64_DFGalt.png" alt="DFG Logo" class="img-fluid logo-img"> 
        <p><a href="#top">Back to Top <i class="fas fa-angle-double-up"></i></a></p>
