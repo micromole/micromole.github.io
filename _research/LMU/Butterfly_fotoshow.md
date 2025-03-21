@@ -16,10 +16,6 @@ images:
   title:
   desc: Melanargia galathea
   link:
-- src: assets/images/photos/IMG_5947m.jpg
-  title: 
-  desc: Maniola jurtina
-  link:
 - src: assets/images/photos/IMG_5965m.jpg
   title: 
   desc: Maniola jurtina
