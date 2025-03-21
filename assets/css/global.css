@@ -199,3 +199,12 @@ mark {
     font-size: 14px; /* Adjust as needed */
 }
 
+/* Apply only to external links (not internal links) */
+a[href^="http"]:not([href*="micromole.github.io"]):after {
+    content: "\f35d";  /* Unicode for Font Awesome "external-link-alt" icon */
+    font-family: "Font Awesome 6 Free"; 
+    font-weight: 900;  /* Required for solid icons */
+    font-size: 0.8em;  /* Adjust size */
+    margin-left: 5px;  /* Space between text and icon */
+    display: inline-block;
+}
