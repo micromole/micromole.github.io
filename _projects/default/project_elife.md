@@ -6,20 +6,23 @@ date: 2016-01-12 00:01:00 +0800
 <div class="p-4">
      <h3 id="Resilient-Microbiome">Plant Microbiome Manipulation</h3>
       <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1px;">
-     <img data-src="{{ 'assets/images/photos/root_harvest_AWm.jpg' | relative_url }}" class="lazy rounded frame-img" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
-     <img data-src="{{ 'assets/images/photos/Utah_fieldm.jpg' | relative_url }}" class="lazy rounded frame-img" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+       <img data-src="{{ 'assets/images/photos/root_harvest_AWm.jpg' | relative_url }}" alt="Root Harvest" class="lazy rounded frame-img" 
+            src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Root Harvest">
+      <img data-src="{{ 'assets/images/photos/Utah_fieldm.jpg' | relative_url }}" alt="Utah Field Plot" class="lazy rounded frame-img" 
+            src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Utah Field Plot">
                </div>
  <hr />
  <img src="assets/images/photos/Nicotiana_AMP.jpg" 
          alt="In planta microbiome manipulation" 
          class="lazy rounded" 
-         style="float: right; width: 48%; height: auto; margin: 5px;">   
+         style="float: right; width: 48%; height: auto; margin: 5px;"
+         data-toggle="tooltip" data-placement="top" title="In planta Microbiome Manipulation">   
 <p>
 How to manipulate a plant’s microbiome under real-world conditions? At the <a href=" https://www.ice.mpg.de/" target="_blank">Max Planck Institute for Chemical Ecology</a>, I used an <i>in-planta</i> <b>Microbiome Manipulation</b> approach with transgenic plants. The goal was to test <b>Microbiome Function</b>—and its role in plant defense against herbivores—directly within a plants’ natural habitat. 
      Among the ten different antimicrobial peptides (AMPs) tested, only a few proved to be viable candidates. However, the native endophytic bacteria displayed highly variable susceptibility to the expressed peptide, resulting in a <strong>Resilient Microbiome</strong> under field conditions. This highlights the importance of field research, as lab-based assays alone cannot capture the diversity of natural microbial communities.
 </p>
-<blockquote>In order to manipulate the microbiome, we used the expression of antimicrobial peptides. Our plants showed activity against different Bacillus species, which are mainly known as plant beneficial microbes. We assumed that that these transgenic plants might show deficits in growth or reproduction in field experiments. In other words: we wanted to make an unhappy plant to see how important microbes are for them. To our surprise, the plants appeared rather unimpressed when we compared them with controls in the field, first author Arne Weinhold summarizes. 
-     <footer>— source <a href=" https://phys.org/news/2018-04-microbiome-native-resilient.html" class="external" target="_blank" rel="noopener noreferrer">MPG press release</a>
+<blockquote>In order to manipulate the microbiome, we used the expression of antimicrobial peptides. Our plants showed activity against different Bacillus species, which are mainly known as plant beneficial microbes. We assumed that that these transgenic plants might show deficits in growth or reproduction in field experiments. In other words: we wanted to make an unhappy plant to see how important microbes are for them. To our surprise, the plants appeared rather unimpressed when we compared them with controls in the field... 
+     <footer>— Arne Weinhold 04/2028 (source <a href=" https://phys.org/news/2018-04-microbiome-native-resilient.html" class="external" target="_blank" rel="noopener noreferrer">MPG press release</a>)
      </footer>
        </blockquote>
     <div style="display: flex; flex-direction: column; align-items: start; gap: 5px;">
