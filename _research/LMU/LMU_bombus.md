@@ -20,14 +20,12 @@ This was our first semi field experiment at LMU campus Martinsried. We used outd
   Members of the family <i>Lactobacillaceae</i> showed an increase, while major core-taxa (<i>Snodgrassella</i> and <i>Gilliamella</i>) declined in their relative abundance.
   This highlights the importance of field-based observations to resolve an unexpected plasticity even within highly conserved core-taxa of social pollinators. 
 </p>
-    <div style="display: flex; flex-direction: column; align-items: start; gap: 5px;">
-    <span>
-        Original research: 
-        <a href="https://doi.org/10.3389/fcimb.2024.1342781">
-            Weinhold et al. 2024
-        </a>
-    </span>
-    <div style="display: flex; gap: 10px; align-items: center;">
+   <div class="card bg-light mb-3">
+ <div class="card-header">
+<strong>Original research:</strong>
+Weinhold <i>et al.</i> (2024) Bumble bee microbiota shows temporal succession and increase of lactic acid bacteria when exposed to outdoor environments, <i>Front. Cell. Infect. Microbiol.</i> <a href="https://doi.org/10.3389/fcimb.2024.1342781" class="external" target="_blank" rel="noopener noreferrer">DOI: 10.3389/fcimb.2024.1342781</a> <br> 
+  <div style="display: flex; flex-direction: column; gap: 5px;">
+ <div style="display: flex; gap: 10px; align-items: center;">
         <span class="__dimensions_badge_embed__" 
               data-doi="10.3389/fcimb.2024.1342781" 
               data-style="small_rectangle">
@@ -45,6 +43,7 @@ This was our first semi field experiment at LMU campus Martinsried. We used outd
         </a>
     </div>
 </div>
+  </div> </div> 
  <img src="/assets/logo/logo64_LMU.png" alt="LMU Logo" class="img-fluid logo-img">
  <p><a href="#top">Back to Top <i class="fas fa-angle-double-up"></i></a></p>
 </div>
