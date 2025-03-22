@@ -28,7 +28,7 @@ How to manipulate a plant’s microbiome under real-world conditions? At the <a 
    <div class="card bg-light mb-3" style="max-width: 18rem;">
   <div class="card-header">More Information
   Text <a href="https://link-to-journal-article.com" class="card-link">Journal Article Title</a> more text  how long the text gets 
-  </div>
+  </div> </div>
   <div class="card bg-light mb-3" style="max-width: 18rem;">
   <div class="card-header bg-secondary text-white">
     <strong>More Information</strong><br>
