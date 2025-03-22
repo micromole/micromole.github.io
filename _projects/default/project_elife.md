@@ -25,6 +25,14 @@ How to manipulate a plant’s microbiome under real-world conditions? At the <a 
      <footer class="fs-7">— Arne Weinhold 04/2018 (source <a href=" https://phys.org/news/2018-04-microbiome-native-resilient.html" class="external" target="_blank" rel="noopener noreferrer">MPG press release</a>)
      </footer>
        </blockquote>
+<div class="card bg-light mb-3" style="max-width: 18rem;">
+  <div class="card-header">More Information</div>
+  <div class="card-body">
+    Text <a href="https://link-to-journal-article.com" class="card-link">Journal Article Title</a> more text 
+  </div>
+</div>
+
+     
     <div style="display: flex; flex-direction: column; align-items: start; gap: 5px;">
     <span>
         Original research: 
