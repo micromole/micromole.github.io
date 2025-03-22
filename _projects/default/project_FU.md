@@ -28,13 +28,11 @@ At the <b>Collaborative Research Centre</b> (<a href="https://www.sfb973.de/" cl
 This transgenerational effect suggests a combined role of the <strong>Parental Microbiota</strong> on <strong>Transgenerational Immune Priming</strong> and <strong>Dietary Immunity</strong>. This sheds new light on the ecological and evolutionary role of parental microbiota in butterflies.    
 </p>
       
-<div style="display: flex; flex-direction: column; align-items: start; gap: 5px;">
-    <span>
-        Original research: 
-        <a href="https://journals.asm.org/doi/10.1128/aem.00596-20" class="external" target="_blank" rel="noopener noreferrer">
-            Paniagua Voirol <i>et al.</i> 2021 <i>AEM</i>
-        </a>
-    </span>
+ <div class="card bg-light mb-3">
+ <div class="card-header">
+<strong>Original research:</strong>
+Paniagua Voirol, Weinhold <i>et al.</i> (2020) Legacy of a Butterfly’s Parental Microbiome in Offspring Performance, <i>Applied and Environmental Microbiology</i> <a href="https://doi.org/10.1128/AEM.00596-20" class="external" target="_blank" rel="noopener noreferrer">DOI: 10.1128/AEM.00596-20</a> <br> 
+  <div style="display: flex; flex-direction: column; gap: 5px;">
     <div style="display: flex; gap: 10px; align-items: center;">
         <span class="__dimensions_badge_embed__" 
               data-doi="10.1128/AEM.00596-20" 
@@ -53,6 +51,7 @@ This transgenerational effect suggests a combined role of the <strong>Parental M
         </a>
     </div>
 </div>
+  </div> </div>
      <img src="/assets/logo/logo64_FU.png" alt="Image 3" class="img-fluid logo-img">
      <img src="/assets/logo/logo64_CRC973.png" alt="Image 3" class="img-fluid logo-img"> 
      <img src="/assets/logo/logo64_DCPS.png" alt="Image 1" class="img-fluid logo-img">
