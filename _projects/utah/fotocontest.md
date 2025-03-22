@@ -4,7 +4,7 @@ width: 4
 date: 2015-06-10 00:01:00 +0800
 ---
 <div>
-  <a href="assets/images/photos/IMG_2932m.jpg" target="_blank">
+  <a href="assets/images/photos/IMG_2932wm.jpg" target="_blank">
   <img data-src="{{ 'assets/images/photos/IMG_2932m.jpg' | relative_url }}" alt="Manduca secta" class="lazy w-100 rounded" 
     src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Manduca sexta">
   <div class="card-body">
