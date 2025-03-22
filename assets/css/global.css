@@ -46,7 +46,7 @@ a {
 
 .inline-badge {
     width: 32px;
-    vertical-align: -20%;
+    vertical-align: middle;
     margin-right: 2px;
     line-break: unset;
 }
