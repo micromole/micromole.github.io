@@ -29,9 +29,25 @@ How to manipulate a plant’s microbiome under real-world conditions? At the <a 
  <div class="card-header">
 <strong>Original research:</strong> 
 Arne Weinhold <i>et al.</i>, Antimicrobial peptide expression in a wild tobacco plant reveals the limits of host-microbe-manipulations in the field, <i>eLife</i> (2018). <a href="https://doi.org/10.7554/eLife.28715" class="external" target="_blank" rel="noopener noreferrer">DOI: 10.7554/eLife.28715</a> <br> 
-Other text
-<p>or even more text</p>
-
+  <div style="display: flex; flex-direction: column; gap: 5px;">
+  <div style="display: flex; gap: 10px; align-items: center;">
+        <span class="__dimensions_badge_embed__" 
+              data-doi="10.7554/eLife.28715" 
+              data-style="small_rectangle">
+        </span>
+        <div class='altmetric-embed' 
+             data-badge-popover='bottom' 
+             data-doi='10.7554/eLife.28715'>
+        </div>
+        <a href="https://plu.mx/plum/a/?doi=10.7554/eLife.28715" 
+           class="plumx-plum-print-popup" 
+           data-popup="bottom" 
+           data-theme="liberty" 
+           data-badge="false" 
+           data-size="small">
+        </a>
+    </div>
+</div>
   </div> </div>
      <div style="display: flex; flex-direction: column; align-items: start; gap: 5px;">
     <span>
