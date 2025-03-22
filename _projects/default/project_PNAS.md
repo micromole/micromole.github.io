@@ -6,14 +6,17 @@ date: 2015-01-12 00:01:00 +0800
 <div class="p-4">
     <h3 id="SynCom">Applying SynCom for Biocontrol</h3>
      <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1px;">
-    <img data-src="{{ 'assets/images/photos/588694.jpg' | relative_url }}" class="lazy rounded frame-img" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
- <img data-src="{{ 'assets/images/photos/IMG_6443m.jpg' | relative_url }}" class="lazy rounded frame-img" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+       <img data-src="{{ 'assets/images/photos/588694.jpg' | relative_url }}" alt="Wilt Disease" class="lazy rounded frame-img" 
+           src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Wilt Disease">
+       <img data-src="{{ 'assets/images/photos/IMG_6443m.jpg' | relative_url }}" alt="Root Rot" class="lazy rounded frame-img" 
+           src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Root Rot">
           </div>
   <hr />
  <img src="assets/images/photos/plate_300.png" 
          alt="Microbial Community" 
          class="lazy rounded" 
-         style="float: right; width: 40%; height: auto; margin: 5px;">     
+         style="float: right; width: 40%; height: auto; margin: 5px;"
+         data-toggle="tooltip" data-placement="top" title="Endophytic Bacteria From Roots">     
 <p>
      In one of our largest field trials we tested the application of a <b>SynCom</b> (<b>synthetic bacterial community</b>) as <b>biocontrol agent</b> on more than 735 plants. The continues cropping of <i>Nicotiana attenuata</i> on the research field plot resulted in the buildup of soil borne pathogens, similar as observed in agricultural fields. Plants were suddenly dying and showed black root symptoms. We tested different strategies including <b>fungicide application</b> and <b>soil amendment</b>. The use of <b>biochar</b> seemed like a natural choice, as young tobacco plants germinate after wildfires on burned soil. But none of these applications helped. </p>
         <p>
@@ -21,7 +24,7 @@ date: 2015-01-12 00:01:00 +0800
 </p>
 <blockquote cite="https://www.mpg.de/9373626/bacteria-tabacco-root-disease">
 So far, only individual bacterial strains had been applied in agriculture. However, bacteria do not live alone, they form communities which complement each other. Only when they interact with each other they can exert their positive effects on plant health. 
-    <footer>— Arne Weinhold (source <a href="https://www.mpg.de/9373626/bacteria-tabacco-root-disease" class="external" target="_blank" rel="noopener noreferrer">MPG Research News</a>)</footer>
+    <footer>— Arne Weinhold 08/2015 (source <a href="https://www.mpg.de/9373626/bacteria-tabacco-root-disease" class="external" target="_blank" rel="noopener noreferrer">MPG Research News</a>)</footer>
 </blockquote>
      <div style="display: flex; flex-direction: column; align-items: start; gap: 5px;">
     <span>
