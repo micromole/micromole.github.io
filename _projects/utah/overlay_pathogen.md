@@ -12,7 +12,7 @@ date: 2012-01-12 00:01:00 +0800
       A dynamic disease outbreak within a native population of <i>Nicotiana attenuata</i> plants was a unique opportunity to study pathogen dynamics in the wild. We isolated several fungi to establish a native pathovar system for laboratory screenings. These strains have been since used in several different projects by other researchers.
     </p>
        <span>
-        Original research: 
+        <strong>Original research:</strong> 
         <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102915" class="external" target="_blank" rel="noopener noreferrer">
             Schuck <i>et al.</i> 2014 <i>PlosOne</i>
         </a>
