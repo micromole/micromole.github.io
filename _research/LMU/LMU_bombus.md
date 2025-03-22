@@ -23,7 +23,11 @@ This was our first semi field experiment at LMU campus Martinsried. We used outd
    <div class="card bg-light mb-3">
  <div class="card-header">
 <strong>Original research:</strong>
-Weinhold <i>et al.</i> (2024) Bumble bee microbiota shows temporal succession and increase of lactic acid bacteria when exposed to outdoor environments, <i>Front. Cell. Infect. Microbiol.</i> <a href="https://doi.org/10.3389/fcimb.2024.1342781" class="external" target="_blank" rel="noopener noreferrer">DOI: 10.3389/fcimb.2024.1342781</a> <br> 
+Weinhold <i>et al.</i> (2024) Bumble bee microbiota shows temporal succession and increase of lactic acid bacteria when exposed to outdoor environments, <i>Front. Cell. Infect. Microbiol.</i> <a href="https://doi.org/10.3389/fcimb.2024.1342781" class="external" target="_blank" rel="noopener noreferrer">DOI: 10.3389/fcimb.2024.1342781</a> 
+      <img src="{{ '/assets/logo/Open_Access_logo_PLoS_transparent.svg' | relative_url }}" 
+     alt="Open Access Logo" 
+     width="50">
+      <br> 
   <div style="display: flex; flex-direction: column; gap: 5px;">
  <div style="display: flex; gap: 10px; align-items: center;">
         <span class="__dimensions_badge_embed__" 
