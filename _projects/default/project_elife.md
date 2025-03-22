@@ -26,13 +26,16 @@ How to manipulate a plant’s microbiome under real-world conditions? At the <a 
      </footer>
        </blockquote>
 <div class="card bg-light mb-3" style="max-width: 18rem;">
-  <div class="card-header">More Information</div>
-  <div class="card-body">
-    Text <a href="https://link-to-journal-article.com" class="card-link">Journal Article Title</a> more text 
+  <div class="card-header">More Information
+  Text <a href="https://link-to-journal-article.com" class="card-link">Journal Article Title</a> more text 
+  </div>
+      
+  </div>
+   <div class="card-header bg-secondary text-white">
+    <strong>More Information</strong><br>
+    <a href="https://phys.org/news/2018-04-microbiome-native-resilient.html" class="card-link text-white">Journal Article</a>
   </div>
 </div>
-
-     
     <div style="display: flex; flex-direction: column; align-items: start; gap: 5px;">
     <span>
         Original research: 
