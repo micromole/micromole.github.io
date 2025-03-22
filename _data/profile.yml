@@ -38,7 +38,7 @@ keywords:
 
 short_bio_text_justify: false
 short_bio: >-
-  <div class="col-md-9" style="padding: 0 !important;"> 
+  <div class="col-md-8" style="padding: 0 !important;"> 
    <h5>About Me</h5><p>
     Hello there! I consider myself as <b><ins>Micro</ins>bial <ins>Mol</ins>ecular <ins>E</ins>cologist</b> (<code>mi·cro·mole</code>).
     I have been trained cross-disciplinary at the interfaces of molecular and organismic disciplines and combine <strong>Ecological Field Work</strong> 
@@ -54,7 +54,7 @@ short_bio: >-
          alt="Hoste Movement" 
          class="img-fluid lazy rounded" 
          style="float: right; max-width: 50%; max-height: 150px;"> 
-        <div class="col-md-9" style="padding: 0 !important;"> 
+        <div class="col-md-8" style="padding: 0 !important;"> 
       <p>
       My goal is an integrative understanding of <strong>Microbiomes</strong> in the light of macroecological theories.
       I believe <strong>Host Movement</strong> should be implemented into current <strong>Metacommunity</strong> concepts,
