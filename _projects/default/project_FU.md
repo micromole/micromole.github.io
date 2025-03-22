@@ -31,7 +31,10 @@ This transgenerational effect suggests a combined role of the <strong>Parental M
  <div class="card bg-light mb-3">
  <div class="card-header">
 <strong>Original research:</strong>
-Paniagua Voirol, Weinhold <i>et al.</i> (2020) Legacy of a Butterfly’s Parental Microbiome in Offspring Performance, <i>Applied and Environmental Microbiology</i> <a href="https://doi.org/10.1128/AEM.00596-20" class="external" target="_blank" rel="noopener noreferrer">DOI: 10.1128/AEM.00596-20</a> <br> 
+Paniagua Voirol, Weinhold <i>et al.</i> (2020) Legacy of a Butterfly’s Parental Microbiome in Offspring Performance, <i>Applied and Environmental Microbiology</i> <a href="https://doi.org/10.1128/AEM.00596-20" class="external" target="_blank" rel="noopener noreferrer">DOI: 10.1128/AEM.00596-20</a> 
+       <img src="{{ '/assets/logo/Open_Access_logo_PLoS_transparent.svg' | relative_url }}" 
+     alt="Open Access Logo" 
+     height="16"> <br> 
   <div style="display: flex; flex-direction: column; gap: 5px;">
     <div style="display: flex; gap: 10px; align-items: center;">
         <span class="__dimensions_badge_embed__" 
