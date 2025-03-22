@@ -7,14 +7,17 @@ date: 2017-05-15 00:01:00 +0800
 <div class="p-4">
      <h3 id="Parental-Legacy">Parental Legacy of the Butterfly Microbiota</h3>
       <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1px;">
-     <img data-src="{{ 'assets/images/photos/IMG_2685m.jpg' | relative_url }}" class="lazy rounded frame-img" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
-    <img data-src="{{ 'assets/images/photos/IMG_2631_m.jpg' | relative_url }}" class="lazy rounded frame-img" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+     <img data-src="{{ 'assets/images/photos/IMG_2685m.jpg' | relative_url }}" alt="Adult Butterfly Microbes"  class="lazy rounded frame-img" 
+          src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Adult Butterfly Microbes">
+     <img data-src="{{ 'assets/images/photos/IMG_2631_m.jpg' | relative_url }}" alt="Pieris Caterpillars" class="lazy rounded frame-img" 
+          src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Pieris Caterpillar Offspring">
              </div>
      <hr />
  <img src="assets/images/photos/diet_shift.jpg" 
-         alt="Diet shift" 
+         alt="Diet Shift" 
          class="lazy rounded" 
-         style="float: right; width: 40%; height: auto; margin: 5px;">   
+         style="float: right; width: 40%; height: auto; margin: 5px;"
+        data-toggle="tooltip" data-placement="top" title="Diet Shift Experiment">   
 <p>
 At the <b>Collaborative Research Centre</b> (<a href="https://www.sfb973.de/" class="external" target="_blank" rel="noopener noreferrer">CRC 973</a>) at <a href="https://www.bcp.fu-berlin.de/en/biologie/arbeitsgruppen/zoologie/ag_hilker/" class="external" target="_blank" rel="noopener noreferrer">Freie Universität Berlin</a>, I moved my research focus to the next trophic level on <strong>Insect-Microbe-Symbiosis</strong>. We investigated the functional ecology of the <b>Adult Butterfly Microbiota</b> using the cabbage white (<i>Pieris brassicae</i>) and made two important discoveries: 
 <ol>
@@ -50,9 +53,8 @@ This transgenerational effect suggests a combined role of the <strong>Parental M
         </a>
     </div>
 </div>
-<img src="/assets/logo/logo64_FU.png" alt="Image 3" class="img-fluid logo-img">
+     <img src="/assets/logo/logo64_FU.png" alt="Image 3" class="img-fluid logo-img">
      <img src="/assets/logo/logo64_CRC973.png" alt="Image 3" class="img-fluid logo-img"> 
      <img src="/assets/logo/logo64_DCPS.png" alt="Image 1" class="img-fluid logo-img">
-    <img src="/assets/logo/logo64_DFGalt.png" alt="Image 1" class="img-fluid logo-img">
      <p><a href="#top">Back to Top <i class="fas fa-angle-double-up"></i></a></p>
 </div>
