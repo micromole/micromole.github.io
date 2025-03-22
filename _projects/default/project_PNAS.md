@@ -26,12 +26,12 @@ date: 2015-01-12 00:01:00 +0800
 So far, only individual bacterial strains had been applied in agriculture. However, bacteria do not live alone, they form communities which complement each other. Only when they interact with each other they can exert their positive effects on plant health. 
     <footer>— Arne Weinhold 08/2015 (source <a href="https://www.mpg.de/9373626/bacteria-tabacco-root-disease" class="external" target="_blank" rel="noopener noreferrer">MPG Research News</a>)</footer>
 </blockquote>
-     <div style="display: flex; flex-direction: column; align-items: start; gap: 5px;">
-    <span>
-        Original research: 
-        <a href="https://www.pnas.org/doi/full/10.1073/pnas.1505765112" class="external" target="_blank" rel="noopener noreferrer">Santhanam <i>et al.</i> 2015 <i>PNAS</i></a>
-    </span>
-    <div style="display: flex; gap: 10px; align-items: center;">
+     <div class="card bg-light mb-3">
+ <div class="card-header">
+<strong>Original research:</strong>
+Santhanam <i>et al.</i> (2015) Native root-associated bacteria rescue a plant from a sudden-wilt disease that emerged during continuous cropping, <i>PNAS</i> <a href="https://doi.org/10.1073/pnas.1505765112" class="external" target="_blank" rel="noopener noreferrer">DOI: 10.1073/pnas.1505765112</a> <br> 
+  <div style="display: flex; flex-direction: column; gap: 5px;">
+<div style="display: flex; gap: 10px; align-items: center;">
         <span class="__dimensions_badge_embed__" 
               data-doi="10.1073/pnas.1505765112" 
               data-style="small_rectangle">
@@ -49,6 +49,7 @@ So far, only individual bacterial strains had been applied in agriculture. Howev
         </a>
     </div>
 </div>
+  </div> </div>
     <img src="/assets/logo/logo64_ICE.png" alt="ICE Logo" class="img-fluid logo-img">
      <img src="/assets/logo/logo64_minerva.png" alt="JSMC Logo" class="img-fluid logo-img"> 
      <img src="/assets/logo/logo64_ILRSMIB.png" alt="ILRS Logo" class="img-fluid logo-img">
