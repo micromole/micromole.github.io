@@ -25,17 +25,15 @@ How to manipulate a plant’s microbiome under real-world conditions? At the <a 
      <footer class="fs-7">— Arne Weinhold 04/2018 (source <a href=" https://phys.org/news/2018-04-microbiome-native-resilient.html" class="external" target="_blank" rel="noopener noreferrer">MPG press release</a>)
      </footer>
        </blockquote>
-   <div class="card bg-light mb-3" style="max-width: 18rem;">
-  <div class="card-header">More Information
-  Text <a href="https://link-to-journal-article.com" class="card-link">Journal Article Title</a> more text  how long the text gets 
+ <div class="card bg-light mb-3">
+ <div class="card-header">
+<strong>Original research:</strong> 
+Arne Weinhold <i>et al.</i>, Antimicrobial peptide expression in a wild tobacco plant reveals the limits of host-microbe-manipulations in the field, <i>eLife</i> (2018). <a href="https://doi.org/10.7554/eLife.28715" class="external" target="_blank" rel="noopener noreferrer">DOI: 10.7554/eLife.28715</a> <br> 
+Other text
+<p>or even more text</p>
+
   </div> </div>
-  <div class="card bg-light mb-3" style="max-width: 18rem;">
-  <div class="card-header bg-secondary text-white">
-    <strong>More Information</strong><br>
-    <a href="https://phys.org/news/2018-04-microbiome-native-resilient.html" class="card-link text-white">Journal Article</a> and furthe resding 
-  </div>
-</div>
-    <div style="display: flex; flex-direction: column; align-items: start; gap: 5px;">
+     <div style="display: flex; flex-direction: column; align-items: start; gap: 5px;">
     <span>
         Original research: 
         <a href=" https://elifesciences.org/articles/28715" class="external" target="_blank" rel="noopener noreferrer">
