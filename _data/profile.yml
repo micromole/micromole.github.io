@@ -5,7 +5,7 @@ navbar_name: "Microbial Molecular Ecology"
 positions:
 - logo: /assets/logo/icon_LMU.png   # Logo is optional
   name: <strong>LMU Munich, Center for Organismic Adaptation (<a href="https://www.cora.bio.lmu.de/">CORA</a>)</strong>
-- logo: /assets/logo/icon_DFG.png  # Logo is optional
+- logo: /assets/logo/icon_DFGalt.png  # Logo is optional
   name: <strong>PI @ Cellular and Organismic Networks</strong> 🦠🦋
 
 
