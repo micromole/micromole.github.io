@@ -7,28 +7,34 @@ images:
 - src: assets/images/photos/IMG_0284m.jpg
   title: Utah Team
   desc:
-  link: assets/images/photos/IMG_0284m.jpg
+  link: assets/images/photos/IMG_0284wm.jpg
 - src: assets/images/photos/IMG_2273m.jpg
   title: Sampling Wash Population
-  desc: 
-- src: assets/images/photos/IMG_8879m.jpg
-  title: Field Work
-  desc: 
+  desc:
+  link: assets/images/photos/IMG_2273m.jpg
+- src: assets/images/photos/IMG_8879mx.jpg
+  title: On the Field Plot
+  desc:
+  link: assets/images/photos/IMG_8879mx.jpg 
 - src: assets/images/photos/IMG_4219m.jpg
   title: Nightwatch
   desc:
+  link: assets/images/photos/IMG_4219wm.jpg
 - src: assets/images/photos/IMG_5858m.jpg
-  title: Joshua Tree Dawn
+  title: Joshua Tree
   desc:
+  link: assets/images/photos/IMG_5858wm.jpg
 - src: assets/images/photos/IMG_5974m.jpg
   title: Great Ash Sphinx
-  desc: 
+  desc:
+  link: assets/images/photos/IMG_5974wm.jpg
 - src: assets/images/photos/IMG_9196m.jpg
   title: Placing Soil Sensors
   desc:
 - src: assets/images/photos/IMG_5709m.jpg
   title: Poplar Hawk-Moth
-  desc: 
+  desc:
+  link: assets/images/photos/IMG_5709wm.jpg 
 ---
 
 {% include widgets/carousel.html id=page.id images=page.images height=page.height %}
