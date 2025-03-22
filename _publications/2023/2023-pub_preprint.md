@@ -18,6 +18,6 @@ authors:
   - Grüner E
   - Keller A
 links:
-  pdf: /pdf/dummy.pdf
+  pdf: /pdf/2023.11.21.568059.full.pdf
   doi: https://doi.org/10.1101/2023.11.21.568059
 ---
