@@ -190,11 +190,11 @@ mark {
 .keywords {
     display: flex;
     justify-content: center;
+    align-items: center;
     gap: 10px;
     font-size: 1.125em; /* Slightly bigger */
     font-weight: bold;
     color: gray; /* Subtle look */
-    text-align: center;
     /*margin-top: 10px; */
 }
 
