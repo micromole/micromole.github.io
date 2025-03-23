@@ -20,7 +20,7 @@ a {
   }
 
 a:hover {
-    background-color: darkblue; /* Highlight effect */
+    background-color: #2a7ae2; /* Highlight effect */
     color: white; /* Invert text color */
     border-radius: 3px; /* Optional: rounded corners */
 }
