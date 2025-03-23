@@ -17,9 +17,10 @@ h1, h2, h3, h4, h5 {
 a {
     color: #2a7ae2; /* Your preferred link color */
     font-weight: bold;
+    transition: background-color 0.3s ease, color 0.3s ease;
   }
 
-a[href]:not(:has(img, svg, i)):hover {  /* a:not([href^="http"]):hover */
+a[href]:not(:has(.plumx-plum-print-popup, .altmetric-embed)):hover {   /* a:not([href^="http"]):hover  a[href]:not(:has(img, svg, i)):hover */
     background-color: #2a7ae2; /* Highlight effect */
     color: white; /* Invert text color */
     border-radius: 3px; /* Optional: rounded corners */
