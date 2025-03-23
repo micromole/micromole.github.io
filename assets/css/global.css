@@ -154,7 +154,7 @@ html {
     font-family: "Font Awesome 5 Free";
     font-weight: 900; /* Ensures solid icons */
     content: "\f0a9"; /* Unicode for fa-arrow-circle-right */
-    color: #4682B4; /* Adjust color */
+    color: #2a7ae2; /* Adjust color */
     position: absolute;
     left: 0;
     top: 0.15em; /* Adjust vertical alignment */
