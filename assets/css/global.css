@@ -19,6 +19,12 @@ a {
     font-weight: bold;
   }
 
+a:hover {
+    background-color: darkblue; /* Highlight effect */
+    color: white; /* Invert text color */
+    border-radius: 3px; /* Optional: rounded corners */
+}
+
 .text-profile-position {
     font-weight: 400;
 }
