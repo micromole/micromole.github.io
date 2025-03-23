@@ -20,14 +20,14 @@
             </p>
             <p class="mt-0 mb-0 small text-secondary">{{ item.abstract }}</p>
             
-                                <p class="small pb-0 mb-0 lh-125 text-muted abstract-links">
+                                <p class="pb-0 mb-0 lh-125 text-muted abstract-links">
                                 {% for link in item.links %}
                                 {% assign key = link[0] %}
                                 {% assign url = link[1] %}
 
                                 {% if key == "pdf" %}
                                  <a target="_blank" href="{{ url }}">
-                                 <i class="fa-solid fa-file-pdf" style="color:red;"></i>
+                                 <i class="fa fa-file-pdf-o"></i>
                                  </a>
                                  {% else %}
                                   <a target="_blank" href="{{ url }}">[{{ key }}]</a>
