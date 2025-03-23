@@ -83,6 +83,11 @@
                             <i class="fab fa-github"></i> GitHub
                         </a>
                         {% endif %}
+                        
+                        {% for link in social_links %}
+                        {{ link }} {% unless forloop.last %} | {% endunless %}
+                        {% endfor %}
+                        
                     </div>
                 </div>
 
