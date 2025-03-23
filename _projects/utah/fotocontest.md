@@ -10,7 +10,7 @@ date: 2015-06-10 00:01:00 +0800
   <div class="card-body">
      <h5>Feasting Foto Model</h5>
     <p class="card-text">
-      This <i>Manduca sexta</i> from a glasshouse herbivore assay made it into the top ten 🏅 of the 2022 photo contest from <strong>Blattgeflüster</strong> (<a href="https://www.pflanzenforschung.de/de/pflanzenwissen/bildstrecken/die-top-ten-2022" class="external" target="_blank" rel="noopener noreferrer">pflanzenforschung.de</a>).
-    </p>
+      This photo of <i>Manduca sexta</i> from a glasshouse herbivore assay became a top ten 🏅 finalist in the 2022 <a href="https://www.pflanzenforschung.de/de/pflanzenwissen/bildstrecken/die-top-ten-2022" class="external" target="_blank" rel="noopener noreferrer">pflanzenforschung.de</a> photo contest.
+             </p>
   </div>
 </div>
