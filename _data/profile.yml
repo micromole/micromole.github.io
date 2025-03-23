@@ -43,7 +43,7 @@ short_bio: >-
    <h5>About Me</h5><p>
     Hello there! I consider myself as <b><ins>Micro</ins>bial <ins>Mol</ins>ecular <ins>E</ins>cologist</b> (<code>mi·cro·mole</code>).
     I have been trained cross-disciplinary in Chemical Ecology at the interfaces of molecular and organismic disciplines and combine <strong>Ecological Field Work</strong> with 
-    <strong>DNA Metabarcoding</strong> (see <a href="#CV"><i class="fa-solid fa-circle-arrow-right"></i> CV</a>). 
+    <strong>DNA Metabarcoding</strong> (see <a href="#CV">CV <i class="fas fa-angle-double-right"></i></a>). 
       </p> 
       <h5>My Research</h5><p>
       I investigate <strong>Insect-Microbe</strong> interactions from the microbial perspective.
@@ -63,8 +63,8 @@ short_bio: >-
       by removing <strong>Microbial Dispersal Limitations</strong>.
     </p> </div>
       <p>
-   For my current work on <strong>Microbiome Assembly</strong> goto <a href="/research"><i class="fas fa-angle-double-right"></i> Research</a><br>
-   For my previous work on <strong>Microbiome Function</strong> goto <a href="/projects"><i class="fas fa-angle-double-right"></i> Past Projects</a>
+   For my current work on <strong>Microbiome Assembly</strong> goto <a href="/research">Research <i class="fas fa-angle-double-right"></i></a><br>
+   For my previous work on <strong>Microbiome Function</strong> goto <a href="/projects">Past Projects <i class="fas fa-angle-double-right"></i></a>
    </p> 
   <blockquote>
         <q>...what I consider is the key aspect of the future of education in the life sciences,
