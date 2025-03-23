@@ -25,7 +25,7 @@ At the <b>Collaborative Research Centre</b> (<a href="https://www.sfb973.de/" cl
     <li><strong>Function</strong>: Parental microbiota affects offspring performance when larvae experience a host plant shift.
 </li>
     </ol>
-This transgenerational effect suggests a combined role of the <strong>Parental Microbiota</strong> on <strong>Transgenerational Immune Priming</strong> and <strong>Dietary Immunity</strong>. This sheds new light on the ecological and evolutionary role of parental microbiota in butterflies.    
+This <i>trans-generational</i> effect suggests a combined role of the parental microbiota on <strong>Transgenerational Immune Priming</strong> and <strong>Dietary Immunity</strong>. This sheds new light on the ecological and evolutionary role of the adult butterfly microbiota.    
 </p>
       
  <div class="card bg-light mb-3">
