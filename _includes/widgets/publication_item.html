@@ -26,11 +26,11 @@
                                 {% assign url = link[1] %}
 
                                 {% if key == "pdf" %}
-                                 <a target="_blank" href="{{ url }}">
+                                 <a target="_blank" href="{{ url }}" style="margin-right: 5px;">
                                  <i class="fa-solid fa-file-pdf" style="color:inherit;"></i>
                                  </a>
                                  {% else %}
-                                  <a target="_blank" href="{{ url }}">[{{ key }}]</a>
+                                  <a target="_blank" href="{{ url }}" style="margin-right: 5px;">[{{ key }}]</a>
                                  {% endif %}
                                   {% endfor %}
                                 </p>
