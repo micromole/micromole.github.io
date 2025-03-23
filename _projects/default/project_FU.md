@@ -19,9 +19,9 @@ date: 2017-05-15 00:01:00 +0800
          style="float: right; width: 40%; height: auto; margin: 5px;"
         data-toggle="tooltip" data-placement="top" title="Diet Shift Experiment">   
 <p>
-At the <b>Collaborative Research Centre</b> (<a href="https://www.sfb973.de/" class="external" target="_blank" rel="noopener noreferrer">CRC 973</a>) at <a href="https://www.bcp.fu-berlin.de/en/biologie/arbeitsgruppen/zoologie/ag_hilker/" class="external" target="_blank" rel="noopener noreferrer">Freie Universität Berlin</a>, I moved my research focus to the next trophic level on <strong>Insect-Microbe-Symbiosis</strong>. We investigated the functional ecology of the <b>Adult Butterfly Microbiota</b> using the cabbage white (<i>Pieris brassicae</i>) and made two important discoveries: 
+At the <b>Collaborative Research Centre</b> (<a href="https://www.sfb973.de/" class="external" target="_blank" rel="noopener noreferrer">CRC 973</a>) at <a href="https://www.bcp.fu-berlin.de/en/biologie/arbeitsgruppen/zoologie/ag_hilker/" class="external" target="_blank" rel="noopener noreferrer">Freie Universität Berlin</a>, the research focus was on the role of the egg-asociated microbiota of of <i>Pieris brassicae</i> on plant defense priming. I used mainly quantitative approaches and host manipulations to investigate the adult butterfly microbiota, which resulted in two important discoveries: 
 <ol>
-    <li><strong>Quantity</strong>: Adult butterflies harbor significantly higher bacterial loads compared to their larvae.</li>
+    <li><strong>Quantity</strong>: Adult butterflies harbor significantly higher bacterial loads compared to their larvae or eggs.</li>
     <li><strong>Function</strong>: Parental microbiota affects offspring performance when larvae experience a host plant shift.
 </li>
     </ol>
