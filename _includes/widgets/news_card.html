@@ -1,4 +1,4 @@
-{% assign news_by_year = site.news | sort: "date" | reverse | slice: 0, include.limit | group_by_exp: "item", "item.date | date: '%Y'" -%}
+{% assign news_by_year = site.news | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" -%}
 
 <div class="my-3 bg-white shadow-sm rounded-lg">
     <h6 class="p-3 mb-0 border-bottom border-gray text-white" 
@@ -6,7 +6,9 @@
              border-radius: 4px; min-height: 55px;">
         <i class="fas fa-rss"></i> News
     </h6>
-    <div class="px-3 pb-1">
+
+    <!-- Scrollable Container -->
+    <div class="px-3 pb-1 news-scroll">
         {% for year in news_by_year %}
         <div class="media py-1 {% if not_first -%}border-top border-gray{%- endif %}">
             {% assign not_first = true %}
@@ -23,3 +25,4 @@
         {% endfor %}
     </div>
 </div>
+
