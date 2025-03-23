@@ -182,14 +182,14 @@ mark {
 }
 
 .keywords {
-    font-size: 0.9em; /* Slightly smaller */
+    font-size: 1.125em; /* Slightly smaller */
     color: gray; /* Subtle look */
     text-align: center;
-    margin-top: 10px;
+    /*margin-top: 10px; */
 }
 
 .keywords span {
-    margin: 0 5px; /* Adds spacing around the asterisks */
+    margin: 0 7px; /* Adds spacing around the asterisks */
 }
 
 
