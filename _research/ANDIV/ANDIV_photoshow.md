@@ -37,7 +37,7 @@ images:
   desc: 
   link: assets/images/photos/IMG_7043wm.jpg
 - src: assets/images/photos/IMG_6005m.jpg
-  title: Cloud Forest Ant
+  title: Forest Ant
   desc: 
   link: assets/images/photos/IMG_6005wm.jpg 
 ---
