@@ -188,7 +188,6 @@ mark {
 }
 
 .keywords {
-    display: flex;
     gap: 10px;
     font-size: 1.125em; /* Slightly bigger */
     font-weight: bold;
