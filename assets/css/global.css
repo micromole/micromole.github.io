@@ -182,7 +182,8 @@ mark {
 }
 
 .keywords {
-    font-size: 1.125em; /* Slightly smaller */
+    font-size: 1.125em; /* Slightly bigger */
+    font-weight: bold;
     color: gray; /* Subtle look */
     text-align: center;
     /*margin-top: 10px; */
