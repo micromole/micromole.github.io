@@ -62,8 +62,8 @@ short_bio: >-
       by removing <strong>Microbial Dispersal Limitations</strong>.
     </p> </div>
       <p>
-   For my current work on <strong>Microbiome Assembly</strong> see <a href="/research">Research <i class="fas fa-angle-double-right"></i></a><br>
-   For my previous work on <strong>Microbiome Function</strong> see <a href="/projects">Past Projects <i class="fas fa-angle-double-right"></i></a>
+   For my current work on <strong>Microbiome Assembly</strong> see <a href="/research">Research <i class="fa-solid fa-circle-arrow-right"></i></a><br> # fas fa-angle-double-right
+   For my previous work on <strong>Microbiome Function</strong> see <a href="/projects">Past Projects <i class="fa-solid fa-circle-arrow-right"></i></a>
    </p> 
   <blockquote>
         <q>...what I consider is the key aspect of the future of education in the life sciences,
