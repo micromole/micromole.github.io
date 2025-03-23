@@ -13,8 +13,8 @@ images:
   desc:
   link: assets/images/photos/IMG_2273m.jpg
 - src: assets/images/photos/IMG_8879mx.jpg
-  title: On the Field Plot
-  desc:
+  title: On the Plot
+  desc: Photo by Van Thi Luu
   link: assets/images/photos/IMG_8879mx.jpg 
 - src: assets/images/photos/IMG_4219m.jpg
   title: Nightwatch
@@ -30,11 +30,15 @@ images:
   link: assets/images/photos/IMG_5974wm.jpg
 - src: assets/images/photos/IMG_9196m.jpg
   title: Placing Soil Sensors
-  desc:
+  desc: Photo by Van Thi Luu
 - src: assets/images/photos/IMG_5709m.jpg
   title: Poplar Hawk-Moth
   desc:
-  link: assets/images/photos/IMG_5709wm.jpg 
+  link: assets/images/photos/IMG_5709wm.jpg
+- src: assets/images/photos/IMG_6807m.jpg
+  title: Snake on the Road
+  desc: Photo by Van Thi Luu
+  link: assets/images/photos/IMG_6807wm.jpg 
 ---
 
 {% include widgets/carousel.html id=page.id images=page.images height=page.height %}
