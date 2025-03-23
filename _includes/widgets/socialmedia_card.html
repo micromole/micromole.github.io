@@ -34,47 +34,58 @@
                     </div>
                 </div>
 
-              <!-- Print social links with pipes -->
+             <!-- Social Links Row -->
 <div class="social-links">
-    {% assign social_links = "" | split: "," %}
-
-    {% assign social_links = social_links | push: '<a href="mailto:' | append: site.data.profile.email | append: '"><i class="fas fa-envelope"></i> Mail</a>' %}
+    {% assign first = true %}
+    
+    {% if site.data.profile.email %}
+        <a href="mailto:{{ site.data.profile.email | encode_email }}"><i class="fas fa-envelope"></i> Mail</a>
+        {% assign first = false %}
+    {% endif %}
 
     {% if site.data.profile.gscholar %}
+        {% unless first %} | {% endunless %}
         {%- assign gscholar_url = site.data.profile.gscholar contains 'scholar.google' ? site.data.profile.gscholar : 'https://scholar.google.com/citations?user=' | append: site.data.profile.gscholar -%}
-        {% assign social_links = social_links | push: '<a target="_blank" href="' | append: gscholar_url | append: '"><i class="fab fa-google"></i> Google Scholar</a>' %}
+        <a target="_blank" href="{{ gscholar_url }}"><i class="fab fa-google"></i> Google Scholar</a>
+        {% assign first = false %}
     {% endif %}
 
     {% if site.data.profile.researchgate %}
-        {% assign social_links = social_links | push: '<a target="_blank" href="https://www.researchgate.net/profile/' | append: site.data.profile.researchgate | append: '"><i class="fa-brands fa-researchgate"></i> ResearchGate</a>' %}
+        {% unless first %} | {% endunless %}
+        <a target="_blank" href="https://www.researchgate.net/profile/{{ site.data.profile.researchgate }}"><i class="fa-brands fa-researchgate"></i> ResearchGate</a>
+        {% assign first = false %}
     {% endif %}
 
     {% if site.data.profile.twitter %}
-        {% assign social_links = social_links | push: '<a target="_blank" href="https://twitter.com/' | append: site.data.profile.twitter | append: '"><i class="fab fa-twitter"></i> Twitter</a>' %}
+        {% unless first %} | {% endunless %}
+        <a target="_blank" href="https://twitter.com/{{ site.data.profile.twitter }}"><i class="fab fa-twitter"></i> Twitter</a>
+        {% assign first = false %}
     {% endif %}
 
     {% if site.data.profile.bluesky %}
-        {% assign social_links = social_links | push: '<a target="_blank" href="https://bsky.app/profile/' | append: site.data.profile.bluesky | append: '"><i class="fab fa-bluesky"></i> Bluesky</a>' %}
+        {% unless first %} | {% endunless %}
+        <a target="_blank" href="https://bsky.app/profile/{{ site.data.profile.bluesky }}"><i class="fab fa-bluesky"></i> Bluesky</a>
+        {% assign first = false %}
     {% endif %}
 
     {% if site.data.profile.linkedin %}
-        {% assign social_links = social_links | push: '<a target="_blank" href="https://www.linkedin.com/in/' | append: site.data.profile.linkedin | append: '"><i class="fab fa-linkedin"></i> LinkedIn</a>' %}
+        {% unless first %} | {% endunless %}
+        <a target="_blank" href="https://www.linkedin.com/in/{{ site.data.profile.linkedin }}"><i class="fab fa-linkedin"></i> LinkedIn</a>
+        {% assign first = false %}
     {% endif %}
 
     {% if site.data.profile.orcid %}
-        {% assign social_links = social_links | push: '<a target="_blank" href="https://orcid.org/' | append: site.data.profile.orcid | append: '"><i class="fab fa-orcid"></i> ORCID</a>' %}
+        {% unless first %} | {% endunless %}
+        <a target="_blank" href="https://orcid.org/{{ site.data.profile.orcid }}"><i class="fab fa-orcid"></i> ORCID</a>
+        {% assign first = false %}
     {% endif %}
 
     {% if site.data.profile.github %}
-        {% assign social_links = social_links | push: '<a target="_blank" href="https://github.com/' | append: site.data.profile.github | append: '"><i class="fab fa-github"></i> GitHub</a>' %}
+        {% unless first %} | {% endunless %}
+        <a target="_blank" href="https://github.com/{{ site.data.profile.github }}"><i class="fab fa-github"></i> GitHub</a>
     {% endif %}
+</div>
 
-    <!-- Print social links with pipes -->
-    {% for link in social_links %}
-        <span class="social-item">{{ link }}</span> {% unless forloop.last %} <span class="separator"> | </span> {% endunless %}
-    {% endfor %}
-</div>
-</div>
 
                         
                     </div>
