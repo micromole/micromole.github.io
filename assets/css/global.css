@@ -19,7 +19,7 @@ a {
     font-weight: bold;
   }
 
-a[href]:hover {  /* a:not([href^="http"]):hover */
+a[href]:not(:has(img, svg, i)):hover {  /* a:not([href^="http"]):hover */
     background-color: #2a7ae2; /* Highlight effect */
     color: white; /* Invert text color */
     border-radius: 3px; /* Optional: rounded corners */
