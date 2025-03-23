@@ -222,3 +222,9 @@ a.external:after {
     margin-left: 5px;
     display: inline-block;
 }
+
+.news-scroll {
+    max-height: 300px; /* Adjust height as needed */
+    overflow-y: auto;  /* Enables scrolling */
+    padding-right: 10px; /* Prevents text from touching scrollbar */
+}
