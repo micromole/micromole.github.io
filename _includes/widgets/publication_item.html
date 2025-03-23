@@ -69,6 +69,10 @@
                                  <a target="_blank" href="{{ url }}" style="margin-right: 5px;">
                                  <i class="fa-solid fa-file-pdf" style="color:inherit;"></i>
                                  </a>
+                                      {% elsif key == "doi" %}
+                                       <a target="_blank" href="{{ url }}" style="margin-right: 5px;">
+                                       <i class="ai ai-doi" style="font-size: 1.2em; color: inherit;"></i>
+                                       </a>
                                  {% else %}
                                   <a target="_blank" href="{{ url }}" style="margin-right: 5px;">[{{ key }}]</a>
                                  {% endif %}
