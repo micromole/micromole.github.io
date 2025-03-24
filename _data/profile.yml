@@ -41,12 +41,21 @@ short_bio: >-
     Hello there! I consider myself as <b><ins>Micro</ins>bial <ins>Mol</ins>ecular <ins>E</ins>cologist</b> (<code>mi·cro·mole</code>).
     I have been trained cross-disciplinary in Chemical Ecology at the interfaces of molecular and organismic disciplines and combine <strong>Ecological Field Work</strong> with 
     <strong>DNA Metabarcoding</strong> (see <a href="#CV">Short CV <i class="fas fa-angle-double-right"></i></a>). 
-      </p> 
+      </p> </div>
+      <div class="row">
+       <div class="col-lg-8" style="padding: 0 !important;"> 
       <h5>My Research</h5><p>
       I investigate <strong>Insect-Microbe</strong> interactions from the microbial perspective.
       My main research focuses on <strong>&raquo;Microbiome Assembly of Butterflies&laquo;</strong>.
       My broader research interests are microbial transmission among <strong>Plant-Pollinator Networks</strong>, <strong>Pollinator Health</strong> 
       and <strong>Symbiosis</strong>.</p>
+      </div>
+      <div class="col-lg-2" style="padding: 0 !important;"> 
+      <p>
+   For my current work on <strong>Microbiome Assembly</strong> goto <a href="/research">Research <i class="fas fa-angle-double-right"></i></a><br>
+   For my previous work on <strong>Microbiome Function</strong> goto <a href="/projects">Past Projects <i class="fas fa-angle-double-right"></i></a>
+   </p> </div>
+      
       </div>
       <h5>My Goals</h5>
           <img src="assets/images/covers/cover_move.jpg" 
@@ -59,11 +68,7 @@ short_bio: >-
       <strong>Host Movement</strong> could be a valuable addition to current <strong>Metacommunity</strong> concepts, as it connects <strong>Local Habitats</strong> 
       by removing <strong>Microbial Dispersal Limitations</strong>.
     </p> </div>
-      <div class="col-lg-2" style="padding: 0 !important;"> 
-      <p>
-   For my current work on <strong>Microbiome Assembly</strong> goto <a href="/research">Research <i class="fas fa-angle-double-right"></i></a><br>
-   For my previous work on <strong>Microbiome Function</strong> goto <a href="/projects">Past Projects <i class="fas fa-angle-double-right"></i></a>
-   </p> </div>
+      
   <blockquote>
         <q>...what I consider is the key aspect of the future of education in the life sciences,
         a curriculum based on the ecology and evolution of the biosphere that integrates microbiology and macrobiology
