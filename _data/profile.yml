@@ -42,9 +42,9 @@ short_bio: >-
     I have been trained cross-disciplinary in Chemical Ecology at the interfaces of molecular and organismic disciplines and combine <strong>Ecological Field Work</strong> with 
     <strong>DNA Metabarcoding</strong> (see <a href="#CV">Short CV <i class="fas fa-angle-double-right"></i></a>). 
       </p> </div>
+       <h5>My Research</h5><p>
       <div class="row">
        <div class="col-lg-8"> 
-      <h5>My Research</h5><p>
       I investigate <strong>Insect-Microbe</strong> interactions from the microbial perspective.
       My main research focuses on <strong>&raquo;Microbiome Assembly of Butterflies&laquo;</strong>.
       My broader research interests are microbial transmission among <strong>Plant-Pollinator Networks</strong>, <strong>Pollinator Health</strong> 
@@ -52,8 +52,8 @@ short_bio: >-
       </div>
       <div class="col-lg-4"> 
       <p>
-   For <strong>Microbiome Assembly</strong> see <a href="/research">Research <i class="fas fa-angle-double-right"></i></a><br>
-   For <strong>Microbiome Function</strong> see <a href="/projects">Past Projects <i class="fas fa-angle-double-right"></i></a>
+   <strong>Microbiome Assembly</strong> see <a href="/research">Research <i class="fas fa-angle-double-right"></i></a><br>
+   <strong>Microbiome Function</strong> see <a href="/projects">Past Projects <i class="fas fa-angle-double-right"></i></a>
    </p> </div>
       
       </div>
