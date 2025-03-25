@@ -41,7 +41,7 @@ short_bio: >-
         Hello there! I consider myself as <b><ins>Micro</ins>bial <ins>Mol</ins>ecular <ins>E</ins>cologist</b> (<code>mi·cro·mole</code>).
         I am a <strong>Microbiologist</strong> that has been trained cross-disciplinary in <strong>Chemical Ecology</strong> at the interfaces 
         of molecular and organismic disciplines. Now I combine <strong>Ecological Field Work</strong> with <strong>DNA Metabarcoding</strong>. 
-        (see <a href="#CV">Short CV <i class="fas fa-angle-double-right"></i></a>)
+        (<a href="#CV">CV <i class="fas fa-angle-double-right"></i></a>)
         </p>
         </div> 
           <div class="col-lg-8" style="padding: 0 !important;">
@@ -63,8 +63,8 @@ short_bio: >-
             </p>
             </div>
            <p>
-           For my current work on <strong>Microbiome Assembly</strong> goto <a href="/research">Research <i class="fas fa-angle-double-right"></i></a><br>
-           For my previous work on <strong>Microbiome Function</strong> goto <a href="/projects">Past Projects <i class="fas fa-angle-double-right"></i></a>
+           My current work on <strong>Microbiome Assembly</strong> (<a href="/research">Research <i class="fas fa-angle-double-right"></i></a>)<br>
+           My previous work on <strong>Microbiome Function</strong> (<a href="/projects">Past Projects <i class="fas fa-angle-double-right"></i></a>)
            </p>
         <blockquote>
         <q>...what I consider is the key aspect of the future of education in the life sciences,
