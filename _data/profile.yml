@@ -37,16 +37,15 @@ keywords:
 
 short_bio_text_justify: true
 short_bio: >-
-         <div class="row">
-    <h5>About Me</h5>
-    <div class="col-lg-8"> <p>
-    Hello there! I consider myself as <b><ins>Micro</ins>bial <ins>Mol</ins>ecular <ins>E</ins>cologist</b> (<code>mi·cro·mole</code>).
-    I am a <strong>Microbiologist</strong> that has been trained cross-disciplinary in <strong>Chemical Ecology</strong> at the interfaces of molecular and organismic disciplines and combine <strong>Ecological Field Work</strong> with 
-    <strong>DNA Metabarcoding</strong>. 
+            <h5>About Me</h5>
+           <div class="col-lg-8"> <p>
+       Hello there! I consider myself as <b><ins>Micro</ins>bial <ins>Mol</ins>ecular <ins>E</ins>cologist</b> (<code>mi·cro·mole</code>).
+       I am a <strong>Microbiologist</strong> that has been trained cross-disciplinary in <strong>Chemical Ecology</strong> at the interfaces of molecular and organismic disciplines and combine <strong>Ecological Field Work</strong> with 
+      <strong>DNA Metabarcoding</strong>. 
       </p> </div>
       <div class="col-lg-4"> 
       (see <a href="#CV">Short CV <i class="fas fa-angle-double-right"></i></a>)
-      </div> </div>
+         </div> 
             <div class="row">
        <h5>My Research</h5><p>
        <div class="col-lg-8"> 
