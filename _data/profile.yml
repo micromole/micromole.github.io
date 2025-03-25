@@ -42,6 +42,20 @@ short_bio: >-
         I am a <strong>Microbiologist</strong> that has been trained cross-disciplinary in <strong>Chemical Ecology</strong> at the interfaces 
         of molecular and organismic disciplines and combine <strong>Ecological Field Work</strong> with <strong>DNA Metabarcoding</strong>. 
         </div> 
+        <div class="row">
+          <h5>My Research</h5>
+          <div class="col-lg-8"> <p>
+      I investigate <strong>Insect-Microbe-Symbiosis</strong> from the microbial perspective.
+      My main research focuses on <strong>&raquo;Microbiome Assembly of Butterflies&laquo;</strong>.
+      My broader research interests are microbial transmission among <strong>Plant-Pollinator Networks</strong> and <strong>Pollinator Health</strong>.</p>
+      </div>
+      <div class="col-lg-4"> 
+      <p>
+   <strong>Microbiome Assembly</strong> see <a href="/research">Research <i class="fas fa-angle-double-right"></i></a><br>
+   <strong>Microbiome Function</strong> see <a href="/projects">Past Projects <i class="fas fa-angle-double-right"></i></a>
+   </p> </div>
+      </div>
+
         <blockquote>
         <q>...what I consider is the key aspect of the future of education in the life sciences,
         a curriculum based on the ecology and evolution of the biosphere that integrates microbiology and macrobiology
