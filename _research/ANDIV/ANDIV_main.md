@@ -12,7 +12,7 @@ date: 2023-01-12 00:01:00 +0800
          src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Butterflies from Peru">
          </div>
  <hr />
-    <div style="text-align: justify;">
+    <div style="text-align: left;">
 <img data-src="{{ 'assets/images/photos/IMG_7255m.jpg' | relative_url }}" alt="Pierid from Peru" class="lazy rounded frame-img" style="float: right; margin-left: 10px;"
     src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Pierid butterfly from Peru">  
 <p>
