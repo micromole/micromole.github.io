@@ -35,10 +35,6 @@ images:
   title: Poplar Hawk-Moth
   desc:
   link: assets/images/photos/IMG_5709wm.jpg
-- src: assets/images/photos/IMG_6807m.jpg
-  title: Snake on the Road
-  desc: Photo by Van Thi Luu
-  link: assets/images/photos/IMG_6807wm.jpg 
 ---
 
 {% include widgets/carousel.html id=page.id images=page.images height=page.height %}
