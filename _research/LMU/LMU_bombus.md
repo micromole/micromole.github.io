@@ -12,7 +12,7 @@ date: 2022-07-12 00:01:00 +0800
            src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Bumblebee Nest">
           </div>
  <hr />
-      <div style="text-align: justify;">
+      <div style="text-align: left;">
        <img data-src="{{ 'assets/images/covers/cover_bumble.jpg' | relative_url }}" alt="Microbiome diversity"  class="lazy rounded frame-img" style="float: right; margin-left: 10px;"        src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Microbiome Diversification">  
 <p>
 This was our first semi field experiment at LMU campus Martinsried. We used outdoor flight cages to test how the microbiota of <strong>Large Earth Bumblebee</strong> (<i>Bombus terrestris</i>) changes when exposed to different flower diversities.
