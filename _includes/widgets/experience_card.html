@@ -2,14 +2,14 @@
     <div class="col">
        <div class="card border-0 shadow-sm bg-white rounded-lg" style="position: relative; background-image: url('{{ 'assets/images/photos/HP_Institute2G_0852wm.jpg' | relative_url }}');
            background-size: cover; background-position: center; background-repeat: no-repeat; background-attachment: fixed;">
-             <div class="card-body rounded-lg" style="background: rgba(255, 255, 255, 0.2);">
+             <div class="card-body rounded-lg" style="background: rgba(255, 255, 255, 0.3);">
                             <div class="px-2 px-md-3  rounded-lg" style="position: relative; top: -10px;">
                             <h6 id="CV" class="pb-1 mb-0 border-bottom border-white text-black">
                             <i class="fas fa-university"></i> Short CV  </h6> </div>
                   <div class="row" data-masonry='{"percentPosition": true }'>
                     {% if site.data.profile.experience %}
                     <div class="col-md-6">
-                          <div class="p-2 p-md-3 mb-2" style="background-color: rgba(255, 255, 255, 0.6); border-radius: 10px;">
+                          <div class="p-2 p-md-3 mb-2" style="background-color: rgba(255, 255, 255, 0.6); backdrop-filter: blur(3px); border-radius: 10px;">
                             <h6><i class="fa-solid fa-microscope"></i> Research Experience</h6>
                                <ul class="list-unstyled mb-1">
                                 {% for item in site.data.profile.experience %}
@@ -32,7 +32,7 @@
                     
                     {% if site.data.profile.education %}
                     <div class="col-md-6">
-                         <div class="p-2 p-md-3 mb-2" style="background-color: rgba(255, 255, 255, 0.4); backdrop-filter: blur(3px); border-radius: 10px;">
+                         <div class="p-2 p-md-3 mb-2" style="background-color: rgba(255, 255, 255, 0.6); backdrop-filter: blur(3px); border-radius: 10px;">
                             <h6><i class="fa-solid fa-graduation-cap"></i> Education</h6>
                             <ul class="list-unstyled mb-1">
                                 {% for item in site.data.profile.education %}
