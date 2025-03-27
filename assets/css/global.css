@@ -208,6 +208,10 @@ mark {
     border-radius: 10px !important;
 }
 
+.card-img-overlay {
+     border-radius: 10px !important;
+}
+
 .card-header {
      border-radius: 10px !important;
 }
