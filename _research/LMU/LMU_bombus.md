@@ -6,14 +6,14 @@ date: 2022-07-12 00:01:00 +0800
 <div class="p-4">
      <h3 id="Bombus">Environmental Driver of the Bumblebee Microbiota</h3>
       <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1px;">
-      <img data-src="{{ 'assets/images/photos/bb_setupm.jpg' | relative_url }}" alt="Flight cages at LMU"  class="lazy rounded frame-img" 
+      <img data-src="{{ 'assets/images/photos/bb_setupm.jpg' | relative_url }}" alt="Flight cages at LMU"  class="lazy rounded-lg frame-img" 
            src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Outdoor Flight Cages at LMU">
-      <img data-src="{{ 'assets/images/photos/bb_nest2.jpg' | relative_url }}" alt="Bumblebee nest"  class="lazy rounded frame-img" 
+      <img data-src="{{ 'assets/images/photos/bb_nest2.jpg' | relative_url }}" alt="Bumblebee nest"  class="lazy rounded-lg frame-img" 
            src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Bumblebee Nest">
           </div>
  <hr />
       <div style="text-align: left;">
-       <img data-src="{{ 'assets/images/covers/cover_bumble.jpg' | relative_url }}" alt="Microbiome diversity"  class="lazy rounded frame-img" style="float: right; margin-left: 10px;"        src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Microbiome Diversification">  
+       <img data-src="{{ 'assets/images/covers/cover_bumble.jpg' | relative_url }}" alt="Microbiome diversity"  class="lazy rounded-lg frame-img" style="float: right; margin-left: 10px;"        src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Microbiome Diversification">  
 <p>
 This was our first semi field experiment at LMU campus Martinsried. We used outdoor flight cages to test how the microbiota of <strong>Large Earth Bumblebee</strong> (<i>Bombus terrestris</i>) changes when exposed to different flower diversities.
   <strong>Monocultures</strong> within <strong>Agroecosystems</strong> can have negative consequences for pollinator health and fitness, but it is unclear how this infuences the gut-microbiota. We observed a dynamic <strong>Temporal Progression</strong> in microbiota diversification with distinct compositional changes over time.
