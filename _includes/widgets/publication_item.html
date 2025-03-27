@@ -43,7 +43,7 @@
     </div>
 </div>
 
-<div class="row no-gutters d-md-none {% unless include.hide_bottom_border %}border-bottom{% endunless %} border-gray {% if include.first %}rounded-top{% endif %} {% if include.last %}rounded-bottom{% endif %} {% if item.cover %}lazy{% endif %}" data-src="{{ item.cover | relative_url }}">
+<div class="row no-gutters d-md-none {% unless include.hide_bottom_border %}border-bottom{% endunless %} border-gray {% if include.first %}rounded-top{% endif %} {% if include.last %}rounded-bottom{% endif %} {% if item.cover %}lazy{% endif %}" data-src="{{ item.cover | relative_url }}" style="border-radius: 10px; overflow: hidden;>
     <div class="w-100 rounded-lg" style="background-color: rgba(255,255,255,0.8);backdrop-filter: blur(2px);">
         <div class="d-flex align-items-start flex-column py-3 px-4">
             <div class="mb-auto"></div>
