@@ -10,8 +10,7 @@ group:
     <ul>
       <li><strong><mark>Plant Microbiome Function</mark></strong></li>
       <li><strong><mark>Plant-Herbivore Interactions</mark></strong></li>
-      <li><strong><mark>Transformation & Epigenetics</mark></strong></li>
-      <li><strong><mark>Antimicrobial Peptides</mark></strong></li>
+      <li><strong><mark>Agricultural Biotechnology</mark></strong></li>
     </ul>
   </div>
 </div>
