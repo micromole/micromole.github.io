@@ -12,19 +12,19 @@ body_attr: >-
     <div class="col-12 col-md-12 col-lg-10">
         <div class="d-flex flex-wrap justify-content-between gap-2">
             <a href="/assets/images/covers/cover_PCE.jpg" target="_blank">
-            <img src="/assets/images/covers/cover_PCE150.jpg" alt="PCE Cover" class="rounded-sm img-fluid small-img"> </a>
+            <img src="/assets/images/covers/cover_PCE150.jpg" alt="PCE Cover" class="rounded img-fluid small-img"> </a>
             <a href="/assets/images/covers/cover_blattgefluster2.jpg" target="_blank">
-            <img src="/assets/images/covers/cover_blattgefluster2150.jpg" alt="Blattgefluster" class="rounded-sm img-fluid small-img"> </a>
+            <img src="/assets/images/covers/cover_blattgefluster2150.jpg" alt="Blattgefluster" class="rounded img-fluid small-img"> </a>
             <a href="/assets/images/covers/cover_elife.jpg" target="_blank">
-            <img src="/assets/images/covers/cover_elife150.jpg" alt="elife" class="rounded-sm img-fluid small-img"></a>
+            <img src="/assets/images/covers/cover_elife150.jpg" alt="elife" class="rounded img-fluid small-img"></a>
             <a href="/assets/images/covers/cover_PULS.jpg" target="_blank">
-            <img src="/assets/images/covers/cover_PULS150.jpg" alt="PULSCE" class="rounded-sm img-fluid small-img"></a>
+            <img src="/assets/images/covers/cover_PULS150.jpg" alt="PULSCE" class="rounded img-fluid small-img"></a>
             <a href="/assets/images/covers/cover_pflanzenforschung2.jpg" target="_blank">
-            <img src="/assets/images/covers/cover_pflanzenforschung2150.jpg" alt="Pflanzenforschung" class="rounded-sm img-fluid small-img"></a>
+            <img src="/assets/images/covers/cover_pflanzenforschung2150.jpg" alt="Pflanzenforschung" class="rounded img-fluid small-img"></a>
             <a href="/assets/images/covers/cover_mpgpress2.jpg" target="_blank">
-            <img src="/assets/images/covers/cover_mpgpress2150.jpg" alt="MPG_Press" class="rounded-sm img-fluid small-img"></a>
+            <img src="/assets/images/covers/cover_mpgpress2150.jpg" alt="MPG_Press" class="rounded img-fluid small-img"></a>
             <a href="/assets/images/covers/cover_plossmall.jpg" target="_blank">
-            <img src="/assets/images/covers/cover_plossmall150.jpg" alt="PLOSOne" class="rounded-sm img-fluid small-img"></a>
+            <img src="/assets/images/covers/cover_plossmall150.jpg" alt="PLOSOne" class="rounded img-fluid small-img"></a>
         </div>
     </div>
 </div>
@@ -66,7 +66,7 @@ body_attr: >-
         {% for year in pubs_by_year %}
         {% assign num_papers = year.items | size %}
         <h3 class="pt-4" id="year-{{ year.name }}">{{ year.name }}</h3>
-        <div class="my-0 p-0 bg-white shadow-sm rounded-sm">
+        <div class="my-0 p-0 bg-white shadow-sm rounded-lg">
             {% for item in year.items %}
                 {% include widgets/publication_item.html item=item hide_bottom_border=forloop.last first=forloop.first last=forloop.last %}
             {% endfor %}
