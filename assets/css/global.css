@@ -204,6 +204,10 @@ mark {
   border-radius: 10px !important;
 }
 
+.card {
+    border-radius: 10px !important;
+}
+
 .badge-publication {
     font-size: 80%;
 }
