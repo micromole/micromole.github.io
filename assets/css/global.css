@@ -131,12 +131,14 @@ html {
 .frame-img {
     width: 48%;
     margin: 2px;
+    border-radius: 10px !important;
 }
 
 /* Frame image on smaller screens below 576px */
 @media (max-width: 576px) {
     .frame-img {
          width: 99%;
+        border-radius: 5px !important;
     }
 }
 
