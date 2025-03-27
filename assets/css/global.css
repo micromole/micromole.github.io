@@ -200,7 +200,9 @@ mark {
 }
 
 
-
+.rounded-lg {
+  border-radius: 10px !important;
+}
 
 .badge-publication {
     font-size: 80%;
