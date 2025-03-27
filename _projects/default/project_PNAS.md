@@ -27,8 +27,7 @@ So far, only individual bacterial strains had been applied in agriculture. Howev
     <footer>— Arne Weinhold 08/2015 (<a href="https://www.mpg.de/9373626/bacteria-tabacco-root-disease" class="external" target="_blank" rel="noopener noreferrer">MPG Research News</a>)</footer>
 </blockquote>
      <div class="card bg-light mb-3">
- <div class="card-header">
-<strong>Original research:</strong>
+ <strong>Original research:</strong>
 Santhanam <i>et al.</i> (2015) Native root-associated bacteria rescue a plant from a sudden-wilt disease that emerged during continuous cropping, <i>PNAS</i> <a href="https://doi.org/10.1073/pnas.1505765112" class="external" target="_blank" rel="noopener noreferrer">DOI: 10.1073/pnas.1505765112</a> 
       <img src="{{ '/assets/logo/Open_Access_logo_PLoS_transparent.svg' | relative_url }}" 
      alt="Open Access Logo" 
@@ -51,7 +50,6 @@ Santhanam <i>et al.</i> (2015) Native root-associated bacteria rescue a plant fr
            data-size="small">
         </a>
     </div>
-</div>
   </div> </div>
     <img src="/assets/logo/logo64_ICE.png" alt="ICE Logo" class="img-fluid logo-img">
      <img src="/assets/logo/logo64_minerva.png" alt="JSMC Logo" class="img-fluid logo-img"> 
