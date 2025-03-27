@@ -138,7 +138,7 @@ html {
 @media (max-width: 576px) {
     .frame-img {
          width: 99%;
-        border-radius: 5px !important;
+        border-radius: 10px !important;
     }
 }
 
