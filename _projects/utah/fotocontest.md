@@ -5,7 +5,7 @@ date: 2015-06-10 00:01:00 +0800
 ---
 <div>
   <a href="{{ 'assets/images/photos/IMG_2932wm.jpg' | relative_url }}" target="_blank">
-  <img data-src="{{ 'assets/images/photos/IMG_2932m.jpg' | relative_url }}" alt="Manduca sexta" class="lazy w-100 rounded" 
+  <img data-src="{{ 'assets/images/photos/IMG_2932m.jpg' | relative_url }}" alt="Manduca sexta" class="lazy w-100 rounded-lg" 
     src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Manduca sexta"> </a>
   <div class="card-body">
      <h5>Feasting Foto Model</h5>
