@@ -36,7 +36,7 @@ keywords:
 
 short_bio_text_justify: false
 short_bio: >-
-        <div class="col-lg-8" style="padding: 0 !important;">
+        <div class="col-lg-7" style="padding: 0 !important;">
         <h5>About Me</h5> <p>
         Hello there! I consider myself as <b><ins>Micro</ins>bial <ins>Mol</ins>ecular <ins>E</ins>cologist</b> (<code>mi·cro·mole</code>).
         I have been trained cross-disciplinary in <strong>Microbiology</strong> and <strong>Chemical Ecology</strong> at the interfaces 
@@ -47,9 +47,9 @@ short_bio: >-
           <img src="assets/images/covers/dispersal.png" 
           alt="Microbial Acquisition" 
           class="img-fluid img-thumbnail lazy rounded-lg" 
-          style="float: right; max-width: 50%; max-height: 200px; margin-left: 10px;"
+          style="float: right; max-width: 50%; max-height: 180px; margin-left: 10px;"
           data-toggle="tooltip" data-placement="top" title="Microbial Acquisition"> 
-          <div class="col-lg-8" style="padding: 0 !important;">
+          <div class="col-lg-7" style="padding: 0 !important;">
           <h5>My Research</h5> 
           <p>
           My main research is about <strong>Insect-Microbe-Symbiosis</strong> of solitary pollinators, 
@@ -59,9 +59,9 @@ short_bio: >-
             <img src="assets/images/covers/dispersal2.png" 
             alt="Host Movement" 
             class="img-fluid img-thumbnail lazy rounded-lg" 
-            style="float: right; max-width: 50%; max-height: 200px; margin-left: 10px;"
+            style="float: right; max-width: 50%; max-height: 180px; margin-left: 10px;"
             data-toggle="tooltip" data-placement="top" title="Host Movement"> 
-            <div class="col-lg-8" style="padding: 0 !important;">
+            <div class="col-lg-7" style="padding: 0 !important;">
             <h5>My Goals</h5>
             <p>
             I investigate Host-Microbe Interactions from a <strong>Microbial Perspective</strong>. 
