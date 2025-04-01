@@ -44,18 +44,24 @@ short_bio: >-
         (<a href="#CV">CV <i class="fas fa-angle-double-right"></i></a>)
         </p>
         </div> 
-          <div class="col-lg-8" style="padding: 0 !important;">
-          <h5>My Research</h5> <p>
+          <h5>My Research</h5> 
+          <img src="assets/images/covers/dispersal.png" 
+          alt="Microbial Acquisition" 
+          class="img-fluid img-thumbnail lazy rounded-lg" 
+          style="float: right; max-width: 50%; max-height: 220px; margin-left: 10px;"
+          data-toggle="tooltip" data-placement="top" title="Microbial Acquisition"> 
+          <div class="col-lg-8" style="padding: 0 !important;"> 
+          <p>
           My main research is about <strong>Insect-Microbe-Symbiosis</strong> of solitary pollinators, 
           in particular <mark><strong>&raquo;Microbiome Assembly of Butterflies&laquo;</strong></mark>.
           My broader research interests are microbial transmission among <strong>Plant-Pollinator Networks</strong> and <strong>Pollinator Health</strong>. </p>
           </div>
             <h5>My Goals</h5>
-            <img src="assets/images/covers/dispersal.jpg" 
+            <img src="assets/images/covers/dispersal2.png" 
             alt="Host Movement" 
             class="img-fluid img-thumbnail lazy rounded-lg" 
             style="float: right; max-width: 50%; max-height: 220px; margin-left: 10px;"
-            data-toggle="tooltip" data-placement="top" title="Weinhold 2022"> 
+            data-toggle="tooltip" data-placement="top" title="Host Movement"> 
             <div class="col-lg-8" style="padding: 0 !important;"> 
             <p>
             I investigate Host-Microbe Interactions from a <strong>Microbial Perspective</strong>. 
