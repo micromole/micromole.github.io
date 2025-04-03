@@ -74,14 +74,13 @@ short_bio: >-
            My current work on <strong>Microbiome Assembly</strong> (<a href="/research">Research <i class="fas fa-angle-double-right"></i></a>)<br>
            My previous work on <strong>Microbiome Function</strong> (<a href="/projects">Past Projects <i class="fas fa-angle-double-right"></i></a>)
            </p>
-           <div class="col-lg-8" style="padding: 0 !important;">
-        <blockquote>
+           <blockquote>
         <q>...what I consider is the key aspect of the future of education in the life sciences,
         a curriculum based on the ecology and evolution of the biosphere that integrates microbiology and macrobiology
         into a unified systems biology.</q>
         <footer>—Roberto Kolter (2021) The History of Microbiology – A Personal Interpretation
         <a href="https://doi.org/10.1146/annurev-micro-033020-020648" class="external" target="_blank" rel="noopener noreferrer">Annual Review of Microbiology</a></footer>
-        </blockquote> </div>
+        </blockquote> 
 
 portrait_url: /assets/images/photos/AW_logo.jpg
 portrait_caption: >-
