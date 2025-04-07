@@ -47,8 +47,9 @@
 
     {% if site.data.profile.gscholar %}
         {% unless first %} | {% endunless %}
-        {%- assign gscholar_url = site.data.profile.gscholar contains 'scholar.google' ? site.data.profile.gscholar : 'https://scholar.google.com/citations?user=' | append: site.data.profile.gscholar -%}
-        <a target="_blank" href="{{ gscholar_url }}"><i class="fab fa-google"></i> Google Scholar</a>
+        {%- assign gscholar_url = site.data.profile.gscholar contains 'scholar.google' ? site.data.profile.gscholar : 'https://scholar.google.com/citations?user=' | 
+    append: site.data.profile.gscholar -%}
+        <a target="_blank" href="https://scholar.google.com/citations?user={{ site.data.profile.gscholar }}"><i class="fab fa-google"></i> Google Scholar</a>
         {% assign first = false %}
     {% endif %}
 
