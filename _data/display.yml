@@ -9,5 +9,5 @@ homepage:
 footer_text: >-
  <a href="/"><i class="fa-solid fa-house"></i>&nbsp;Home</a> | 
  <a href="mailto:&#97;&#114;&#110;&#101;&#46;&#119;&#101;&#105;&#110;&#104;&#111;&#108;&#100;&#64;&#98;&#105;&#111;&#46;&#108;&#109;&#117;&#46;&#100;&#101;">
- <i class="fas fa-envelope"></i>&nbsp;<span class="email-text">Contact</span></a> | 
+ <span style="white-space: nowrap;"><i class="fas fa-envelope"></i> <span class="email-text">Contact</span></span></a> | 
  <a href="https://github.com/luost26/academic-homepage" target="_blank"><span style="white-space: nowrap;"><i class="fas fa-pencil-ruler"></i> Source</span></a>
