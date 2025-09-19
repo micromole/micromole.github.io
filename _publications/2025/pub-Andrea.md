@@ -15,7 +15,7 @@ abstract: >-
                                          
 cover:          /assets/images/covers/cover_Andrea.png
 authors:
-  - Pinos A*
+  - Pinos A
   - Alonso-Alonso P
   - Correa-Carmona Y
   - Holzmann K L
