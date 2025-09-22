@@ -52,19 +52,19 @@ short_bio: >-
           <div class="col-md-6" style="padding: 0 !important;">
           <h5>My Research</h5> 
           <p>
-          My main research is about <strong>Microbiome Assembly of butterflies</strong> (<a href="/research">Research <i class="fas fa-angle-double-right"></i></a>).
+          My main research is about <strong>Microbiome Assembly of Butterflies</strong> (<a href="/research">Research <i class="fas fa-angle-double-right"></i></a>).
           I am particular interested how solitary pollinators acquire their microbiota.
           My broader interests are microbial transmission among <strong>Plant-Pollinator Networks</strong> in the light of <strong>Pollinator Health</strong> and <strong>Immunity</strong>.
           My past work had the focus on <strong>Microbiome Function</strong> in plants (<a href="/projects">Past Projects <i class="fas fa-angle-double-right"></i></a>).
           </p>
           </div>
-            <h5>My Goals</h5>
             <img src="assets/images/covers/dispersal2.png" 
             alt="Host Movement" 
             class="img-fluid img-thumbnail lazy rounded-lg" 
             style="float: right; max-width: 50%; max-height: 180px; margin-left: 10px;"
             data-toggle="tooltip" data-placement="top" title="Host Movement"> 
             <div class="col-md-6" style="padding: 0 !important;">
+            <h5>My Goals</h5>
             <p>
             I investigate Host-Microbe Interactions from a <strong>Microbial Perspective</strong>. 
             My goal is an integrative understanding of <strong>Microbiomes</strong> in the light of macroecological theories.
