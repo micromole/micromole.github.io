@@ -72,13 +72,14 @@ short_bio: >-
             removes <strong>Microbial Dispersal Limitations</strong>.
             </p>
             </div>
+            <div class="col-md-9" style="padding: 0 !important;">
             <blockquote>
         <q>...what I consider is the key aspect of the future of education in the life sciences,
         a curriculum based on the ecology and evolution of the biosphere that integrates microbiology and macrobiology
         into a unified systems biology.</q>
         <footer>—Roberto Kolter (2021) The History of Microbiology – A Personal Interpretation
         <a href="https://doi.org/10.1146/annurev-micro-033020-020648" class="external" target="_blank" rel="noopener noreferrer">Annual Review of Microbiology</a></footer>
-        </blockquote> 
+        </blockquote> </div>
 
 portrait_url: /assets/images/photos/AW_logo.jpg
 portrait_caption: >-
