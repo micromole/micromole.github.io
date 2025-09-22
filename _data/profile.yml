@@ -63,7 +63,7 @@ short_bio: >-
             class="img-fluid img-thumbnail lazy rounded-lg" 
             style="float: right; max-width: 50%; max-height: 180px; margin-left: 10px;"
             data-toggle="tooltip" data-placement="top" title="Host Movement"> 
-            <div class="col-md-6" style="padding: 0 !important;">
+            <div class="col-md-5" style="padding: 0 !important;">
             <h5>My Goals</h5>
             <p>
             I investigate Host-Microbe Interactions from a <strong>Microbial Perspective</strong>. 
