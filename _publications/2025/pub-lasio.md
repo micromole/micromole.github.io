@@ -15,8 +15,8 @@ abstract: >-
                                          
 cover:          /assets/images/covers/cover_lasio2.png
 authors:
-  - Mayr AV
-  - Weinhold A
+  - Mayr AV#
+  - Weinhold A#
   - Nolzen A
   - Keller A
   - Ayasse M
