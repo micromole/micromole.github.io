@@ -9,5 +9,6 @@ group:
     src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="2025 group @ LMU">
   <div class="card-body">
     <p class="card-text">
-      <strong>The team of 2025</strong> at <strong>LMU</strong>.
+      <strong>The team of 2025</strong> at <strong>LMU</strong>
+  </div>    
 </div>
