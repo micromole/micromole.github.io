@@ -10,6 +10,7 @@ group:
   <div class="card-body">
     <p class="card-text">
       <strong>The butterfly sampling team of 2025 at</strong> <strong>LMU</strong>
+      <small>Alejandra, David, Anika, Arne, Pia, & Gweni</small>
     </p>
   </div>    
 </div>
