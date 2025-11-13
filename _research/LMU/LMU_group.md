@@ -9,7 +9,7 @@ group:
     src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="2025 group @ LMU">
   <div class="card-body">
     <p class="card-text">
-      <strong>The butterfly sampling team</strong> of 2025 at <strong>LMU</strong>
+      <strong>The butterfly sampling team of 2025 at</strong> <strong>LMU</strong>
     </p>
   </div>    
 </div>
