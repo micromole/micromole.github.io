@@ -20,10 +20,6 @@ images:
   title: 
   desc: Maniola jurtina
   link: assets/images/photos/IMG_5965wm.jpg
-- src: assets/images/photos/IMG_6028m.jpg
-  title: 
-  desc: Cetonia aurata
-  link: assets/images/photos/IMG_6028wm.jpg
 - src: assets/images/photos/IMG_6070m.jpg
   title: 
   desc: Polyommatus icarus
