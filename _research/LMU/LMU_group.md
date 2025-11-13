@@ -10,5 +10,5 @@ group:
   <div class="card-body">
     <p class="card-text">
       <strong>The team of 2025</strong> at <strong>LMU</strong>.
-     </div>
+     
 </div>
