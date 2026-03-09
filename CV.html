@@ -4,7 +4,11 @@ title : CV
 navbar_title: CV
 ---
 
-{% include widgets/homebanner.html %}
+<!-- Banner from cv collection -->
+{% assign banner = site.cv | where: "title", "Experience Banner" | first %}
+{% if banner %}
+  {{ banner.content }}
+{% endif %}
 
 {% if site.data.display.homepage.show_experience %}
     {% include widgets/experience_card.html %}
