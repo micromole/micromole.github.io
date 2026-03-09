@@ -5,10 +5,10 @@ date: 2025-01-04 00:01:00 +0800
 ---
 
 <div class="p-4">
-    <h3>Text yet to be filled</h3>
+    <h3>Arne Weinhold</h3>
      <div style="text-align: left;">
            <p>
-       My main research question is about <strong>Microbiome Assembly</strong> of <strong>Solitary Pollinator</strong>. A specialized gut-microbiome is important for many pollinating insects, particular in the light of <strong>Pollinator Health</strong> and <strong>Insect Decline</strong>. While microbial associations have been extensively studied in social pollinators like honeybees, far less is known about <strong>Solitary Species</strong>, which must acquire their microbiota from <strong>Environmental Sources</strong>. Still, major drivers of microbiota assembly in wild pollinators remain largely unexplored.
+       2001–2007 Studies in Biology with major in Microbiology at the Philipps-Universität Marburg. Diploma thesis (equivalent to MSc) conducted at the Max Planck Institute for Terrestrial Microbiology Marburg (Diplom-Biologe, 2006). 2007-2008 Gap year abroad: Work and travel in New Zealand. 2009–2016 Doctoral and Postdoctoral Researcher at the Max Planck Institute for Chemical Ecology Jena Department of Molecular Ecology including six research expeditions to Utah (USA) for field work on plant-microbe-herbivore interactions. Graduate training in the International Leibniz Research School for Microbial and Biomolecular Interactions (ILRS) and Jena School for Microbial Communication (JSMC). Doctorate awarded by the Friedrich Schiller University Jena (Dr. rer. nat., 2014). 2017–2020 Postdoctoral Researcher at the Collaborative Research Center (CRC 973) at Freie Universität Berlin in the department of Applied Zoology / Animal Ecology. Since 2021 Postdoctoral Researcher at the Center for Organismic Adaptation (CORA) at Ludwig-Maximilians-Universität München (LMU Munich). Since 2025 Principal Investigator (DFG research grant WE 5403/3-1). Mentoring experience of more than 15 undergraduate students, 5 PhD candidates and 1 postdoc. .
         </p>
     </div>
     </div>
