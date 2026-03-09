@@ -1,0 +1,13 @@
+---
+layout: default
+title : CV
+navbar_title: CV
+---
+
+{% include widgets/homebanner.html %}
+
+{% if site.data.display.homepage.show_experience %}
+    {% include widgets/experience_card.html %}
+{% endif %}
+
+{% endif %}
