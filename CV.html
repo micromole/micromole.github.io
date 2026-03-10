@@ -2,9 +2,10 @@
 layout: default
 title : CV
 navbar_title: CV
+background_image: "/assets/images/photos/HP_Institute2G_0852wm.jpg"
 ---
 
-<h2>My CV</h2>
+<h2>CV</h2>
 {% assign cards_by_group = site.cv | sort: "date" | reverse | where: "show", true | group_by_exp: "item", "item.group" %}
 
 {% for group in cards_by_group %}
