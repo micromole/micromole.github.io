@@ -8,9 +8,6 @@ date: 2025-01-05 00:01:00 +0800
        <img data-src="{{ 'assets/images/photos/588694.jpg' | relative_url }}" alt="Wilt Disease" class="lazy w-100 rounded-lg" 
            src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="About Me">
      </div>
-  <a href="{{ 'assets/images/photos/IMG_2932wm.jpg' | relative_url }}" target="_blank">
-  <img data-src="{{ 'assets/images/photos/IMG_2932m.jpg' | relative_url }}" alt="Manduca sexta" class="lazy w-100 rounded-lg" 
-    src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="About Me"> </a>
   <div class="card-body">
      <h4>Dr. Arne Weinhold</h4>
      <h5>LMU Munich</h5>
