@@ -1,7 +1,7 @@
 ---
 show: true
-width: 6
-date: 2025-01-03 00:01:00 +0800
+width: 4
+date: 2025-01-05 00:01:00 +0800
 ---
 <div>
   <a href="{{ 'assets/images/photos/IMG_2932wm.jpg' | relative_url }}" target="_blank">
