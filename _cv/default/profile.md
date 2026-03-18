@@ -19,3 +19,7 @@ date: 2025-01-05 00:01:00 +0800
              </p>
   </div>
 </div>
+ <img src="/assets/logo/logo64_LMU.png" alt="LMU Logo" class="img-fluid logo-img">
+ <p><a href="#top">Back to Top <i class="fas fa-angle-double-up"></i></a></p>
+</div>
+</div>
