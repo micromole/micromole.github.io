@@ -17,8 +17,10 @@ date: 2025-01-05 00:01:00 +0800
     <p class="card-text">
       Ludwig-Maximilians-Universität München
              </p>
+         <p class="card-text">
+       <img src="/assets/logo/logo64_LMU.png" alt="LMU Logo" class="img-fluid logo-img">
+                </p>
      </div>
-     <img src="/assets/logo/logo64_LMU.png" alt="LMU Logo" class="img-fluid logo-img">
-</div>
+     </div>
 
 
