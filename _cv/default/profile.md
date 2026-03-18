@@ -5,7 +5,7 @@ date: 2025-01-05 00:01:00 +0800
 ---
 <div>
      <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1px;">
-       <img data-src="{{ 'assets/images/photos/588694.jpg' | relative_url }}" alt="Wilt Disease" class="lazy rounded frame-img" 
+       <img data-src="{{ 'assets/images/photos/588694.jpg' | relative_url }}" alt="Wilt Disease" class="lazy rounded w-80" 
            src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Wilt Disease">
      </div>
   <a href="{{ 'assets/images/photos/IMG_2932wm.jpg' | relative_url }}" target="_blank">
@@ -15,8 +15,9 @@ date: 2025-01-05 00:01:00 +0800
      <h4>Dr. Arne Weinhold</h4>
      <h5>LMU Munich</h5>
     <p class="card-text">
-      Some text for the card en 🏅 finalist no photo contest.
+      Ludwig-Maximilians-Universität München
              </p>
+   <img src="/assets/logo/logo64_LMU.png" alt="LMU Logo" class="img-fluid logo-img">
   </div>
 </div>
 <div> 
