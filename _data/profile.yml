@@ -6,7 +6,7 @@ positions:
 - logo: /assets/logo/icon_LMU.png   # Logo is optional
   name: <strong>LMU Munich, Center for Organismic Adaptation (<a href="https://www.cora.bio.lmu.de/people/index.html" class="external" target="_blank" rel="noopener noreferrer">CORA</a>)</strong>
 - logo: /assets/logo/icon_DFG.png  # Logo is optional
-  name: <strong>PI @ Cellular and Organismic Networks</strong> 🦠🦋
+  name: <strong>Cellular and Organismic Networks</strong>
 
 
 email: "arne.weinhold@bio.lmu.de"
@@ -52,7 +52,7 @@ short_bio: >-
           <div class="col-md-6" style="padding: 0 !important;">
           <h5>My Research</h5> 
           <p>
-          My main research is about <strong>Microbiome Assembly of Butterflies</strong> (<a href="/research">Research <i class="fas fa-angle-double-right"></i></a>).
+          My main research is about <strong>Microbiome Assembly of Butterflies</strong> 🦠🦋 (<a href="/research">Research <i class="fas fa-angle-double-right"></i></a>).
           I am particular interested how solitary pollinators acquire their microbiota.
           My broader interests are microbial transmission among <strong>Plant-Pollinator Networks</strong> in the light of <strong>Pollinator Health</strong> and <strong>Immunity</strong>.
           My past work had the focus on <strong>Microbiome Function</strong> in plants (<a href="/projects">Past Projects <i class="fas fa-angle-double-right"></i></a>).
