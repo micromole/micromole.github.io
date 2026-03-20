@@ -27,11 +27,5 @@ date: 2025-01-05 00:01:00 +0800
                 </p>
      </div>
      </div>
-     {% for position in site.data.profile.positions %}
-{% if position.logo %}
-<img src="{{ position.logo | relative_url }}" alt="Logo" width="20"/>
-{% endif %}
-{{ position.name }}  
-{% endfor %}
 
 
