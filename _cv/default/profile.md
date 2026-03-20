@@ -10,9 +10,6 @@ date: 2025-01-05 00:01:00 +0800
      </div>
   <div class="card-body">
      <h4>Dr. Arne Weinhold</h4>
-      <p class="card-text">
-      <h6>Ludwig-Maximilians-Universität München</h6>
-             </p>
    <div class="text-profile-position">
    {% for position in site.data.profile.positions %}
     {% if position.logo %}
