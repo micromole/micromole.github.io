@@ -14,10 +14,24 @@ date: 2025-01-05 00:01:00 +0800
     <p class="card-text">
       Ludwig-Maximilians-Universität München
              </p>
+<div class="text-profile-position">
+  {% for position in site.data.profile.positions %}
+    {% if position.logo %}
+      <img src="{{ position.logo | relative_url }}" alt="Logo" class="inline-badge"/>
+    {% endif %}
+    {{ position.name }}<br/>
+  {% endfor %}
+</div>
          <p class="card-text">
        <img src="/assets/logo/logo64_LMU.png" alt="LMU Logo" class="img-fluid logo-img">
                 </p>
      </div>
      </div>
+     {% for position in site.data.profile.positions %}
+{% if position.logo %}
+<img src="{{ position.logo | relative_url }}" alt="Logo" width="20"/>
+{% endif %}
+{{ position.name }}  
+{% endfor %}
 
 
