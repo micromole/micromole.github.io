@@ -1,12 +1,14 @@
 ---
 show: true
-width: 4
+width: 6
 date: 2025-01-05 00:01:00 +0800
 ---
 <div>
      <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1px;">
        <img data-src="{{ 'assets/images/photos/AW_logo.jpg' | relative_url }}" alt="Arne Weinhold" class="lazy frame-img rounded-lg" 
-           src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Arne Weinhold" style="max-height: 295px;">
+           src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Arne Weinhold" style="float: left">
+          <p>
+The Text here is between the universities of Munich
      </div>
   <div class="card-body">
      <h4>Dr. Arne Weinhold</h4>
