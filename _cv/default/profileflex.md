@@ -8,7 +8,7 @@ date: 2025-01-05 00:01:00 +0800
   <!-- Profile Image -->
   <img 
     data-src="{{ 'assets/images/photos/AW_logo.jpg' | relative_url }}" 
-    class="lazy frame-img rounded-lg" 
+    alt="Arne Weinhold" class="lazy frame-img rounded-lg" 
     src="{{ '/assets/images/empty_300x200.png' | relative_url }}" 
     data-toggle="tooltip" data-placement="top" title="Arne Weinhold"
     style="max-height: 230px; object-fit: cover; flex-shrink: 0;">
