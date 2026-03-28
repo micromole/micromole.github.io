@@ -142,6 +142,13 @@ html {
     }
 }
 
+.profile-img {
+  width: 48%;
+    margin: 2px;
+    border-radius: 10px !important;
+    object-fit: cover;   /* crop to fit */
+}
+
 .custom-bullet-list {
     list-style: none; /* Remove default bullets */
     padding-left: 1.5em; /* Indent text properly */
