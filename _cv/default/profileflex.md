@@ -7,7 +7,7 @@ date: 2025-01-05 00:01:00 +0800
   
   <!-- Profile Image -->
   <img 
-    data-src="{{ 'assets/images/photos/AW_logo.jpg' | relative_url }}" 
+    data-src="{{ 'assets/images/photos/Cora_logo.jpg' | relative_url }}" 
     alt="Arne Weinhold" class="lazy frame-img rounded-lg" 
     src="{{ '/assets/images/empty_300x200.png' | relative_url }}" 
     data-toggle="tooltip" data-placement="top" title="Arne Weinhold"
@@ -24,7 +24,7 @@ date: 2025-01-05 00:01:00 +0800
         {% endif %}
         {{ position.name }}<br/>
       {% endfor %}
-      <p>optional text here</p>
+      <!-- <p>optional text here</p> -->
     </div>
    </div>
   </div>
