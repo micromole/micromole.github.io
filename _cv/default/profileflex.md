@@ -16,8 +16,7 @@ date: 2025-01-05 00:01:00 +0800
   <!-- Text Content -->
   <div class="card-body" style="flex: 1;">
     <h4>Dr. Arne Weinhold</h4>
-    <p>flexwrap</p>
-    
+      
     <div class="text-profile-position">
       {% for position in site.data.profile.positions %}
         {% if position.logo %}
@@ -26,6 +25,7 @@ date: 2025-01-05 00:01:00 +0800
         {{ position.name }}<br/>
       {% endfor %}
     </div>
+    <p>flexwrap</p>
   </div>
 
 </div>
