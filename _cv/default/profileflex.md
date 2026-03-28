@@ -25,7 +25,6 @@ date: 2025-01-05 00:01:00 +0800
         {{ position.name }}<br/>
       {% endfor %}
     </div>
-    <p>flexwrap</p>
-  </div>
-
+   </div>
+   <p>optional text here</p>
 </div>
