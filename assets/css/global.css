@@ -143,7 +143,7 @@ html {
 }
 
 .profile-img {
-  width: 48%;
+    width: 48%;
     margin: 2px;
     border-radius: 10px !important;
     object-fit: cover;   /* crop to fit */
