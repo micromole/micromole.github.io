@@ -3,7 +3,7 @@ show: true
 width: 6
 date: 2025-01-05 00:01:00 +0800
 ---
-<div class="p-4" style="display: flex; gap: 10px; align-items: flex-start; flex-wrap: wrap;">
+<div class="p-4" style="display: flex; gap: 5px; align-items: flex-start; flex-wrap: wrap;">
   
   <!-- Profile Image -->
   <img 
@@ -15,7 +15,8 @@ date: 2025-01-05 00:01:00 +0800
 
   <!-- Text Content -->
   <div class="card-body" style="flex: 1;">
-    <h4>Dr. Name</h4>
+    <h4>Dr. Arne Weinhold</h4>
+    <p>flexwrap</p>
     
     <div class="text-profile-position">
       {% for position in site.data.profile.positions %}
