@@ -3,7 +3,7 @@ show: true
 width: 6
 date: 2025-01-05 00:01:00 +0800
 ---
-<div class="p-4" style="display: flex; gap: 5px; align-items: flex-start; flex-wrap: wrap;">
+<div class="p-4" style="display: flex; gap: 0px; align-items: flex-start; flex-wrap: wrap;">
   
   <!-- Profile Image -->
   <img 
