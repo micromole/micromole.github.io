@@ -25,7 +25,6 @@ date: 2025-01-05 00:01:00 +0800
         {{ position.name }}<br/>
       {% endfor %}
       <!-- <p>optional text here</p> -->
-      <p> During my PhD I did six research trips to Utah (USA) for field work on plant-microbe-herbivore interactions. At Freie Universität Berlin I shifted my focus on insect-microbe symbiosis and started working with butterflies as postdoctoral researchert at the Collaborative Research Center (CRC 973). I work now as a researcher at Ludwig-Maximilians-Universität München (LMU Munich) on pollinator-microbe interactions, with special interest on solitary pollinators.</p>
-    </div>
+      </div>
    </div>
   </div>
