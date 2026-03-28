@@ -14,7 +14,7 @@ date: 2025-01-05 00:01:00 +0800
     style="max-height: 230px; object-fit: cover; flex-shrink: 0;">
 
   <!-- Text Content -->
-  <div class="card-body" style="flex: 1;">
+  <div class="p-4" style="flex: 1;">
     <h4>Dr. Arne Weinhold</h4>
       
     <div class="text-profile-position">
