@@ -6,7 +6,7 @@ positions:
 - logo: /assets/logo/icon_LMU.png   # Logo is optional
   name: <strong>Ludwig-Maximilians-Universität München</strong>
 - logo: /assets/logo/icon_DFG.png  # Logo is optional
-  name: <strong>Cellular and Organismic Networks (<a href="https://www.cora.bio.lmu.de/people/index.html" class="external" target="_blank" rel="noopener noreferrer">CORA</a>)</strong>
+  name: <strong>Cellular and Organismic Networks (<a href="https://www.bio.lmu.de/en/people/contact-page/arne-weinhold-06733560.html" class="external" target="_blank" rel="noopener noreferrer">bio.lmu.de</a>)</strong>
 
 
 email: "arne.weinhold@bio.lmu.de"
