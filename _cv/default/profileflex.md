@@ -24,6 +24,13 @@ date: 2025-01-05 00:01:00 +0800
         {% endif %}
         {{ position.name }}<br/>
       {% endfor %}
+
+  {% if site.data.profile.email %}
+        <a href="mailto:{{ site.data.profile.email | encode_email }}"><i class="fas fa-envelope"></i> Mail</a>
+        {% assign first = false %}
+    {% endif %}
+
+      
       <!-- <p>optional text here</p> -->
       </div>
    </div>
