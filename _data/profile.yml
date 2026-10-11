@@ -40,8 +40,8 @@ short_bio: >-
         <h5>About Me</h5> <p>
         Hello there! I consider myself as <b><ins>Micro</ins>bial <ins>Mol</ins>ecular <ins>E</ins>cologist</b> (<code>mi·cro·mole</code>).
         I have been trained cross-disciplinary in <strong>Microbiology</strong> and <strong>Chemical Ecology</strong> at the interfaces 
-        of molecular and organismic disciplines and combine <strong>ecological field work</strong> with <strong>DNA metabarcoding</strong>. 
-        (<a href="#CV">CV <i class="fas fa-angle-double-down"></i></a>)
+        of molecular and organismic disciplines and combine <strong>ecological field work</strong> with <strong>DNA metabarcoding</strong> 
+         (<a href="/cv">CV <i class="fas fa-angle-double-right"></i></a>).
         </p>
         </div> 
           <img src="assets/images/covers/dispersal.png" 
