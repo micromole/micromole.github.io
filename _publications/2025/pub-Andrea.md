@@ -1,7 +1,7 @@
 ---
 title:          "Host identity, more than elevation, shapes bee microbiomes along a tropical elevation gradient"
 date:           2025-09-18 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "Frontiers in Microbiology"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
