@@ -39,5 +39,5 @@ authors:
   - Keller A*
 links:
   pdf: /pdf/cb14c278-390a-442d-a087-2d4d874efdaf.pdf
-  doi: https://doi.org/10.64898/2026.02.27.708436
+  doi: https://doi.org/10.21203/rs.3.rs-10314404/v1
 ---
