@@ -1,7 +1,7 @@
 ---
 title:          "Blüten, Bestäuber und ihre Bakterien – eine Dreiecksbeziehung"
 date:           2025-06-18 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "Biospektrum"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
