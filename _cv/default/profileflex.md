@@ -35,13 +35,7 @@ date: 2025-01-05 00:01:00 +0800
         <a target="_blank" href="https://scholar.google.com/citations?user={{ site.data.profile.gscholar }}"><i class="fab fa-google"></i> Google Scholar</a>
         {% assign first = false %}
     {% endif %}
-
-       
-  {% if site.data.profile.github %}
-        {% unless first %} | {% endunless %}
-        <a target="_blank" href="https://github.com/{{ site.data.profile.github }}"><i class="fab fa-github"></i> GitHub</a>
-    {% endif %}
-
+     
       
       <!-- <p>optional text here</p> -->
   </div>
